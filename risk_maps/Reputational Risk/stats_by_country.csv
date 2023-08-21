@@ -1,0 +1,208 @@
+SOV_A3,SOVEREIGNTY,ADMIN,RISK_TYPE,RISK_MEDIAN,RISK_MEAN,RISK_STD,RISK_MAX,RISK_MIN
+ZWE,Zimbabwe,Zimbabwe,Reputational Risk,10.0,9.936167887200787,0.3107928585247156,10,7
+ZMB,Zambia,Zambia,Reputational Risk,8.0,8.501952950296669,0.722934305872408,10,8
+YEM,Yemen,Yemen,Reputational Risk,8.0,8.203382417261992,0.5807428125299723,9,4
+VNM,Vietnam,Vietnam,Reputational Risk,7.0,7.051154787902853,0.8842573240211866,10,2
+VEN,Venezuela,Venezuela,Reputational Risk,8.0,8.085330801211313,1.0143364251367213,10,6
+VAT,Vatican,Vatican,Reputational Risk,--,--,--,--,--
+VUT,Vanuatu,Vanuatu,Reputational Risk,7.0,7.422480620155039,1.2697274510744496,9,4
+UZB,Uzbekistan,Uzbekistan,Reputational Risk,7.0,6.911092646447861,0.5738177654663532,10,5
+URY,Uruguay,Uruguay,Reputational Risk,5.0,5.269172361427486,1.3180103956696854,10,4
+FSM,Federated States of Micronesia,Federated States of Micronesia,Reputational Risk,7.0,6.961538461538462,0.8076923076923077,9,5
+MHL,Marshall Islands,Marshall Islands,Reputational Risk,9.0,9.0,0.0,9,9
+US1,United States of America,United States of America,Reputational Risk,7.0,7.137219109338908,1.2415817448844688,10,4
+GB1,United Kingdom,Jersey,Reputational Risk,8.5,8.5,0.5,9,8
+GB1,United Kingdom,Guernsey,Reputational Risk,8.0,8.0,0.0,8,8
+GB1,United Kingdom,Isle of Man,Reputational Risk,6.0,6.181818181818182,0.4231587892051194,8,6
+GB1,United Kingdom,United Kingdom,Reputational Risk,8.0,7.523694423639954,1.4457697522031172,10,4
+ARE,United Arab Emirates,United Arab Emirates,Reputational Risk,8.0,7.774490650293051,0.8349383744645126,9,6
+UKR,Ukraine,Ukraine,Reputational Risk,6.0,6.2137132839612175,0.5525215710881803,9,4
+UGA,Uganda,Uganda,Reputational Risk,9.0,9.257395577395577,0.4863625186403452,10,8
+TKM,Turkmenistan,Turkmenistan,Reputational Risk,7.0,6.852769901521388,0.6257779902371441,10,5
+TUR,Turkey,Turkey,Reputational Risk,8.0,8.019321177706901,0.19731384159135337,10,6
+TUN,Tunisia,Tunisia,Reputational Risk,7.0,6.830397164599187,0.5848299583144404,10,6
+TTO,Trinidad and Tobago,Trinidad and Tobago,Reputational Risk,8.0,8.123853211009175,0.3430567082254722,10,8
+TON,Tonga,Tonga,Reputational Risk,6.0,6.0,0.0,6,6
+TGO,Togo,Togo,Reputational Risk,8.0,8.317162657969833,0.5877009079066398,9,7
+TLS,East Timor,East Timor,Reputational Risk,8.0,7.952978056426332,0.4200860892751534,9,7
+THA,Thailand,Thailand,Reputational Risk,8.0,8.130834694403852,0.8919474902580172,10,7
+TZA,United Republic of Tanzania,United Republic of Tanzania,Reputational Risk,8.0,8.35844640856467,0.6826338490642854,10,7
+TJK,Tajikistan,Tajikistan,Reputational Risk,7.0,7.763606490039022,0.9756652016720341,10,6
+TWN,Taiwan,Taiwan,Reputational Risk,9.0,9.371730662214803,0.48326698313059513,10,9
+SYR,Syria,Syria,Reputational Risk,9.0,8.572485588918523,0.4993914296366188,10,7
+CHE,Switzerland,Switzerland,Reputational Risk,6.0,5.9410492157923205,1.0904408793056493,8,3
+SWE,Sweden,Sweden,Reputational Risk,6.0,5.510602017428277,2.088483942606943,10,2
+SWZ,eSwatini,eSwatini,Reputational Risk,9.0,9.11864406779661,0.8494214534114713,10,8
+SUR,Suriname,Suriname,Reputational Risk,8.0,7.9623164763458405,0.8202469593933946,10,6
+SDS,South Sudan,South Sudan,Reputational Risk,9.0,9.285058681913933,0.46369168636619296,10,7
+SDN,Sudan,Sudan,Reputational Risk,10.0,9.944372284148876,0.30779089970231216,10,4
+LKA,Sri Lanka,Sri Lanka,Reputational Risk,8.0,8.173835762531105,0.9171111679955942,9,6
+ESP,Spain,Spain,Reputational Risk,7.0,6.643604778605875,1.4399739481586722,10,4
+KOR,South Korea,South Korea,Reputational Risk,6.0,6.811185468451243,0.9551156067188996,9,6
+ZAF,South Africa,South Africa,Reputational Risk,8.0,8.298236460398623,0.5155485754758576,10,7
+SOM,Somalia,Somalia,Reputational Risk,9.0,8.979641734444389,0.2522978404031785,10,4
+SOL,Somaliland,Somaliland,Reputational Risk,9.0,8.97349629222741,0.2036082048226918,10,7
+SLB,Solomon Islands,Solomon Islands,Reputational Risk,8.0,8.092475067996373,0.9514828542851006,9,4
+SVK,Slovakia,Slovakia,Reputational Risk,5.0,4.791693565741339,0.6865487035648712,7,3
+SVN,Slovenia,Slovenia,Reputational Risk,5.0,5.293083900226757,0.7124880647378302,9,4
+SGP,Singapore,Singapore,Reputational Risk,6.0,5.909090909090909,0.28747978728803447,6,5
+SLE,Sierra Leone,Sierra Leone,Reputational Risk,9.0,8.943579766536965,0.3291811162883246,10,8
+SYC,Seychelles,Seychelles,Reputational Risk,10.0,10.0,0.0,10,10
+SRB,Republic of Serbia,Republic of Serbia,Reputational Risk,6.0,5.656704617330803,0.815693025198545,8,3
+SEN,Senegal,Senegal,Reputational Risk,7.0,7.805520845166421,0.982121890966579,10,7
+SAU,Saudi Arabia,Saudi Arabia,Reputational Risk,6.0,6.483528795058125,0.7022851683610418,9,4
+STP,São Tomé and Principe,São Tomé and Principe,Reputational Risk,10.0,9.933333333333334,0.2494438257849294,10,9
+SMR,San Marino,San Marino,Reputational Risk,8.0,8.0,0.0,8,8
+WSM,Samoa,Samoa,Reputational Risk,10.0,10.0,0.0,10,10
+VCT,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,Reputational Risk,7.0,7.142857142857143,0.3499271061118826,8,7
+LCA,Saint Lucia,Saint Lucia,Reputational Risk,7.0,7.208333333333333,0.40611643103370687,8,7
+KNA,Saint Kitts and Nevis,Saint Kitts and Nevis,Reputational Risk,7.0,7.454545454545454,0.4979295977319692,8,7
+RWA,Rwanda,Rwanda,Reputational Risk,9.0,8.812206572769954,0.7496110506661053,10,8
+RUS,Russia,Russia,Reputational Risk,7.0,7.701384901686406,0.8853966951602661,10,3
+ROU,Romania,Romania,Reputational Risk,5.0,5.480379156230048,0.5651160892576818,9,3
+QAT,Qatar,Qatar,Reputational Risk,7.0,7.495590828924162,0.5815186847618732,9,6
+PRT,Portugal,Portugal,Reputational Risk,6.0,5.81261711430356,0.8516747414747758,9,4
+POL,Poland,Poland,Reputational Risk,5.0,5.6597671410090555,1.2025121530919456,9,4
+PHL,Philippines,Philippines,Reputational Risk,8.0,8.42,0.5828866637221151,10,4
+PER,Peru,Peru,Reputational Risk,9.0,8.661273346772036,0.945207210448346,10,4
+PRY,Paraguay,Paraguay,Reputational Risk,6.0,6.688950276243094,0.9124582529209928,9,6
+PNG,Papua New Guinea,Papua New Guinea,Reputational Risk,9.0,8.782226958993098,0.6459898425099534,10,4
+PAN,Panama,Panama,Reputational Risk,9.0,8.357592942659105,0.9714143687902824,10,6
+PLW,Palau,Palau,Reputational Risk,8.0,7.75,0.82915619758885,10,7
+PAK,Pakistan,Pakistan,Reputational Risk,8.0,8.298451987093085,0.5857855284184911,10,4
+OMN,Oman,Oman,Reputational Risk,7.0,6.739823245848956,0.8325589072551457,9,4
+NOR,Norway,Norway,Reputational Risk,5.0,5.5369266595511695,1.3307846793161648,10,2
+PRK,North Korea,North Korea,Reputational Risk,7.0,7.158648925281474,0.4640719341468694,9,7
+NGA,Nigeria,Nigeria,Reputational Risk,8.0,8.19230084670345,0.4517624549252388,10,7
+NER,Niger,Niger,Reputational Risk,8.0,8.276013464071418,0.5997021806794431,10,7
+NIC,Nicaragua,Nicaragua,Reputational Risk,8.0,8.45510455104551,0.8661298108246296,10,7
+NZ1,New Zealand,New Zealand,Reputational Risk,6.0,6.602292943269421,1.4869673938633443,10,4
+NL1,Netherlands,Netherlands,Reputational Risk,8.0,7.57685790365529,0.9438800845645748,10,4
+NL1,Netherlands,Aruba,Reputational Risk,7.5,7.5,0.5,8,7
+NL1,Netherlands,Curaçao,Reputational Risk,7.5,7.5,0.5,8,7
+NPL,Nepal,Nepal,Reputational Risk,9.0,8.828722334004024,0.8689768130241606,10,8
+NRU,Nauru,Nauru,Reputational Risk,5.0,5.0,0.0,5,5
+NAM,Namibia,Namibia,Reputational Risk,8.0,8.400044534613292,0.6575700984358342,10,7
+MOZ,Mozambique,Mozambique,Reputational Risk,9.0,9.137709137709138,0.38753196269559825,10,7
+MAR,Morocco,Morocco,Reputational Risk,6.0,6.475039911580499,0.5956035313044764,9,6
+SAH,Western Sahara,Western Sahara,Reputational Risk,6.0,6.340518179838885,0.7453213625921689,9,6
+MNE,Montenegro,Montenegro,Reputational Risk,6.0,5.904985888993415,0.527158533340843,8,5
+MNG,Mongolia,Mongolia,Reputational Risk,6.0,6.462499821461728,0.9982687746733159,10,5
+MDA,Moldova,Moldova,Reputational Risk,6.0,5.610501827849784,0.6581816654736633,8,5
+MCO,Monaco,Monaco,Reputational Risk,8.0,8.0,0.0,8,8
+MEX,Mexico,Mexico,Reputational Risk,8.0,8.116252548291383,1.0121972108997435,10,6
+MUS,Mauritius,Mauritius,Reputational Risk,10.0,10.0,0.0,10,10
+MRT,Mauritania,Mauritania,Reputational Risk,8.0,7.994791561522156,0.29389866486924576,10,6
+MLT,Malta,Malta,Reputational Risk,7.0,7.266666666666667,0.4422166387140533,8,7
+MLI,Mali,Mali,Reputational Risk,8.0,8.10118822111245,0.3532773081128634,9,7
+MDV,Maldives,Maldives,Reputational Risk,4.0,4.0,0.0,4,4
+MYS,Malaysia,Malaysia,Reputational Risk,8.0,8.153193648952367,0.9814232552114855,10,5
+MWI,Malawi,Malawi,Reputational Risk,8.0,8.013590033975085,0.811978731071158,10,7
+MDG,Madagascar,Madagascar,Reputational Risk,8.0,8.27476755370311,1.0529719270587445,10,4
+MKD,North Macedonia,North Macedonia,Reputational Risk,5.0,5.969457609268035,1.157030514301833,9,5
+LUX,Luxembourg,Luxembourg,Reputational Risk,5.0,5.574712643678161,1.0681618533782935,8,5
+LTU,Lithuania,Lithuania,Reputational Risk,4.0,4.695943520402058,1.0206901402930861,9,3
+LIE,Liechtenstein,Liechtenstein,Reputational Risk,6.0,5.636363636363637,0.642824346533225,6,4
+LBY,Libya,Libya,Reputational Risk,7.0,7.397696768270717,0.5657025111343885,10,6
+LBR,Liberia,Liberia,Reputational Risk,8.0,8.514166050751417,0.7957040747944193,10,8
+LSO,Lesotho,Lesotho,Reputational Risk,7.0,7.4140625,0.49255938331712856,8,7
+LBN,Lebanon,Lebanon,Reputational Risk,9.0,8.819376026272579,0.5732564239236744,10,7
+LVA,Latvia,Latvia,Reputational Risk,5.0,4.937020993002332,1.304444802047878,9,3
+LAO,Laos,Laos,Reputational Risk,8.0,8.172352389878164,0.5537673609620939,10,6
+KGZ,Kyrgyzstan,Kyrgyzstan,Reputational Risk,6.0,6.307298335467349,0.8058649991222828,10,5
+KWT,Kuwait,Kuwait,Reputational Risk,7.0,7.293873312564902,0.7970831120935693,9,6
+KIR,Kiribati,Kiribati,Reputational Risk,6.0,5.7560975609756095,1.1848739318527919,10,4
+KEN,Kenya,Kenya,Reputational Risk,9.0,9.198779704560051,0.43099836412347603,10,5
+JOR,Jordan,Jordan,Reputational Risk,7.0,7.445993715632365,0.5922629375831837,9,6
+JPN,Japan,Japan,Reputational Risk,8.0,6.953083541046876,1.242170114002247,10,4
+JAM,Jamaica,Jamaica,Reputational Risk,7.0,7.092702169625246,0.30331175994857723,9,7
+ITA,Italy,Italy,Reputational Risk,7.0,6.663710777626194,1.4899811871894633,10,4
+IS1,Israel,Palestine,Reputational Risk,8.0,7.783783783783784,0.42459106781957795,9,7
+IRL,Ireland,Ireland,Reputational Risk,4.0,4.5099750623441395,1.0297447808037568,10,3
+IRQ,Iraq,Iraq,Reputational Risk,8.0,8.223477594791268,0.5631682628813967,10,6
+IRN,Iran,Iran,Reputational Risk,7.0,7.679985028539347,1.0942407080148946,10,5
+IDN,Indonesia,Indonesia,Reputational Risk,8.0,8.84069010168717,1.0215202272803467,10,4
+IND,India,India,Reputational Risk,10.0,9.941839268814746,0.33192753282643433,10,4
+ISL,Iceland,Iceland,Reputational Risk,5.0,5.136403859930049,0.9764722146507028,9,2
+HUN,Hungary,Hungary,Reputational Risk,6.0,5.613121366710168,0.9098261902069568,7,3
+HND,Honduras,Honduras,Reputational Risk,8.0,8.509019607843138,0.7998265863566825,10,6
+HTI,Haiti,Haiti,Reputational Risk,9.0,8.772292993630574,0.41935250758723336,9,8
+GUY,Guyana,Guyana,Reputational Risk,9.0,8.633642354518038,0.7317798320824348,10,6
+GNB,Guinea-Bissau,Guinea-Bissau,Reputational Risk,8.0,8.17153024911032,0.7966393871394578,9,7
+GIN,Guinea,Guinea,Reputational Risk,8.0,8.501462678116448,0.5123028558822011,10,8
+GTM,Guatemala,Guatemala,Reputational Risk,9.0,8.856997558991049,0.8314492337537783,10,8
+GRD,Grenada,Grenada,Reputational Risk,7.0,7.384615384615385,0.4865042554105199,8,7
+GRC,Greece,Greece,Reputational Risk,7.0,6.690523525513585,0.7711989608739398,9,5
+GHA,Ghana,Ghana,Reputational Risk,8.0,7.591822794691647,0.6077815354449219,9,7
+DEU,Germany,Germany,Reputational Risk,6.0,6.152178499841756,2.038724235777151,10,3
+GEO,Georgia,Georgia,Reputational Risk,7.0,6.724190187535518,0.583348680869832,9,5
+GMB,Gambia,Gambia,Reputational Risk,8.0,7.988962472406181,0.9121994044936486,9,7
+GAB,Gabon,Gabon,Reputational Risk,8.0,8.373992673992674,0.9091825978775253,10,7
+FR1,France,France,Reputational Risk,5.0,5.819867929945449,1.7457372009406626,10,3
+FI1,Finland,Aland,Reputational Risk,6.0,6.4140625,0.5932872374269903,8,6
+FI1,Finland,Finland,Reputational Risk,5.0,5.272681564984983,1.8006663817009292,10,2
+FJI,Fiji,Fiji,Reputational Risk,7.0,7.227594339622642,0.5674694452468035,9,4
+ETH,Ethiopia,Ethiopia,Reputational Risk,8.0,8.124262059035278,0.3525471266755129,10,6
+EST,Estonia,Estonia,Reputational Risk,6.0,6.096430095292277,0.8276803813900593,9,5
+ERI,Eritrea,Eritrea,Reputational Risk,8.0,8.118163887394656,0.6111641402086812,10,4
+GNQ,Equatorial Guinea,Equatorial Guinea,Reputational Risk,9.0,8.960036330608538,0.9387420799105097,10,7
+SLV,El Salvador,El Salvador,Reputational Risk,8.0,7.920265780730897,0.3912938701484507,9,6
+EGY,Egypt,Egypt,Reputational Risk,8.0,8.106236265817989,0.41634018476768386,10,7
+ECU,Ecuador,Ecuador,Reputational Risk,9.0,8.678738099682658,0.9934551805367329,10,7
+DOM,Dominican Republic,Dominican Republic,Reputational Risk,7.0,7.582010582010582,0.6443849287467527,9,7
+DMA,Dominica,Dominica,Reputational Risk,7.0,7.25,0.5,9,7
+DJI,Djibouti,Djibouti,Reputational Risk,7.0,6.868143459915612,0.6097986218138641,9,6
+DN1,Denmark,Greenland,Reputational Risk,6.0,6.088565161890544,0.9024312830361139,9,5
+DN1,Denmark,Denmark,Reputational Risk,7.0,6.516293817156949,1.0821255662098974,10,4
+CZE,Czechia,Czechia,Reputational Risk,5.0,4.717137045512332,0.7336340419333507,8,3
+CYN,Northern Cyprus,Northern Cyprus,Reputational Risk,6.0,6.291479820627803,0.5916224240528077,9,6
+CYP,Cyprus,Cyprus,Reputational Risk,7.0,6.904494382022472,0.47627065111604955,9,6
+HRV,Croatia,Croatia,Reputational Risk,5.0,4.962751971954426,1.0246381797889497,9,3
+CIV,Ivory Coast,Ivory Coast,Reputational Risk,8.0,8.314231692240565,0.6337652676684307,10,7
+CRI,Costa Rica,Costa Rica,Reputational Risk,9.0,8.288729232150876,0.909301113696173,10,7
+COD,Democratic Republic of the Congo,Democratic Republic of the Congo,Reputational Risk,10.0,9.966722787942716,0.22392447554862477,10,8
+COG,Republic of the Congo,Republic of the Congo,Reputational Risk,10.0,9.654985226413798,0.505904178797083,10,8
+COM,Comoros,Comoros,Reputational Risk,8.0,8.215384615384615,0.4110888989503812,9,8
+COL,Colombia,Colombia,Reputational Risk,9.0,8.899114786800764,0.9495328054483834,10,6
+CH1,China,China,Reputational Risk,9.0,9.080488825941972,0.3936856762408725,10,5
+CH1,China,Macao S.A.R,Reputational Risk,9.0,9.0,0.0,9,9
+CH1,China,Hong Kong S.A.R.,Reputational Risk,10.0,9.918367346938776,0.2738042421428314,10,9
+CHL,Chile,Chile,Reputational Risk,8.0,7.739805344456507,1.1505403250854118,10,4
+TCD,Chad,Chad,Reputational Risk,9.0,9.056731671707164,0.36727531491078086,10,7
+CAF,Central African Republic,Central African Republic,Reputational Risk,10.0,9.976580263756253,0.1838077910203121,10,8
+CPV,Cabo Verde,Cabo Verde,Reputational Risk,10.0,10.0,0.0,10,10
+CAN,Canada,Canada,Reputational Risk,5.0,5.334682502601667,1.490875450314086,10,1
+CMR,Cameroon,Cameroon,Reputational Risk,8.0,8.446855870895938,0.6314597710250729,10,7
+KHM,Cambodia,Cambodia,Reputational Risk,9.0,9.287593984962406,0.5869264709225371,10,6
+MMR,Myanmar,Myanmar,Reputational Risk,8.0,8.291625093539537,0.5413043780186501,10,7
+BDI,Burundi,Burundi,Reputational Risk,9.0,9.108771929824561,0.6130970278250047,10,8
+BFA,Burkina Faso,Burkina Faso,Reputational Risk,8.0,7.587989991659716,0.6012685060882489,10,7
+BGR,Bulgaria,Bulgaria,Reputational Risk,6.0,6.118717801946193,0.696864318629057,9,5
+BRN,Brunei,Brunei,Reputational Risk,9.0,8.970338983050848,0.1696503493149797,9,8
+BRA,Brazil,Brazil,Reputational Risk,8.0,8.424189154022232,0.6201478646483564,10,4
+BWA,Botswana,Botswana,Reputational Risk,8.0,8.226354679802956,1.1057851256063407,10,7
+BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,Reputational Risk,6.0,6.22071751009741,0.7449765931127879,7,4
+BOL,Bolivia,Bolivia,Reputational Risk,8.0,7.991565999559269,0.9120799981297966,10,6
+BTN,Bhutan,Bhutan,Reputational Risk,9.0,9.039641340254837,0.5684276714399199,10,7
+BEN,Benin,Benin,Reputational Risk,7.0,7.648428173497812,0.9593584313462782,10,7
+BLZ,Belize,Belize,Reputational Risk,9.0,8.916826003824092,0.551171065404469,10,7
+BEL,Belgium,Belgium,Reputational Risk,6.0,5.5209899749373434,1.2682988517471372,10,3
+BLR,Belarus,Belarus,Reputational Risk,7.0,6.804769669792091,1.452131176960703,9,3
+BRB,Barbados,Barbados,Reputational Risk,7.0,7.1875,0.3903123748998999,8,7
+BGD,Bangladesh,Bangladesh,Reputational Risk,8.0,8.252792475014697,0.576483713494633,10,8
+BHR,Bahrain,Bahrain,Reputational Risk,7.0,7.344827586206897,0.47531202593414557,8,7
+BHS,The Bahamas,The Bahamas,Reputational Risk,7.0,7.2274143302180685,0.7434003585740178,9,6
+AZE,Azerbaijan,Azerbaijan,Reputational Risk,7.0,7.415352429996782,0.668016796198229,10,5
+AUT,Austria,Austria,Reputational Risk,6.0,5.44054858325786,1.264119739481508,10,3
+AU1,Australia,Australia,Reputational Risk,5.0,5.830979842087263,1.3131234905076394,10,4
+ARM,Armenia,Armenia,Reputational Risk,7.0,7.2218045112781954,0.8195531834059192,10,5
+ARG,Argentina,Argentina,Reputational Risk,6.0,6.710855596888739,0.9764880191524751,10,4
+ATG,Antigua and Barbuda,Antigua and Barbuda,Reputational Risk,7.0,7.45,0.5894913061275798,9,7
+AGO,Angola,Angola,Reputational Risk,8.0,8.380152505050138,0.6876059550938801,10,4
+AND,Andorra,Andorra,Reputational Risk,8.0,8.0,0.0,8,8
+DZA,Algeria,Algeria,Reputational Risk,7.0,7.538969847452384,0.7939059743481679,10,6
+ALB,Albania,Albania,Reputational Risk,7.0,6.58719541328237,0.7286823341729061,9,5
+AFG,Afghanistan,Afghanistan,Reputational Risk,10.0,9.892326605880545,0.5070787977811229,10,6
+KAS,Kashmir,Siachen Glacier,Reputational Risk,10.0,9.825757575757576,0.4999426046029218,10,8
+NL1,Netherlands,Sint Maarten,Reputational Risk,7.0,7.0,0.0,7,7
+TUV,Tuvalu,Tuvalu,Reputational Risk,--,--,--,--,--

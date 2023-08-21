@@ -1,0 +1,208 @@
+SOV_A3,SOVEREIGNTY,ADMIN,RISK_TYPE,RISK_MEDIAN,RISK_MEAN,RISK_STD,RISK_MAX,RISK_MIN
+ZWE,Zimbabwe,Zimbabwe,Financial Inequality,10.0,10.0,0.0,10,10
+ZMB,Zambia,Zambia,Financial Inequality,10.0,9.947821938638599,0.34666864070025294,10,6
+YEM,Yemen,Yemen,Financial Inequality,6.0,5.789084900617194,0.9852049446907668,10,1
+VNM,Vietnam,Vietnam,Financial Inequality,3.0,3.156773211567732,0.779239097046405,10,1
+VEN,Venezuela,Venezuela,Financial Inequality,8.0,8.030385464250886,0.2548117050655579,10,5
+VAT,Vatican,Vatican,Financial Inequality,--,--,--,--,--
+VUT,Vanuatu,Vanuatu,Financial Inequality,3.0,2.9186046511627906,0.6327333888564088,10,1
+UZB,Uzbekistan,Uzbekistan,Financial Inequality,3.0,2.7643777078758385,0.6429251057240231,3,1
+URY,Uruguay,Uruguay,Financial Inequality,6.0,6.105163249810174,0.44511598302656236,10,5
+FSM,Federated States of Micronesia,Federated States of Micronesia,Financial Inequality,6.0,5.8076923076923075,0.39411349099844606,6,5
+MHL,Marshall Islands,Marshall Islands,Financial Inequality,1.0,3.25,3.897114317029974,10,1
+US1,United States of America,United States of America,Financial Inequality,6.0,5.985066621343773,0.30707326623969194,10,1
+GB1,United Kingdom,Jersey,Financial Inequality,3.0,2.857142857142857,0.5150787536377127,3,1
+GB1,United Kingdom,Guernsey,Financial Inequality,3.0,3.0,0.0,3,3
+GB1,United Kingdom,Isle of Man,Financial Inequality,1.0,1.0,0.0,1,1
+GB1,United Kingdom,United Kingdom,Financial Inequality,3.0,2.9513855790835435,0.4223845989971505,10,1
+ARE,United Arab Emirates,United Arab Emirates,Financial Inequality,1.0,1.015071169411108,0.3679855765550516,10,1
+UKR,Ukraine,Ukraine,Financial Inequality,1.0,1.0379056205502486,0.30306998923677647,10,1
+UGA,Uganda,Uganda,Financial Inequality,8.0,7.897493857493857,0.42825124010928944,8,6
+TKM,Turkmenistan,Turkmenistan,Financial Inequality,1.0,1.1201865910546054,0.6858921310448258,10,1
+TUR,Turkey,Turkey,Financial Inequality,8.0,7.932578676646817,0.5142184801011238,10,1
+TUN,Tunisia,Tunisia,Financial Inequality,3.0,2.807880746377567,0.641271752538631,10,1
+TTO,Trinidad and Tobago,Trinidad and Tobago,Financial Inequality,6.0,5.977064220183486,0.33786513446459254,10,5
+TON,Tonga,Tonga,Financial Inequality,10.0,10.0,0.0,10,10
+TGO,Togo,Togo,Financial Inequality,8.0,7.81736649001223,0.5559521852251469,8,6
+TLS,East Timor,East Timor,Financial Inequality,1.0,1.3699059561128526,1.2796344221998062,6,1
+THA,Thailand,Thailand,Financial Inequality,3.0,2.9999140376515085,0.46690524561688695,10,1
+TZA,United Republic of Tanzania,United Republic of Tanzania,Financial Inequality,6.0,6.04212622930412,0.34944862119154,10,5
+TJK,Tajikistan,Tajikistan,Financial Inequality,3.0,2.824399260628466,0.6532635054912871,6,1
+TWN,Taiwan,Taiwan,Financial Inequality,6.0,5.9827490261547025,0.1675799459721835,10,5
+SYR,Syria,Syria,Financial Inequality,6.0,5.860621182138862,0.9856671511533975,8,1
+CHE,Switzerland,Switzerland,Financial Inequality,3.0,2.918334234721471,0.39443702611855735,3,1
+SWE,Sweden,Sweden,Financial Inequality,1.0,1.003986137100971,0.18936563737846385,10,1
+SWZ,eSwatini,eSwatini,Financial Inequality,10.0,10.0,0.0,10,10
+SUR,Suriname,Suriname,Financial Inequality,1.0,1.2494290375203916,3.5787031608502855,63,1
+SDS,South Sudan,South Sudan,Financial Inequality,8.0,7.721298525428829,1.1689910406944215,63,1
+SDN,Sudan,Sudan,Financial Inequality,3.0,3.044339221613452,0.6710395620855159,63,1
+LKA,Sri Lanka,Sri Lanka,Financial Inequality,6.0,5.985780305723427,0.16803924793876848,10,5
+ESP,Spain,Spain,Financial Inequality,3.0,2.980710214818062,0.32749982812006745,10,1
+KOR,South Korea,South Korea,Financial Inequality,3.0,2.9192160611854683,0.4302982170681389,10,1
+ZAF,South Africa,South Africa,Financial Inequality,10.0,9.99408178172657,0.08517434614277845,10,8
+SOM,Somalia,Somalia,Financial Inequality,6.0,5.9347836934284715,0.4118741939532981,10,3
+SOL,Somaliland,Somaliland,Financial Inequality,6.0,5.946580609722604,0.44131271825717405,10,3
+SLB,Solomon Islands,Solomon Islands,Financial Inequality,6.0,5.9510426110607435,0.3450942307583566,10,5
+SVK,Slovakia,Slovakia,Financial Inequality,1.0,1.0,0.0,1,1
+SVN,Slovenia,Slovenia,Financial Inequality,1.0,1.0073696145124718,0.2244976693000767,10,1
+SGP,Singapore,Singapore,Financial Inequality,6.0,5.954545454545454,0.20829889522526546,6,5
+SLE,Sierra Leone,Sierra Leone,Financial Inequality,3.0,2.8297665369649807,0.5749943415687904,10,1
+SYC,Seychelles,Seychelles,Financial Inequality,10.0,10.0,0.0,10,10
+SRB,Republic of Serbia,Republic of Serbia,Financial Inequality,3.0,3.021821631878558,0.4720171858304368,6,1
+SEN,Senegal,Senegal,Financial Inequality,6.0,5.778371009882995,0.8606537991415565,10,1
+SAU,Saudi Arabia,Saudi Arabia,Financial Inequality,1.0,1.0474452929870184,0.45986833807235566,10,1
+STP,São Tomé and Principe,São Tomé and Principe,Financial Inequality,1.0,1.0,0.0,1,1
+SMR,San Marino,San Marino,Financial Inequality,3.0,3.0,0.0,3,3
+WSM,Samoa,Samoa,Financial Inequality,10.0,10.0,0.0,10,10
+VCT,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,Financial Inequality,1.0,1.0,0.0,1,1
+LCA,Saint Lucia,Saint Lucia,Financial Inequality,1.0,1.0,0.0,1,1
+KNA,Saint Kitts and Nevis,Saint Kitts and Nevis,Financial Inequality,1.0,1.0,0.0,1,1
+RWA,Rwanda,Rwanda,Financial Inequality,8.0,7.99906103286385,0.03062818108976543,8,7
+RUS,Russia,Russia,Financial Inequality,3.0,3.023349730953995,0.5108376456611734,10,1
+ROU,Romania,Romania,Financial Inequality,3.0,2.9721035312607436,0.40912884949394895,6,1
+QAT,Qatar,Qatar,Financial Inequality,1.0,1.0158730158730158,0.3776310239165181,10,1
+PRT,Portugal,Portugal,Financial Inequality,3.0,3.141630231105559,1.0962816448260548,10,1
+POL,Poland,Poland,Financial Inequality,1.0,1.0146614920224235,0.28846456465504255,10,1
+PHL,Philippines,Philippines,Financial Inequality,8.0,7.973333333333334,0.25528658764233064,10,5
+PER,Peru,Peru,Financial Inequality,8.0,8.013004620297197,0.18144475086585227,10,5
+PRY,Paraguay,Paraguay,Financial Inequality,8.0,8.0,0.0,8,8
+PNG,Papua New Guinea,Papua New Guinea,Financial Inequality,1.0,1.1080491270807957,0.7580587281638281,10,1
+PAN,Panama,Panama,Financial Inequality,8.0,8.03182104599874,0.29689958201434397,10,5
+PLW,Palau,Palau,Financial Inequality,6.0,6.125,1.0532687216470449,10,5
+PAK,Pakistan,Pakistan,Financial Inequality,1.0,1.102438426663399,0.5962168997866754,10,1
+OMN,Oman,Oman,Financial Inequality,1.0,1.047402249598286,0.4939673028210685,10,1
+NOR,Norway,Norway,Financial Inequality,1.0,1.2469193130310634,1.4676747054083406,10,1
+PRK,North Korea,North Korea,Financial Inequality,1.0,1.2881837825543045,1.024644704075655,10,1
+NGA,Nigeria,Nigeria,Financial Inequality,3.0,3.091789773449617,0.5660754163944242,8,1
+NER,Niger,Niger,Financial Inequality,6.0,5.912629884384604,0.6088930729834083,8,1
+NIC,Nicaragua,Nicaragua,Financial Inequality,8.0,7.997188543314005,0.07948505051135397,10,6
+NZ1,New Zealand,New Zealand,Financial Inequality,1.0,1.0680470448705277,0.7796108025926385,10,1
+NL1,Netherlands,Netherlands,Financial Inequality,1.0,1.47518760590656,1.8291995866937663,10,1
+NL1,Netherlands,Aruba,Financial Inequality,1.0,1.0,0.0,1,1
+NL1,Netherlands,Curaçao,Financial Inequality,1.0,1.0,0.0,1,1
+NPL,Nepal,Nepal,Financial Inequality,3.0,3.092303822937626,0.4992762611572916,6,3
+NRU,Nauru,Nauru,Financial Inequality,1.0,1.0,0.0,1,1
+NAM,Namibia,Namibia,Financial Inequality,10.0,9.996511455292197,0.05896079005258587,10,9
+MOZ,Mozambique,Mozambique,Financial Inequality,10.0,9.930337632465292,0.4788234087419578,10,6
+MAR,Morocco,Morocco,Financial Inequality,6.0,4.5373940808055995,2.2626386745637106,10,1
+SAH,Western Sahara,Western Sahara,Financial Inequality,1.0,1.2734596124537338,0.6871237626979011,3,1
+MNE,Montenegro,Montenegro,Financial Inequality,6.0,4.931326434619002,1.6229732508080252,6,1
+MNG,Mongolia,Mongolia,Financial Inequality,3.0,3.0757645008784085,0.45890972391620494,6,3
+MDA,Moldova,Moldova,Financial Inequality,1.0,1.0129611166500498,0.15944248627929525,3,1
+MCO,Monaco,Monaco,Financial Inequality,3.0,3.0,0.0,3,3
+MEX,Mexico,Mexico,Financial Inequality,8.0,7.980178834547766,0.21046513691240634,10,5
+MUS,Mauritius,Mauritius,Financial Inequality,10.0,10.0,0.0,10,10
+MRT,Mauritania,Mauritania,Financial Inequality,3.0,2.959806197638034,0.3130025710084583,6,1
+MLT,Malta,Malta,Financial Inequality,3.0,3.0,0.0,3,3
+MLI,Mali,Mali,Financial Inequality,3.0,3.020096435336663,0.5114421352297283,8,1
+MDV,Maldives,Maldives,Financial Inequality,10.0,10.0,0.0,10,10
+MYS,Malaysia,Malaysia,Financial Inequality,6.0,5.963677227579207,0.34088713326998415,10,1
+MWI,Malawi,Malawi,Financial Inequality,6.0,6.294639486598716,0.9383675939109714,10,6
+MDG,Madagascar,Madagascar,Financial Inequality,8.0,7.994264543479035,0.14523122595189478,10,5
+MKD,North Macedonia,North Macedonia,Financial Inequality,3.0,3.0010531858873093,0.26364589767695623,6,1
+LUX,Luxembourg,Luxembourg,Financial Inequality,3.0,2.996168582375479,0.06177975286052528,3,2
+LTU,Lithuania,Lithuania,Financial Inequality,3.0,2.90223764508795,0.4714066841071003,10,1
+LIE,Liechtenstein,Liechtenstein,Financial Inequality,3.0,2.8181818181818183,0.5749595745760689,3,1
+LBY,Libya,Libya,Financial Inequality,1.0,1.0727110036837764,0.5335593395085567,10,1
+LBR,Liberia,Liberia,Financial Inequality,3.0,3.027839369302784,0.5549069226885648,6,1
+LSO,Lesotho,Lesotho,Financial Inequality,8.0,8.266826923076923,0.6474473017210877,10,8
+LBN,Lebanon,Lebanon,Financial Inequality,3.0,4.006568144499179,1.4072144207548118,6,1
+LVA,Latvia,Latvia,Financial Inequality,3.0,2.9601244029767857,0.3350535410021396,10,1
+LAO,Laos,Laos,Financial Inequality,6.0,5.770946579194002,0.8518238572288027,6,1
+KGZ,Kyrgyzstan,Kyrgyzstan,Financial Inequality,1.0,1.1117325965361546,0.6092900838602145,6,1
+KWT,Kuwait,Kuwait,Financial Inequality,1.0,1.0,0.0,1,1
+KIR,Kiribati,Kiribati,Financial Inequality,10.0,7.365853658536586,4.094946901356065,10,1
+KEN,Kenya,Kenya,Financial Inequality,6.0,6.014651573538857,0.4283830639046819,8,3
+JOR,Jordan,Jordan,Financial Inequality,3.0,3.071681068342498,0.9653091533791658,6,1
+JPN,Japan,Japan,Financial Inequality,3.0,2.993889201575943,0.3988541499036639,10,1
+JAM,Jamaica,Jamaica,Financial Inequality,8.0,7.990138067061144,0.13286918968914627,8,6
+ITA,Italy,Italy,Financial Inequality,3.0,2.9783424283765347,0.23677484556096642,10,1
+IS1,Israel,Palestine,Financial Inequality,3.0,3.6,1.9856240083919972,6,1
+IRL,Ireland,Ireland,Financial Inequality,1.0,1.0586034912718205,0.40081842069926243,10,1
+IRQ,Iraq,Iraq,Financial Inequality,1.0,1.2011872845653007,1.0417953450409554,8,1
+IRN,Iran,Iran,Financial Inequality,6.0,5.9084973436054185,0.6631303005795555,10,1
+IDN,Indonesia,Indonesia,Financial Inequality,6.0,5.98166838049536,0.2934571315079016,10,1
+IND,India,India,Financial Inequality,3.0,2.9458407169578833,0.38246918669280877,10,1
+ISL,Iceland,Iceland,Financial Inequality,1.0,1.0606801230458052,0.7365046028908384,10,1
+HUN,Hungary,Hungary,Financial Inequality,1.0,1.1768893107130145,0.5667307780530437,3,1
+HND,Honduras,Honduras,Financial Inequality,8.0,7.977647058823529,0.27775421660938043,10,5
+HTI,Haiti,Haiti,Financial Inequality,6.0,5.959394904458598,0.19737355891171174,6,5
+GUY,Guyana,Guyana,Financial Inequality,8.0,7.979448229643695,3.613059117748447,63,1
+GNB,Guinea-Bissau,Guinea-Bissau,Financial Inequality,3.0,2.969395017793594,0.9053750076400184,6,1
+GIN,Guinea,Guinea,Financial Inequality,1.0,1.172124186090403,0.8253123425869602,10,1
+GTM,Guatemala,Guatemala,Financial Inequality,8.0,8.044751830756713,0.2881418957417973,10,7
+GRD,Grenada,Grenada,Financial Inequality,1.0,1.0,0.0,1,1
+GRC,Greece,Greece,Financial Inequality,3.0,3.047713717693837,0.7128926995696151,10,1
+GHA,Ghana,Ghana,Financial Inequality,8.0,7.975214676034348,0.2159037175977155,10,5
+DEU,Germany,Germany,Financial Inequality,3.0,2.946144108028273,0.38731965773029653,10,1
+GEO,Georgia,Georgia,Financial Inequality,3.0,3.027467323356696,0.58861736241765,10,1
+GMB,Gambia,Gambia,Financial Inequality,6.0,5.022075055187638,1.3153695369170137,6,3
+GAB,Gabon,Gabon,Financial Inequality,6.0,5.972985347985348,0.8251446025818348,10,1
+FR1,France,France,Financial Inequality,3.0,2.931687242798354,1.6304077214334505,63,1
+FI1,Finland,Aland,Financial Inequality,1.0,1.0,0.0,1,1
+FI1,Finland,Finland,Financial Inequality,1.0,1.0839121978327313,0.44032666566042633,10,1
+FJI,Fiji,Fiji,Financial Inequality,1.0,1.3502358490566038,1.7405336800949969,10,1
+ETH,Ethiopia,Ethiopia,Financial Inequality,3.0,3.077980047310501,0.5386506818365768,8,1
+EST,Estonia,Estonia,Financial Inequality,1.0,1.1901578722799033,0.7815573406059635,10,1
+ERI,Eritrea,Eritrea,Financial Inequality,1.0,1.1929352698583469,0.7344590504312276,10,1
+GNQ,Equatorial Guinea,Equatorial Guinea,Financial Inequality,1.0,2.7629427792915533,6.940720061572206,63,1
+SLV,El Salvador,El Salvador,Financial Inequality,6.0,6.395348837209302,0.7774938193387415,8,5
+EGY,Egypt,Egypt,Financial Inequality,3.0,2.982098204137304,0.21823388531113783,10,1
+ECU,Ecuador,Ecuador,Financial Inequality,8.0,7.999066641777114,0.1622338766343558,10,5
+DOM,Dominican Republic,Dominican Republic,Financial Inequality,6.0,5.993386243386244,0.26133964471342463,10,5
+DMA,Dominica,Dominica,Financial Inequality,1.0,1.0,0.0,1,1
+DJI,Djibouti,Djibouti,Financial Inequality,6.0,5.735232067510548,0.8038299992309678,6,3
+DN1,Denmark,Greenland,Financial Inequality,1.0,1.1172293350209328,1.0204515168291648,10,1
+DN1,Denmark,Denmark,Financial Inequality,1.0,1.0884269860841993,0.8827321644510149,10,1
+CZE,Czechia,Czechia,Financial Inequality,1.0,1.0511060259344012,0.31276255231969996,3,1
+CYN,Northern Cyprus,Northern Cyprus,Financial Inequality,3.0,2.9461883408071747,0.32361647628105317,3,1
+CYP,Cyprus,Cyprus,Financial Inequality,3.0,2.99438202247191,0.10585080719897062,3,1
+HRV,Croatia,Croatia,Financial Inequality,1.0,1.202892199824715,0.6339299511344232,10,1
+CIV,Ivory Coast,Ivory Coast,Financial Inequality,6.0,5.941095193076867,0.8095624728544227,8,1
+CRI,Costa Rica,Costa Rica,Financial Inequality,8.0,7.989223170184104,0.13358608821884208,8,5
+COD,Democratic Republic of the Congo,Democratic Republic of the Congo,Financial Inequality,8.0,8.028591423587164,0.2741518622014061,10,6
+COG,Republic of the Congo,Republic of the Congo,Financial Inequality,8.0,7.971964543393115,0.2368744364420895,10,5
+COM,Comoros,Comoros,Financial Inequality,8.0,7.876923076923077,0.3724221057510832,8,6
+COL,Colombia,Colombia,Financial Inequality,10.0,9.90229407364309,0.41486054846303955,10,7
+CH1,China,China,Financial Inequality,6.0,5.934410452752654,0.49897346754059346,10,1
+CH1,China,Macao S.A.R,Financial Inequality,6.0,6.0,0.0,6,6
+CH1,China,Hong Kong S.A.R.,Financial Inequality,6.0,5.8979591836734695,0.30270197906512913,6,5
+CHL,Chile,Chile,Financial Inequality,8.0,7.980591585242748,0.27516214034817527,10,5
+TCD,Chad,Chad,Financial Inequality,6.0,5.917231550039976,0.7634480096069376,10,1
+CAF,Central African Republic,Central African Republic,Financial Inequality,10.0,9.907268455358496,0.46639722578997067,10,3
+CPV,Cabo Verde,Cabo Verde,Financial Inequality,10.0,10.0,0.0,10,10
+CAN,Canada,Canada,Financial Inequality,3.0,3.0423665159094178,0.571627325571296,10,1
+CMR,Cameroon,Cameroon,Financial Inequality,8.0,7.922598269843679,0.8195755734821516,63,1
+KHM,Cambodia,Cambodia,Financial Inequality,1.0,1.1339598997493734,0.6009387880336885,6,1
+MMR,Myanmar,Myanmar,Financial Inequality,1.0,1.1119044649538539,0.6406983319466822,10,1
+BDI,Burundi,Burundi,Financial Inequality,6.0,6.424561403508772,0.8037806940480382,8,6
+BFA,Burkina Faso,Burkina Faso,Financial Inequality,8.0,7.808507089241034,0.7936535314699965,8,3
+BGR,Bulgaria,Bulgaria,Financial Inequality,6.0,5.684029765311964,0.9828478737922067,10,3
+BRN,Brunei,Brunei,Financial Inequality,1.0,2.305084745762712,2.157008578973971,6,1
+BRA,Brazil,Brazil,Financial Inequality,8.0,8.002360707628087,0.3817028810840311,63,1
+BWA,Botswana,Botswana,Financial Inequality,10.0,10.0,0.0,10,10
+BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,Financial Inequality,3.0,3.1318602993585176,0.8138468928447878,6,1
+BOL,Bolivia,Bolivia,Financial Inequality,8.0,8.0,0.0,8,8
+BTN,Bhutan,Bhutan,Financial Inequality,6.0,5.497876356772062,1.102089577276039,6,1
+BEN,Benin,Benin,Financial Inequality,6.0,5.940111420612813,0.6223988510640912,8,3
+BLZ,Belize,Belize,Financial Inequality,10.0,9.778202676864245,0.5689067549472183,10,8
+BEL,Belgium,Belgium,Financial Inequality,1.0,1.481203007518797,0.863284836054347,10,1
+BLR,Belarus,Belarus,Financial Inequality,1.0,1.0584997961679576,0.3347670967560646,3,1
+BRB,Barbados,Barbados,Financial Inequality,1.0,1.0,0.0,1,1
+BGD,Bangladesh,Bangladesh,Financial Inequality,3.0,3.0127865961199296,0.3037797280647012,10,1
+BHR,Bahrain,Bahrain,Financial Inequality,1.0,1.0,0.0,1,1
+BHS,The Bahamas,The Bahamas,Financial Inequality,1.0,1.0,0.0,1,1
+AZE,Azerbaijan,Azerbaijan,Financial Inequality,1.0,1.2001931123270035,0.9626898609146596,10,1
+AUT,Austria,Austria,Financial Inequality,1.0,1.1433561909690775,0.5141498075807319,3,1
+AU1,Australia,Australia,Financial Inequality,3.0,2.999288748345782,0.16487324037956652,10,1
+ARM,Armenia,Armenia,Financial Inequality,1.0,1.5643796992481203,1.317746849013163,8,1
+ARG,Argentina,Argentina,Financial Inequality,8.0,7.997627191936887,0.07456869068770482,10,5
+ATG,Antigua and Barbuda,Antigua and Barbuda,Financial Inequality,1.0,1.0,0.0,1,1
+AGO,Angola,Angola,Financial Inequality,10.0,9.954157491492111,0.2825724340693717,10,8
+AND,Andorra,Andorra,Financial Inequality,3.0,3.0,0.0,3,3
+DZA,Algeria,Algeria,Financial Inequality,1.0,1.085174402462339,0.5895651801127069,10,1
+ALB,Albania,Albania,Financial Inequality,1.0,1.431438127090301,1.2165076099409222,10,1
+AFG,Afghanistan,Afghanistan,Financial Inequality,1.0,1.0855701260116792,0.618150619781018,6,1
+KAS,Kashmir,Siachen Glacier,Financial Inequality,3.0,2.9545454545454546,0.5885734727137889,6,1
+NL1,Netherlands,Sint Maarten,Financial Inequality,1.0,1.0,0.0,1,1
+TUV,Tuvalu,Tuvalu,Financial Inequality,--,--,--,--,--

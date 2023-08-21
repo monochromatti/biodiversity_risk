@@ -1,0 +1,208 @@
+SOV_A3,SOVEREIGNTY,ADMIN,RISK_TYPE,RISK_MEDIAN,RISK_MEAN,RISK_STD,RISK_MAX,RISK_MIN
+ZWE,Zimbabwe,Zimbabwe,Wildfire Hazard,10.0,9.42425401683244,0.8936054901742783,10,8
+ZMB,Zambia,Zambia,Wildfire Hazard,9.0,8.97790631801783,0.9883580740642994,10,7
+YEM,Yemen,Yemen,Wildfire Hazard,1.0,2.4004956990814987,2.8248038322452955,10,1
+VNM,Vietnam,Vietnam,Wildfire Hazard,6.0,6.5830189927867115,1.1642208309324713,10,1
+VEN,Venezuela,Venezuela,Wildfire Hazard,6.0,5.930811476671971,2.0834208160865204,10,1
+VAT,Vatican,Vatican,Wildfire Hazard,--,--,--,--,--
+VUT,Vanuatu,Vanuatu,Wildfire Hazard,1.0,1.0348837209302326,0.5592285886702814,10,1
+UZB,Uzbekistan,Uzbekistan,Wildfire Hazard,1.0,4.495311294438839,3.9270370828400174,10,1
+URY,Uruguay,Uruguay,Wildfire Hazard,8.0,7.359908883826879,0.9305427377001304,10,5
+FSM,Federated States of Micronesia,Federated States of Micronesia,Wildfire Hazard,1.0,1.0,0.0,1,1
+MHL,Marshall Islands,Marshall Islands,Wildfire Hazard,1.0,3.25,3.897114317029974,10,1
+US1,United States of America,United States of America,Wildfire Hazard,6.0,5.585979774658395,3.222587810700737,10,1
+GB1,United Kingdom,Jersey,Wildfire Hazard,6.0,5.714285714285714,0.45175395145262565,6,5
+GB1,United Kingdom,Guernsey,Wildfire Hazard,6.0,6.0,0.0,6,6
+GB1,United Kingdom,Isle of Man,Wildfire Hazard,1.0,1.0,0.0,1,1
+GB1,United Kingdom,United Kingdom,Wildfire Hazard,3.0,3.79515898413563,1.7961443124690226,10,1
+ARE,United Arab Emirates,United Arab Emirates,Wildfire Hazard,1.0,1.015071169411108,0.3679855765550516,10,1
+UKR,Ukraine,Ukraine,Wildfire Hazard,8.0,7.622589531680441,0.8000236340847462,10,5
+UGA,Uganda,Uganda,Wildfire Hazard,8.0,7.870466830466831,1.908297549222623,10,1
+TKM,Turkmenistan,Turkmenistan,Wildfire Hazard,1.0,4.3404981859203025,3.8025736463818656,10,1
+TUR,Turkey,Turkey,Wildfire Hazard,8.0,7.98694714330488,0.7416224412622284,10,1
+TUN,Tunisia,Tunisia,Wildfire Hazard,3.0,4.770353382674867,3.9335018797040147,10,1
+TTO,Trinidad and Tobago,Trinidad and Tobago,Wildfire Hazard,1.0,1.0412844036697249,0.6081572420362666,10,1
+TON,Tonga,Tonga,Wildfire Hazard,10.0,10.0,0.0,10,10
+TGO,Togo,Togo,Wildfire Hazard,8.0,8.746840603342845,1.1150287170377986,10,1
+TLS,East Timor,East Timor,Wildfire Hazard,6.0,6.241379310344827,0.7906463232538044,8,3
+THA,Thailand,Thailand,Wildfire Hazard,8.0,7.0278518009112005,1.4886018130221137,10,1
+TZA,United Republic of Tanzania,United Republic of Tanzania,Wildfire Hazard,8.0,7.668542263164447,1.1988240965537793,10,1
+TJK,Tajikistan,Tajikistan,Wildfire Hazard,8.0,8.106181967549805,0.893727017424919,10,6
+TWN,Taiwan,Taiwan,Wildfire Hazard,3.0,2.8152476349471343,1.972355158661586,10,1
+SYR,Syria,Syria,Wildfire Hazard,4.0,5.044308698270671,3.9225288472990263,10,1
+CHE,Switzerland,Switzerland,Wildfire Hazard,3.0,2.9177934018388316,1.2220934872832308,6,1
+SWE,Sweden,Sweden,Wildfire Hazard,1.0,1.6495853310154684,1.069410367701821,10,1
+SWZ,eSwatini,eSwatini,Wildfire Hazard,8.0,8.614689265536724,0.8827339654315898,10,8
+SUR,Suriname,Suriname,Wildfire Hazard,6.0,5.323491027732463,1.2490464416417428,10,1
+SDS,South Sudan,South Sudan,Wildfire Hazard,10.0,9.893921155582305,0.4370059292132638,10,8
+SDN,Sudan,Sudan,Wildfire Hazard,6.0,5.447454184772341,4.359316333958377,10,1
+LKA,Sri Lanka,Sri Lanka,Wildfire Hazard,8.0,7.61215783860647,0.788709927299274,10,5
+ESP,Spain,Spain,Wildfire Hazard,8.0,7.799293073213503,1.3653067095925604,10,1
+KOR,South Korea,South Korea,Wildfire Hazard,6.0,5.634321223709369,1.1662181971788157,10,1
+ZAF,South Africa,South Africa,Wildfire Hazard,10.0,9.549365692222835,1.0068767850667022,10,1
+SOM,Somalia,Somalia,Wildfire Hazard,8.0,8.669876752657053,1.3734366592065343,10,1
+SOL,Somaliland,Somaliland,Wildfire Hazard,10.0,9.020461411700083,2.153985315545309,10,1
+SLB,Solomon Islands,Solomon Islands,Wildfire Hazard,1.0,1.485947416137806,0.9819459028248276,10,1
+SVK,Slovakia,Slovakia,Wildfire Hazard,6.0,6.189369485689692,0.9896554310987342,8,3
+SVN,Slovenia,Slovenia,Wildfire Hazard,6.0,6.132086167800454,0.5228475598168195,10,4
+SGP,Singapore,Singapore,Wildfire Hazard,3.0,3.0,0.0,3,3
+SLE,Sierra Leone,Sierra Leone,Wildfire Hazard,8.0,7.849221789883268,1.1648895301597977,10,1
+SYC,Seychelles,Seychelles,Wildfire Hazard,10.0,10.0,0.0,10,10
+SRB,Republic of Serbia,Republic of Serbia,Wildfire Hazard,8.0,7.636938646426312,0.7632874333520488,8,6
+SEN,Senegal,Senegal,Wildfire Hazard,10.0,9.899693286379643,0.42210170337486214,10,7
+SAU,Saudi Arabia,Saudi Arabia,Wildfire Hazard,1.0,1.0382872002549053,0.48655627353757364,10,1
+STP,São Tomé and Principe,São Tomé and Principe,Wildfire Hazard,1.0,1.0,0.0,1,1
+SMR,San Marino,San Marino,Wildfire Hazard,8.0,8.0,0.0,8,8
+WSM,Samoa,Samoa,Wildfire Hazard,10.0,10.0,0.0,10,10
+VCT,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,Wildfire Hazard,1.0,1.0,0.0,1,1
+LCA,Saint Lucia,Saint Lucia,Wildfire Hazard,1.0,1.0,0.0,1,1
+KNA,Saint Kitts and Nevis,Saint Kitts and Nevis,Wildfire Hazard,1.0,1.0,0.0,1,1
+RWA,Rwanda,Rwanda,Wildfire Hazard,6.0,6.844131455399061,0.9642072428335225,8,6
+RUS,Russia,Russia,Wildfire Hazard,1.0,2.593115018970268,2.2560248748713985,10,1
+ROU,Romania,Romania,Wildfire Hazard,8.0,7.403221845685379,0.9019389491690899,8,5
+QAT,Qatar,Qatar,Wildfire Hazard,1.0,1.0158730158730158,0.3776310239165181,10,1
+PRT,Portugal,Portugal,Wildfire Hazard,8.0,7.692223610243598,1.1238411156315506,10,1
+POL,Poland,Poland,Wildfire Hazard,7.0,6.996636481241914,0.9991602981375451,10,1
+PHL,Philippines,Philippines,Wildfire Hazard,6.0,5.267843137254902,1.9392401116644111,10,1
+PER,Peru,Peru,Wildfire Hazard,6.0,5.561482062900263,2.284274389437715,10,1
+PRY,Paraguay,Paraguay,Wildfire Hazard,10.0,8.650678051230537,1.6760112931186937,10,6
+PNG,Papua New Guinea,Papua New Guinea,Wildfire Hazard,3.0,3.8244011368250104,1.9009478469649186,10,1
+PAN,Panama,Panama,Wildfire Hazard,6.0,5.718336483931947,1.4787076069039315,10,1
+PLW,Palau,Palau,Wildfire Hazard,1.0,1.5625,2.178553132241672,10,1
+PAK,Pakistan,Pakistan,Wildfire Hazard,9.0,6.885430707021198,3.753361075320136,10,1
+OMN,Oman,Oman,Wildfire Hazard,1.0,1.004820567755758,0.20823513615221914,10,1
+NOR,Norway,Norway,Wildfire Hazard,1.0,1.4089031506868304,1.5399807501712457,10,1
+PRK,North Korea,North Korea,Wildfire Hazard,6.0,6.257250085295121,0.7587467375506198,10,3
+NGA,Nigeria,Nigeria,Wildfire Hazard,10.0,9.113376897454804,1.3201406360290528,10,5
+NER,Niger,Niger,Wildfire Hazard,1.0,4.545660763939704,4.260093666226632,10,1
+NIC,Nicaragua,Nicaragua,Wildfire Hazard,6.0,6.49868212967844,1.4717357081771516,10,1
+NZ1,New Zealand,New Zealand,Wildfire Hazard,6.0,4.817552876062463,2.134677829921402,10,1
+NL1,Netherlands,Netherlands,Wildfire Hazard,6.0,6.084725248123941,0.9415688843463154,10,1
+NL1,Netherlands,Aruba,Wildfire Hazard,1.0,1.0,0.0,1,1
+NL1,Netherlands,Curaçao,Wildfire Hazard,1.0,1.0,0.0,1,1
+NPL,Nepal,Nepal,Wildfire Hazard,8.0,8.356639839034205,1.3356741103415137,10,6
+NRU,Nauru,Nauru,Wildfire Hazard,1.0,1.0,0.0,1,1
+NAM,Namibia,Namibia,Wildfire Hazard,10.0,9.657429857984067,1.4556363144194648,10,1
+MOZ,Mozambique,Mozambique,Wildfire Hazard,8.0,8.137544839672499,1.2185540461650457,10,1
+MAR,Morocco,Morocco,Wildfire Hazard,8.0,5.374769740881739,4.053954946893343,10,1
+SAH,Western Sahara,Western Sahara,Wildfire Hazard,1.0,1.0,0.0,1,1
+MNE,Montenegro,Montenegro,Wildfire Hazard,6.0,6.90310442144873,0.9790946320951679,8,5
+MNG,Mongolia,Mongolia,Wildfire Hazard,6.0,4.968191621555997,3.450861906659842,10,1
+MDA,Moldova,Moldova,Wildfire Hazard,8.0,8.0,0.0,8,8
+MCO,Monaco,Monaco,Wildfire Hazard,8.0,8.0,0.0,8,8
+MEX,Mexico,Mexico,Wildfire Hazard,10.0,8.849807238156753,1.3978439028857113,10,1
+MUS,Mauritius,Mauritius,Wildfire Hazard,10.0,10.0,0.0,10,10
+MRT,Mauritania,Mauritania,Wildfire Hazard,1.0,3.239729484203089,3.7710713803252243,10,1
+MLT,Malta,Malta,Wildfire Hazard,1.0,1.0,0.0,1,1
+MLI,Mali,Mali,Wildfire Hazard,3.0,5.3987773376958845,4.395581703090161,10,1
+MDV,Maldives,Maldives,Wildfire Hazard,10.0,10.0,0.0,10,10
+MYS,Malaysia,Malaysia,Wildfire Hazard,1.0,1.6266947002102516,0.9764444936370456,10,1
+MWI,Malawi,Malawi,Wildfire Hazard,8.0,7.979803699509249,0.19078378196886214,8,6
+MDG,Madagascar,Madagascar,Wildfire Hazard,8.0,6.394214669944071,2.2640331064826404,10,1
+MKD,North Macedonia,North Macedonia,Wildfire Hazard,8.0,8.0,0.0,8,8
+LUX,Luxembourg,Luxembourg,Wildfire Hazard,6.0,6.0,0.0,6,6
+LTU,Lithuania,Lithuania,Wildfire Hazard,6.0,4.608711260021539,1.4845736946063186,10,3
+LIE,Liechtenstein,Liechtenstein,Wildfire Hazard,1.0,1.0,0.0,1,1
+LBY,Libya,Libya,Wildfire Hazard,1.0,1.087771489663347,0.7364064248025499,10,1
+LBR,Liberia,Liberia,Wildfire Hazard,8.0,7.104705592510471,1.174637549857872,8,1
+LSO,Lesotho,Lesotho,Wildfire Hazard,10.0,9.917067307692308,0.37544467902493445,10,8
+LBN,Lebanon,Lebanon,Wildfire Hazard,8.0,8.77175697865353,0.9786507752796211,10,5
+LVA,Latvia,Latvia,Wildfire Hazard,3.0,3.910807508608242,1.3754878943919646,10,1
+LAO,Laos,Laos,Wildfire Hazard,6.0,6.320524835988754,0.7197706771187392,8,6
+KGZ,Kyrgyzstan,Kyrgyzstan,Wildfire Hazard,8.0,7.459532313498214,1.5909527796159864,10,1
+KWT,Kuwait,Kuwait,Wildfire Hazard,1.0,1.0020768431983385,0.045525047179196206,2,1
+KIR,Kiribati,Kiribati,Wildfire Hazard,10.0,7.365853658536586,4.094946901356065,10,1
+KEN,Kenya,Kenya,Wildfire Hazard,8.0,8.237315350032112,0.9409976320147547,10,1
+JOR,Jordan,Jordan,Wildfire Hazard,1.0,2.403377847604085,2.7721634866835068,10,1
+JPN,Japan,Japan,Wildfire Hazard,3.0,3.261678861461767,1.1226850927978291,10,1
+JAM,Jamaica,Jamaica,Wildfire Hazard,6.0,5.968441814595661,0.17482066908213287,6,5
+ITA,Italy,Italy,Wildfire Hazard,8.0,6.796725784447476,1.8426412925448539,10,1
+IS1,Israel,Palestine,Wildfire Hazard,8.0,7.640540540540541,1.354863004834798,8,1
+IRL,Ireland,Ireland,Wildfire Hazard,3.0,3.2056109725685786,0.8069173744296319,10,1
+IRQ,Iraq,Iraq,Wildfire Hazard,1.0,4.586556874760628,4.04630362387516,10,1
+IRN,Iran,Iran,Wildfire Hazard,1.0,4.712839067194826,4.04306148657308,10,1
+IDN,Indonesia,Indonesia,Wildfire Hazard,1.0,2.59417806045372,2.0191856624556856,10,1
+IND,India,India,Wildfire Hazard,10.0,8.814269291108529,1.636165578932765,10,1
+ISL,Iceland,Iceland,Wildfire Hazard,1.0,1.21090556655851,0.894959822631821,10,1
+HUN,Hungary,Hungary,Wildfire Hazard,8.0,7.895479890853007,0.4325302622822493,8,6
+HND,Honduras,Honduras,Wildfire Hazard,8.0,7.058235294117647,1.113526822241999,10,1
+HTI,Haiti,Haiti,Wildfire Hazard,6.0,6.462579617834395,0.8915032579568203,8,5
+GUY,Guyana,Guyana,Wildfire Hazard,6.0,5.938791466547526,0.468660136616403,10,1
+GNB,Guinea-Bissau,Guinea-Bissau,Wildfire Hazard,9.0,8.980071174377224,0.9814804682340629,10,6
+GIN,Guinea,Guinea,Wildfire Hazard,10.0,9.33886949136548,0.930242193464735,10,5
+GTM,Guatemala,Guatemala,Wildfire Hazard,6.0,6.92046379170057,1.1113642338329357,10,5
+GRD,Grenada,Grenada,Wildfire Hazard,1.0,1.0,0.0,1,1
+GRC,Greece,Greece,Wildfire Hazard,8.0,7.631433620499227,1.2366849481984974,10,1
+GHA,Ghana,Ghana,Wildfire Hazard,8.0,8.650858704137393,1.3309932300632483,10,1
+DEU,Germany,Germany,Wildfire Hazard,6.0,5.747309842810423,1.1800194138970461,10,1
+GEO,Georgia,Georgia,Wildfire Hazard,6.0,6.802992991096799,0.9883880377625072,10,3
+GMB,Gambia,Gambia,Wildfire Hazard,10.0,9.37748344370861,0.9043070000769323,10,7
+GAB,Gabon,Gabon,Wildfire Hazard,3.0,2.9013736263736263,0.969912735189711,10,1
+FR1,France,France,Wildfire Hazard,6.0,6.744626280026797,1.2771001748121655,10,1
+FI1,Finland,Aland,Wildfire Hazard,1.0,1.0,0.0,1,1
+FI1,Finland,Finland,Wildfire Hazard,1.0,1.6063853715979306,0.9372494768471946,10,1
+FJI,Fiji,Fiji,Wildfire Hazard,3.0,3.1285377358490565,1.4758229982490827,10,1
+ETH,Ethiopia,Ethiopia,Wildfire Hazard,8.0,8.24229147382495,1.0964684713695676,10,1
+EST,Estonia,Estonia,Wildfire Hazard,6.0,5.177784098990187,1.382056304814484,10,1
+ERI,Eritrea,Eritrea,Wildfire Hazard,10.0,7.540971848664157,3.4533414454277507,10,1
+GNQ,Equatorial Guinea,Equatorial Guinea,Wildfire Hazard,1.0,1.2534059945504088,0.6632289162773354,3,1
+SLV,El Salvador,El Salvador,Wildfire Hazard,8.0,8.096345514950166,0.4001909015655293,10,8
+EGY,Egypt,Egypt,Wildfire Hazard,1.0,1.3982533909221793,1.738723391355899,10,1
+ECU,Ecuador,Ecuador,Wildfire Hazard,3.0,3.906757513533694,2.2295018775483912,10,1
+DOM,Dominican Republic,Dominican Republic,Wildfire Hazard,7.0,6.989858906525574,1.0215419481714576,10,5
+DMA,Dominica,Dominica,Wildfire Hazard,1.0,1.0,0.0,1,1
+DJI,Djibouti,Djibouti,Wildfire Hazard,6.0,4.7594936708860756,3.3801300372212526,10,1
+DN1,Denmark,Greenland,Wildfire Hazard,1.0,1.1293846482545247,1.0308172590022437,10,1
+DN1,Denmark,Denmark,Wildfire Hazard,6.0,4.8375902765545185,1.6021529813404145,10,1
+CZE,Czechia,Czechia,Wildfire Hazard,6.0,6.676201372997712,0.936605146926424,8,6
+CYN,Northern Cyprus,Northern Cyprus,Wildfire Hazard,7.0,6.946188340807175,1.0574405602769226,8,5
+CYP,Cyprus,Cyprus,Wildfire Hazard,8.0,7.997191011235955,0.05292540359948531,8,7
+HRV,Croatia,Croatia,Wildfire Hazard,6.0,6.743426818580192,0.9734144397239339,10,5
+CIV,Ivory Coast,Ivory Coast,Wildfire Hazard,8.0,8.405279616027926,1.5512568582114599,10,1
+CRI,Costa Rica,Costa Rica,Wildfire Hazard,6.0,6.100583744948361,1.4042512336564528,8,1
+COD,Democratic Republic of the Congo,Democratic Republic of the Congo,Wildfire Hazard,6.0,6.106982027668465,2.170693613302367,10,1
+COG,Republic of the Congo,Republic of the Congo,Wildfire Hazard,6.0,4.967291967291967,1.420478059566503,8,1
+COM,Comoros,Comoros,Wildfire Hazard,1.0,1.0,0.0,1,1
+COL,Colombia,Colombia,Wildfire Hazard,3.0,3.9855581414678745,2.5116343154095806,10,1
+CH1,China,China,Wildfire Hazard,6.0,6.130563169958281,2.8029980019000837,10,1
+CH1,China,Macao S.A.R,Wildfire Hazard,8.0,8.0,0.0,8,8
+CH1,China,Hong Kong S.A.R.,Wildfire Hazard,8.0,7.979591836734694,0.14139190265868387,8,7
+CHL,Chile,Chile,Wildfire Hazard,6.0,5.105117802792221,3.302432398405905,10,1
+TCD,Chad,Chad,Wildfire Hazard,1.0,5.334202384676887,4.440038547637366,10,1
+CAF,Central African Republic,Central African Republic,Wildfire Hazard,10.0,9.108155222070637,1.1057699518689947,10,6
+CPV,Cabo Verde,Cabo Verde,Wildfire Hazard,10.0,10.0,0.0,10,10
+CAN,Canada,Canada,Wildfire Hazard,1.0,2.5533330011722777,2.0871185113584483,63,1
+CMR,Cameroon,Cameroon,Wildfire Hazard,8.0,7.141498457024333,2.2565198568828615,10,1
+KHM,Cambodia,Cambodia,Wildfire Hazard,6.0,6.505513784461153,0.8550863147657743,8,5
+MMR,Myanmar,Myanmar,Wildfire Hazard,6.0,6.9380768271389375,1.1427079176098027,10,1
+BDI,Burundi,Burundi,Wildfire Hazard,8.0,7.204385964912281,0.9603444512601581,8,6
+BFA,Burkina Faso,Burkina Faso,Wildfire Hazard,10.0,10.0,0.0,10,10
+BGR,Bulgaria,Bulgaria,Wildfire Hazard,8.0,7.770234688036634,0.6441015022110175,10,1
+BRN,Brunei,Brunei,Wildfire Hazard,1.0,1.0,0.0,1,1
+BRA,Brazil,Brazil,Wildfire Hazard,6.0,6.222124265100297,2.1713767149375687,10,1
+BWA,Botswana,Botswana,Wildfire Hazard,10.0,10.0,0.0,10,10
+BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,Wildfire Hazard,6.0,6.718222855785222,0.9468925189144562,8,6
+BOL,Bolivia,Bolivia,Wildfire Hazard,8.0,8.017829597131238,1.532129025014175,10,1
+BTN,Bhutan,Bhutan,Wildfire Hazard,6.0,5.8636149126946675,1.1877907899632212,8,3
+BEN,Benin,Benin,Wildfire Hazard,10.0,9.373855949064863,0.9840070785831652,10,6
+BLZ,Belize,Belize,Wildfire Hazard,6.0,5.975143403441683,0.21721716514831532,6,3
+BEL,Belgium,Belgium,Wildfire Hazard,6.0,5.99655388471178,0.0984880893206983,10,5
+BLR,Belarus,Belarus,Wildfire Hazard,6.0,6.167468406033429,1.4401221778016315,8,3
+BRB,Barbados,Barbados,Wildfire Hazard,1.0,1.0,0.0,1,1
+BGD,Bangladesh,Bangladesh,Wildfire Hazard,8.0,7.972957084068195,1.1783257250544874,10,3
+BHR,Bahrain,Bahrain,Wildfire Hazard,1.0,1.0,0.0,1,1
+BHS,The Bahamas,The Bahamas,Wildfire Hazard,1.0,1.0,0.0,1,1
+AZE,Azerbaijan,Azerbaijan,Wildfire Hazard,8.0,8.410363694882523,0.9294014341264417,10,1
+AUT,Austria,Austria,Wildfire Hazard,3.0,4.046060292405227,2.3282122326523815,8,1
+AU1,Australia,Australia,Wildfire Hazard,10.0,9.433724728262217,1.4505006144138737,10,1
+ARM,Armenia,Armenia,Wildfire Hazard,8.0,8.0,0.0,8,8
+ARG,Argentina,Argentina,Wildfire Hazard,10.0,8.970495129645132,1.3387707365525614,10,1
+ATG,Antigua and Barbuda,Antigua and Barbuda,Wildfire Hazard,1.0,1.0,0.0,1,1
+AGO,Angola,Angola,Wildfire Hazard,10.0,9.095342954375877,1.224150347344809,10,1
+AND,Andorra,Andorra,Wildfire Hazard,8.0,8.0,0.0,8,8
+DZA,Algeria,Algeria,Wildfire Hazard,1.0,2.2123053490825724,2.91585082870844,10,1
+ALB,Albania,Albania,Wildfire Hazard,8.0,7.986144290492117,0.19865551966096603,10,5
+AFG,Afghanistan,Afghanistan,Wildfire Hazard,8.0,7.369147628316771,3.2800371125200742,10,1
+KAS,Kashmir,Siachen Glacier,Wildfire Hazard,1.0,1.1742424242424243,0.7333630722745326,6,1
+NL1,Netherlands,Sint Maarten,Wildfire Hazard,1.0,1.0,0.0,1,1
+TUV,Tuvalu,Tuvalu,Wildfire Hazard,--,--,--,--,--

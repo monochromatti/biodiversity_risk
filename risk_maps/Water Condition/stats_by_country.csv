@@ -1,0 +1,208 @@
+SOV_A3,SOVEREIGNTY,ADMIN,RISK_TYPE,RISK_MEDIAN,RISK_MEAN,RISK_STD,RISK_MAX,RISK_MIN
+ZWE,Zimbabwe,Zimbabwe,Water Condition,5.0,5.7539621816591975,1.2759565975862621,8,5
+ZMB,Zambia,Zambia,Water Condition,5.0,4.39181251677152,0.9139322308121277,5,1
+YEM,Yemen,Yemen,Water Condition,5.0,6.530932594644506,1.789236872651628,10,3
+VNM,Vietnam,Vietnam,Water Condition,5.0,4.378068956389385,1.3751890768778483,8,1
+VEN,Venezuela,Venezuela,Water Condition,5.0,3.935867166247498,2.6183172416772327,10,1
+VAT,Vatican,Vatican,Water Condition,--,--,--,--,--
+VUT,Vanuatu,Vanuatu,Water Condition,5.0,4.292635658914729,0.9242763935921428,5,3
+UZB,Uzbekistan,Uzbekistan,Water Condition,8.0,7.508783904089263,1.8443650916730043,10,5
+URY,Uruguay,Uruguay,Water Condition,5.0,4.836085801063022,0.7580196505790558,8,3
+FSM,Federated States of Micronesia,Federated States of Micronesia,Water Condition,5.0,4.923076923076923,0.2664693550105965,5,4
+MHL,Marshall Islands,Marshall Islands,Water Condition,2.0,2.0,0.0,2,2
+US1,United States of America,United States of America,Water Condition,5.0,4.3870074860030615,3.0514341945419554,10,1
+GB1,United Kingdom,Jersey,Water Condition,10.0,9.857142857142858,0.3499271061118826,10,9
+GB1,United Kingdom,Guernsey,Water Condition,10.0,10.0,0.0,10,10
+GB1,United Kingdom,Isle of Man,Water Condition,5.0,5.181818181818182,0.4231587892051194,7,5
+GB1,United Kingdom,United Kingdom,Water Condition,8.0,6.743038060870157,3.378620473152984,10,1
+ARE,United Arab Emirates,United Arab Emirates,Water Condition,8.0,6.758303097962601,1.6081958038327127,10,3
+UKR,Ukraine,Ukraine,Water Condition,8.0,7.580533791277593,1.3101605401525882,10,5
+UGA,Uganda,Uganda,Water Condition,5.0,5.03990171990172,0.3515916636635884,8,3
+TKM,Turkmenistan,Turkmenistan,Water Condition,8.0,7.680203664745877,1.6821288576715463,10,5
+TUR,Turkey,Turkey,Water Condition,10.0,8.975830091628104,1.2034539230589079,10,3
+TUN,Tunisia,Tunisia,Water Condition,10.0,8.922443448347753,1.6826354811942565,10,5
+TTO,Trinidad and Tobago,Trinidad and Tobago,Water Condition,5.0,4.995412844036697,0.06757302689291851,5,4
+TON,Tonga,Tonga,Water Condition,3.0,3.0,0.0,3,3
+TGO,Togo,Togo,Water Condition,5.0,5.017121891561353,0.2110684489844835,8,5
+TLS,East Timor,East Timor,Water Condition,3.0,3.365203761755486,0.7384508094515027,5,3
+THA,Thailand,Thailand,Water Condition,5.0,4.412318404538812,1.200547697750856,10,1
+TZA,United Republic of Tanzania,United Republic of Tanzania,Water Condition,5.0,4.53601394248724,0.8541483606138371,8,1
+TJK,Tajikistan,Tajikistan,Water Condition,5.0,5.312384473197782,2.518767641642836,10,3
+TWN,Taiwan,Taiwan,Water Condition,5.0,5.057874234835838,0.34828547349857136,9,5
+SYR,Syria,Syria,Water Condition,10.0,9.751182999225673,0.8109856808626659,10,5
+CHE,Switzerland,Switzerland,Water Condition,8.0,8.304218496484586,1.584534690999461,10,3
+SWE,Sweden,Sweden,Water Condition,1.0,2.286691838384286,2.1898907769694853,10,1
+SWZ,eSwatini,eSwatini,Water Condition,6.0,6.482485875706215,1.4477641172048852,8,5
+SUR,Suriname,Suriname,Water Condition,1.0,2.195921696574225,1.3918721207042906,5,1
+SDS,South Sudan,South Sudan,Water Condition,5.0,4.363526933493831,1.141653755094359,8,1
+SDN,Sudan,Sudan,Water Condition,5.0,5.556430663139996,1.2001948064610781,8,2
+LKA,Sri Lanka,Sri Lanka,Water Condition,5.0,5.0,0.0,5,5
+ESP,Spain,Spain,Water Condition,10.0,8.801238491889523,1.7863788168206722,10,3
+KOR,South Korea,South Korea,Water Condition,5.0,5.208731676226896,1.1363792466633198,9,1
+ZAF,South Africa,South Africa,Water Condition,8.0,7.649960495520341,1.5196948590300758,10,5
+SOM,Somalia,Somalia,Water Condition,5.0,5.508507559503019,1.1004351458216017,8,2
+SOL,Somaliland,Somaliland,Water Condition,5.0,5.764350453172206,1.2957171426322185,8,3
+SLB,Solomon Islands,Solomon Islands,Water Condition,5.0,4.961015412511332,0.23579049111616956,5,3
+SVK,Slovakia,Slovakia,Water Condition,10.0,9.805681084570692,0.5770762552582626,10,8
+SVN,Slovenia,Slovenia,Water Condition,8.0,8.091269841269842,1.4700921569280703,10,5
+SGP,Singapore,Singapore,Water Condition,5.0,5.181818181818182,0.385694607919935,6,5
+SLE,Sierra Leone,Sierra Leone,Water Condition,5.0,4.714332036316472,0.8540220178673433,8,2
+SYC,Seychelles,Seychelles,Water Condition,1.0,1.0,0.0,1,1
+SRB,Republic of Serbia,Republic of Serbia,Water Condition,10.0,9.287001897533207,1.352726505985744,10,5
+SEN,Senegal,Senegal,Water Condition,5.0,5.310575940020447,1.0440097260442478,8,3
+SAU,Saudi Arabia,Saudi Arabia,Water Condition,6.0,6.781942831299915,1.8649694914881465,10,2
+STP,São Tomé and Principe,São Tomé and Principe,Water Condition,5.0,4.777777777777778,0.5533288710217215,5,2
+SMR,San Marino,San Marino,Water Condition,10.0,10.0,0.0,10,10
+WSM,Samoa,Samoa,Water Condition,2.0,2.0,0.0,2,2
+VCT,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,Water Condition,5.0,5.0,0.0,5,5
+LCA,Saint Lucia,Saint Lucia,Water Condition,5.0,5.0,0.0,5,5
+KNA,Saint Kitts and Nevis,Saint Kitts and Nevis,Water Condition,5.0,5.0,0.0,5,5
+RWA,Rwanda,Rwanda,Water Condition,5.0,5.0,0.0,5,5
+RUS,Russia,Russia,Water Condition,1.0,2.12671302240367,1.4200637442881872,10,1
+ROU,Romania,Romania,Water Condition,9.0,8.577574775305731,1.6833707487849403,10,5
+QAT,Qatar,Qatar,Water Condition,6.0,6.326278659611993,1.368993018078659,8,5
+PRT,Portugal,Portugal,Water Condition,8.0,7.1992504684572145,1.7649051338582318,10,3
+POL,Poland,Poland,Water Condition,10.0,9.37651286474055,1.1354925909891536,10,5
+PHL,Philippines,Philippines,Water Condition,5.0,5.0349803921568625,0.6746036596808145,8,3
+PER,Peru,Peru,Water Condition,5.0,4.266014949069697,2.6210603004620134,10,1
+PRY,Paraguay,Paraguay,Water Condition,5.0,5.952285283776996,1.420533056539217,10,3
+PNG,Papua New Guinea,Papua New Guinea,Water Condition,3.0,2.73020706455542,0.9927104581671312,5,1
+PAN,Panama,Panama,Water Condition,5.0,4.442974165091368,0.9537473473007179,5,1
+PLW,Palau,Palau,Water Condition,5.0,4.8125,0.5266343608235224,5,3
+PAK,Pakistan,Pakistan,Water Condition,8.0,8.157701262100232,1.815063063431794,10,3
+OMN,Oman,Oman,Water Condition,6.0,6.451057846813069,1.4862389508203189,10,3
+NOR,Norway,Norway,Water Condition,5.0,3.2779964792148926,1.9925360829199592,10,1
+PRK,North Korea,North Korea,Water Condition,8.0,6.8209939724781075,1.5979432259852482,10,3
+NGA,Nigeria,Nigeria,Water Condition,5.0,5.017569732258639,0.5745954363350125,8,3
+NER,Niger,Niger,Water Condition,5.0,4.984432167422801,0.2728558420189488,8,3
+NIC,Nicaragua,Nicaragua,Water Condition,3.0,3.5217009312950274,0.8688431440073675,5,3
+NZ1,New Zealand,New Zealand,Water Condition,1.0,1.242439217236608,0.9151217275598287,7,1
+NL1,Netherlands,Netherlands,Water Condition,10.0,9.922778988138464,0.5788925263469181,10,5
+NL1,Netherlands,Aruba,Water Condition,5.0,5.0,0.0,5,5
+NL1,Netherlands,Curaçao,Water Condition,5.0,5.0,0.0,5,5
+NPL,Nepal,Nepal,Water Condition,5.0,4.3304828973843055,1.0711303795285376,8,1
+NRU,Nauru,Nauru,Water Condition,2.0,2.0,0.0,2,2
+NAM,Namibia,Namibia,Water Condition,8.0,6.983744866148745,1.4089230247565836,8,2
+MOZ,Mozambique,Mozambique,Water Condition,5.0,4.508858402475424,0.9276946323498628,8,1
+MAR,Morocco,Morocco,Water Condition,8.0,8.033495026403045,2.0734876131602737,10,4
+SAH,Western Sahara,Western Sahara,Water Condition,5.0,5.0241672109732205,0.25909010240275154,8,5
+MNE,Montenegro,Montenegro,Water Condition,5.0,5.044214487300094,0.27929813777019014,8,5
+MNG,Mongolia,Mongolia,Water Condition,5.0,5.369288560695871,1.4809675014355808,8,1
+MDA,Moldova,Moldova,Water Condition,8.0,7.8527750083084085,0.6256347600646918,8,5
+MCO,Monaco,Monaco,Water Condition,5.0,5.0,0.0,5,5
+MEX,Mexico,Mexico,Water Condition,8.0,8.334598227802111,1.799478745268249,10,3
+MUS,Mauritius,Mauritius,Water Condition,4.0,4.0,0.0,4,4
+MRT,Mauritania,Mauritania,Water Condition,5.0,5.052932270112042,0.5475882242934039,8,3
+MLT,Malta,Malta,Water Condition,5.0,5.266666666666667,0.4422166387140533,6,5
+MLI,Mali,Mali,Water Condition,5.0,4.7773376958842775,0.6673390611640052,8,3
+MDV,Maldives,Maldives,Water Condition,2.0,2.0,0.0,2,2
+MYS,Malaysia,Malaysia,Water Condition,5.0,4.851156383672878,0.7880342007305848,8,1
+MWI,Malawi,Malawi,Water Condition,5.0,4.942242355605889,0.3252104353468309,5,3
+MDG,Madagascar,Madagascar,Water Condition,3.0,3.901677888212034,1.0683030719367523,8,1
+MKD,North Macedonia,North Macedonia,Water Condition,8.0,8.334913112164298,1.1788453175048947,10,5
+LUX,Luxembourg,Luxembourg,Water Condition,8.0,8.398467432950191,0.7390565254362903,10,8
+LTU,Lithuania,Lithuania,Water Condition,8.0,8.262654062462607,1.0230369313902905,10,5
+LIE,Liechtenstein,Liechtenstein,Water Condition,8.0,8.0,0.0,8,8
+LBY,Libya,Libya,Water Condition,5.0,6.115254552426992,1.7741885628432068,10,5
+LBR,Liberia,Liberia,Water Condition,5.0,4.623306233062331,0.8555479897338869,5,1
+LSO,Lesotho,Lesotho,Water Condition,5.0,6.077524038461538,1.4199385903565305,8,5
+LBN,Lebanon,Lebanon,Water Condition,10.0,9.426929392446635,0.8412579114064248,10,8
+LVA,Latvia,Latvia,Water Condition,5.0,5.56214595134955,1.222633534717364,10,5
+LAO,Laos,Laos,Water Condition,3.0,2.4967197750702907,1.245173820671555,5,1
+KGZ,Kyrgyzstan,Kyrgyzstan,Water Condition,5.0,5.020553945683671,1.921653176239256,10,3
+KWT,Kuwait,Kuwait,Water Condition,8.0,7.651090342679128,1.2400240991612677,10,5
+KIR,Kiribati,Kiribati,Water Condition,1.0,1.2439024390243902,0.6907220613905508,4,1
+KEN,Kenya,Kenya,Water Condition,5.0,6.175377328195247,1.4300593356503957,8,5
+JOR,Jordan,Jordan,Water Condition,8.0,8.00883739198743,2.105364893530281,10,5
+JPN,Japan,Japan,Water Condition,3.0,3.7923132588244752,1.2207021689508493,8,1
+JAM,Jamaica,Jamaica,Water Condition,5.0,5.0,0.0,5,5
+ITA,Italy,Italy,Water Condition,10.0,9.08087482946794,1.4611496291503387,10,3
+IS1,Israel,Palestine,Water Condition,8.0,8.740540540540541,1.1637449937673745,10,5
+IRL,Ireland,Ireland,Water Condition,5.0,6.091396508728179,1.888012002499937,10,3
+IRQ,Iraq,Iraq,Water Condition,10.0,8.71616238988893,1.7883134761308,10,5
+IRN,Iran,Iran,Water Condition,10.0,9.547248474262604,0.9012052233578678,10,4
+IDN,Indonesia,Indonesia,Water Condition,5.0,4.919818207208237,0.5921840927272206,7,1
+IND,India,India,Water Condition,8.0,7.0589864268338385,1.947823289695878,10,1
+ISL,Iceland,Iceland,Water Condition,1.0,1.1818718132400656,0.7771612815761276,5,1
+HUN,Hungary,Hungary,Water Condition,10.0,9.989797128959545,0.13825795872173735,10,8
+HND,Honduras,Honduras,Water Condition,5.0,4.6156862745098035,0.9910130584247987,8,3
+HTI,Haiti,Haiti,Water Condition,5.0,5.0,0.0,5,5
+GUY,Guyana,Guyana,Water Condition,3.0,2.580140734949179,1.2555138758478739,5,1
+GNB,Guinea-Bissau,Guinea-Bissau,Water Condition,5.0,4.889679715302491,0.45580506843061364,5,2
+GIN,Guinea,Guinea,Water Condition,3.0,3.578276870812494,0.9365205851569255,8,2
+GTM,Guatemala,Guatemala,Water Condition,5.0,6.0054922701383235,1.4552486099714697,10,5
+GRD,Grenada,Grenada,Water Condition,5.0,5.0,0.0,5,5
+GRC,Greece,Greece,Water Condition,8.0,8.346697592224432,1.5158654463605248,10,5
+GHA,Ghana,Ghana,Water Condition,5.0,5.33284543325527,1.0266579585875402,10,3
+DEU,Germany,Germany,Water Condition,10.0,9.935040616098744,0.34185336924509957,10,8
+GEO,Georgia,Georgia,Water Condition,5.0,5.179579465807918,1.9962912509339477,10,1
+GMB,Gambia,Gambia,Water Condition,5.0,5.306843267108167,0.8356684095181467,8,5
+GAB,Gabon,Gabon,Water Condition,3.0,3.095970695970696,1.3579039651714895,8,1
+FR1,France,France,Water Condition,8.0,8.14567901234568,2.380135343577646,10,1
+FI1,Finland,Aland,Water Condition,5.0,5.4375,0.6702378309227255,8,5
+FI1,Finland,Finland,Water Condition,1.0,2.829714603262811,2.124501842056054,10,1
+FJI,Fiji,Fiji,Water Condition,5.0,4.992924528301887,0.11874713089786895,5,2
+ETH,Ethiopia,Ethiopia,Water Condition,5.0,5.340738455209298,0.993102484788855,8,3
+EST,Estonia,Estonia,Water Condition,5.0,5.467358839425402,1.264835662212042,10,3
+ERI,Eritrea,Eritrea,Water Condition,5.0,5.372243141473911,1.0034210120910647,8,2
+GNQ,Equatorial Guinea,Equatorial Guinea,Water Condition,5.0,4.0317892824704815,0.9876105234202962,5,3
+SLV,El Salvador,El Salvador,Water Condition,8.0,7.094130675526024,1.3546192219671995,8,5
+EGY,Egypt,Egypt,Water Condition,5.0,6.111881488217019,1.9907969471687017,10,5
+ECU,Ecuador,Ecuador,Water Condition,5.0,5.2324061974986,2.3195227105270564,10,1
+DOM,Dominican Republic,Dominican Republic,Water Condition,8.0,6.768518518518518,1.4370187979533093,8,5
+DMA,Dominica,Dominica,Water Condition,5.0,5.0,0.0,5,5
+DJI,Djibouti,Djibouti,Water Condition,5.0,5.032700421940929,0.2940806437372561,8,4
+DN1,Denmark,Greenland,Water Condition,5.0,3.3661543017557523,1.9589726423202702,5,1
+DN1,Denmark,Denmark,Water Condition,8.0,8.248370618284305,1.3913468096516037,10,5
+CZE,Czechia,Czechia,Water Condition,10.0,9.883549453343504,0.4567948033916601,10,8
+CYN,Northern Cyprus,Northern Cyprus,Water Condition,5.0,5.210762331838565,0.4879451303582222,8,5
+CYP,Cyprus,Cyprus,Water Condition,5.0,6.311797752808989,1.4146012753015735,8,5
+HRV,Croatia,Croatia,Water Condition,8.0,8.016432953549518,2.1449330632575325,10,5
+CIV,Ivory Coast,Ivory Coast,Water Condition,5.0,4.2352556177732525,1.0038812062654074,8,3
+CRI,Costa Rica,Costa Rica,Water Condition,5.0,4.887292321508756,0.9689175635922713,8,3
+COD,Democratic Republic of the Congo,Democratic Republic of the Congo,Water Condition,3.0,3.673881293358757,0.9997158664997585,5,1
+COG,Republic of the Congo,Republic of the Congo,Water Condition,3.0,3.2369958084243797,0.7627881538534788,6,1
+COM,Comoros,Comoros,Water Condition,5.0,4.953846153846154,0.20981817995362853,5,4
+COL,Colombia,Colombia,Water Condition,5.0,3.9468456487407533,2.71252367833748,10,1
+CH1,China,China,Water Condition,5.0,6.434512304856982,2.4890111848556207,10,1
+CH1,China,Macao S.A.R,Water Condition,8.0,8.0,0.0,8,8
+CH1,China,Hong Kong S.A.R.,Water Condition,5.0,5.428571428571429,0.6998542122237652,8,5
+CHL,Chile,Chile,Water Condition,5.0,3.493686075081424,2.25631129274115,10,1
+TCD,Chad,Chad,Water Condition,5.0,4.96417770361873,0.2605966827411514,5,3
+CAF,Central African Republic,Central African Republic,Water Condition,3.0,3.247423071092921,0.745446862655539,5,1
+CPV,Cabo Verde,Cabo Verde,Water Condition,1.0,1.0,0.0,1,1
+CAN,Canada,Canada,Water Condition,1.0,2.0631563510290567,1.4837637042269975,10,1
+CMR,Cameroon,Cameroon,Water Condition,3.0,3.8526331765062984,0.9889796063968737,8,1
+KHM,Cambodia,Cambodia,Water Condition,1.0,1.8330827067669173,1.2700357268776166,7,1
+MMR,Myanmar,Myanmar,Water Condition,3.0,3.4367984534796707,1.2042564309758212,8,1
+BDI,Burundi,Burundi,Water Condition,5.0,5.496491228070176,1.0715564859374573,8,5
+BFA,Burkina Faso,Burkina Faso,Water Condition,5.0,4.9891576313594665,0.14340971478590062,5,3
+BGR,Bulgaria,Bulgaria,Water Condition,10.0,9.102919290211792,1.2500017427852579,10,5
+BRN,Brunei,Brunei,Water Condition,5.0,5.055084745762712,0.26267769050557405,6,4
+BRA,Brazil,Brazil,Water Condition,3.0,3.369170592327833,1.991385575538303,10,1
+BWA,Botswana,Botswana,Water Condition,8.0,6.804363124560169,1.4558511005257333,8,5
+BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,Water Condition,5.0,6.273699215965787,1.560279907938329,10,5
+BOL,Bolivia,Bolivia,Water Condition,5.0,4.774245247110203,2.015788839513017,8,1
+BTN,Bhutan,Bhutan,Water Condition,3.0,2.808400188768287,1.145854599794282,5,1
+BEN,Benin,Benin,Water Condition,5.0,4.6752884998010344,0.7269567678993062,5,3
+BLZ,Belize,Belize,Water Condition,5.0,5.4426386233269595,1.0152085928506132,8,5
+BEL,Belgium,Belgium,Water Condition,10.0,9.953007518796992,0.2837225292916976,10,8
+BLR,Belarus,Belarus,Water Condition,8.0,7.674480228291888,1.506064985868681,10,3
+BRB,Barbados,Barbados,Water Condition,5.0,5.0,0.0,5,5
+BGD,Bangladesh,Bangladesh,Water Condition,8.0,7.198265726043504,1.3151057619573225,8,3
+BHR,Bahrain,Bahrain,Water Condition,5.0,5.344827586206897,0.47531202593414557,6,5
+BHS,The Bahamas,The Bahamas,Water Condition,5.0,4.043613707165109,1.0842822224888038,5,2
+AZE,Azerbaijan,Azerbaijan,Water Condition,8.0,7.34470550370132,1.8550482107018909,10,3
+AUT,Austria,Austria,Water Condition,9.0,8.288264976064173,1.9929279037036745,10,4
+AU1,Australia,Australia,Water Condition,5.0,5.851608618288337,2.4187386579875563,10,1
+ARM,Armenia,Armenia,Water Condition,8.0,7.824718045112782,1.1107852652352963,10,5
+ARG,Argentina,Argentina,Water Condition,8.0,6.668278106410463,2.1933798190748734,10,1
+ATG,Antigua and Barbuda,Antigua and Barbuda,Water Condition,5.0,5.0,0.0,5,5
+AGO,Angola,Angola,Water Condition,5.0,4.345265609929207,0.9940185892643424,8,3
+AND,Andorra,Andorra,Water Condition,8.0,8.0,0.0,8,8
+DZA,Algeria,Algeria,Water Condition,5.0,6.3363742374602365,1.793462442830921,10,5
+ALB,Albania,Albania,Water Condition,5.0,5.82560917343526,1.300032589599201,10,5
+AFG,Afghanistan,Afghanistan,Water Condition,8.0,6.590948673291671,1.8159474746088884,10,3
+KAS,Kashmir,Siachen Glacier,Water Condition,3.0,3.1515151515151514,0.4843747685801752,5,3
+NL1,Netherlands,Sint Maarten,Water Condition,5.0,5.0,0.0,5,5
+TUV,Tuvalu,Tuvalu,Water Condition,--,--,--,--,--

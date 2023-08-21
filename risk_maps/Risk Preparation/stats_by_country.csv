@@ -1,0 +1,208 @@
+SOV_A3,SOVEREIGNTY,ADMIN,RISK_TYPE,RISK_MEDIAN,RISK_MEAN,RISK_STD,RISK_MAX,RISK_MIN
+ZWE,Zimbabwe,Zimbabwe,Risk Preparation,10.0,9.945403869275331,0.39093303849125016,10,6
+ZMB,Zambia,Zambia,Risk Preparation,10.0,10.035600345866007,3.232871678829952,63,1
+YEM,Yemen,Yemen,Risk Preparation,8.0,7.713660883510716,1.3356195456298443,10,1
+VNM,Vietnam,Vietnam,Risk Preparation,6.0,6.055522467076964,0.7541567096249865,10,3
+VEN,Venezuela,Venezuela,Risk Preparation,6.0,5.997869937894575,0.0881559566346608,10,5
+VAT,Vatican,Vatican,Risk Preparation,--,--,--,--,--
+VUT,Vanuatu,Vanuatu,Risk Preparation,1.0,1.0348837209302326,0.5592285886702814,10,1
+UZB,Uzbekistan,Uzbekistan,Risk Preparation,6.0,5.678022434565849,1.087546293962263,8,1
+URY,Uruguay,Uruguay,Risk Preparation,3.0,3.1593583902809415,0.665581686118101,10,1
+FSM,Federated States of Micronesia,Federated States of Micronesia,Risk Preparation,1.0,1.0,0.0,1,1
+MHL,Marshall Islands,Marshall Islands,Risk Preparation,1.0,3.25,3.897114317029974,10,1
+US1,United States of America,United States of America,Risk Preparation,1.0,1.0222902556145024,0.40109970731500005,10,1
+GB1,United Kingdom,Jersey,Risk Preparation,1.0,1.0,0.0,1,1
+GB1,United Kingdom,Guernsey,Risk Preparation,1.0,1.0,0.0,1,1
+GB1,United Kingdom,Isle of Man,Risk Preparation,1.0,1.0,0.0,1,1
+GB1,United Kingdom,United Kingdom,Risk Preparation,1.0,1.011949342956356,0.3277213752719145,10,1
+ARE,United Arab Emirates,United Arab Emirates,Risk Preparation,1.0,1.015071169411108,0.3679855765550516,10,1
+UKR,Ukraine,Ukraine,Risk Preparation,3.0,3.017655897821187,0.2530474568832016,10,1
+UGA,Uganda,Uganda,Risk Preparation,10.0,10.007567567567568,2.5739656169571057,63,1
+TKM,Turkmenistan,Turkmenistan,Risk Preparation,1.0,1.3023567791700967,2.461673209325512,63,1
+TUR,Turkey,Turkey,Risk Preparation,3.0,3.0611898748179422,0.5612156895457183,10,1
+TUN,Tunisia,Tunisia,Risk Preparation,6.0,5.911706452621703,0.64704021583033,10,1
+TTO,Trinidad and Tobago,Trinidad and Tobago,Risk Preparation,3.0,3.0045871559633026,0.5289569658881866,10,1
+TON,Tonga,Tonga,Risk Preparation,10.0,10.0,0.0,10,10
+TGO,Togo,Togo,Risk Preparation,10.0,9.99021606196494,0.11732371217927999,10,8
+TLS,East Timor,East Timor,Risk Preparation,1.0,1.688087774294671,3.869122495163187,63,1
+THA,Thailand,Thailand,Risk Preparation,6.0,6.083125590991146,0.4658562588850423,10,3
+TZA,United Republic of Tanzania,United Republic of Tanzania,Risk Preparation,8.0,8.04703099713681,0.28906621928856935,10,6
+TJK,Tajikistan,Tajikistan,Risk Preparation,8.0,8.055452865064694,0.7922436333739717,10,3
+TWN,Taiwan,Taiwan,Risk Preparation,3.0,2.9838619922092375,0.2589865073781512,10,1
+SYR,Syria,Syria,Risk Preparation,8.0,7.82483007829304,0.8737451660000036,8,3
+CHE,Switzerland,Switzerland,Risk Preparation,1.0,1.1917252568956191,0.5871958996538633,3,1
+SWE,Sweden,Sweden,Risk Preparation,1.0,1.003986137100971,0.18936563737846385,10,1
+SWZ,eSwatini,eSwatini,Risk Preparation,8.0,8.054237288135592,0.2995224262176958,10,8
+SUR,Suriname,Suriname,Risk Preparation,6.0,5.9195758564437195,0.6151102896142742,10,1
+SDS,South Sudan,South Sudan,Risk Preparation,1.0,2.1465543183869995,6.5129071148953255,63,1
+SDN,Sudan,Sudan,Risk Preparation,10.0,9.926967220857737,2.7145976472780227,63,1
+LKA,Sri Lanka,Sri Lanka,Risk Preparation,6.0,5.985780305723427,0.16803924793876848,10,5
+ESP,Spain,Spain,Risk Preparation,1.0,1.0561705392371767,0.4212037558854929,10,1
+KOR,South Korea,South Korea,Risk Preparation,3.0,2.9192160611854683,0.4302982170681389,10,1
+ZAF,South Africa,South Africa,Risk Preparation,8.0,7.994588631654269,0.19347581164045946,10,5
+SOM,Somalia,Somalia,Risk Preparation,1.0,1.68260066862931,5.015539063436649,63,1
+SOL,Somaliland,Somaliland,Risk Preparation,1.0,1.385608349354573,3.8347349968259805,63,1
+SLB,Solomon Islands,Solomon Islands,Risk Preparation,8.0,7.9582955575702625,0.32719250774493164,10,5
+SVK,Slovakia,Slovakia,Risk Preparation,3.0,2.8954163976759197,0.440858262960257,3,1
+SVN,Slovenia,Slovenia,Risk Preparation,1.0,1.0147392290249433,0.2537885053895986,10,1
+SGP,Singapore,Singapore,Risk Preparation,3.0,3.0,0.0,3,3
+SLE,Sierra Leone,Sierra Leone,Risk Preparation,10.0,9.986381322957198,0.11590171991133448,10,9
+SYC,Seychelles,Seychelles,Risk Preparation,10.0,10.0,0.0,10,10
+SRB,Republic of Serbia,Republic of Serbia,Risk Preparation,6.0,5.824952561669829,0.8572367908128803,6,1
+SEN,Senegal,Senegal,Risk Preparation,10.0,9.991366579575145,0.0925142393181874,10,9
+SAU,Saudi Arabia,Saudi Arabia,Risk Preparation,1.0,1.110688552898007,0.8263339237759615,10,1
+STP,São Tomé and Principe,São Tomé and Principe,Risk Preparation,1.0,1.0,0.0,1,1
+SMR,San Marino,San Marino,Risk Preparation,3.0,3.0,0.0,3,3
+WSM,Samoa,Samoa,Risk Preparation,10.0,10.0,0.0,10,10
+VCT,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,Risk Preparation,1.0,1.0,0.0,1,1
+LCA,Saint Lucia,Saint Lucia,Risk Preparation,1.0,1.0,0.0,1,1
+KNA,Saint Kitts and Nevis,Saint Kitts and Nevis,Risk Preparation,1.0,1.0,0.0,1,1
+RWA,Rwanda,Rwanda,Risk Preparation,10.0,9.99906103286385,0.03062818108976543,10,9
+RUS,Russia,Russia,Risk Preparation,3.0,3.0302191318397553,0.5109809658914787,10,1
+ROU,Romania,Romania,Risk Preparation,6.0,5.9442561760227886,0.4243075210760707,6,1
+QAT,Qatar,Qatar,Risk Preparation,1.0,1.0158730158730158,0.3776310239165181,10,1
+PRT,Portugal,Portugal,Risk Preparation,3.0,3.094003747657714,1.1434719355733194,10,1
+POL,Poland,Poland,Risk Preparation,3.0,2.981256288630157,0.30167845829671613,10,1
+PHL,Philippines,Philippines,Risk Preparation,8.0,7.973333333333334,0.25528658764233064,10,5
+PER,Peru,Peru,Risk Preparation,6.0,6.017963858215745,0.22748472024017383,10,3
+PRY,Paraguay,Paraguay,Risk Preparation,8.0,7.925765946760422,0.36498433460337937,8,6
+PNG,Papua New Guinea,Papua New Guinea,Risk Preparation,10.0,9.922300040600893,0.3228697764072285,10,8
+PAN,Panama,Panama,Risk Preparation,6.0,5.990233144297417,0.18675184909971113,10,5
+PLW,Palau,Palau,Risk Preparation,1.0,1.5625,2.178553132241672,10,1
+PAK,Pakistan,Pakistan,Risk Preparation,8.0,7.979679777805008,0.559544757567284,10,3
+OMN,Oman,Oman,Risk Preparation,1.0,1.0665506159614355,0.6617084759211875,10,1
+NOR,Norway,Norway,Risk Preparation,1.0,1.2469193130310634,1.4676747054083406,10,1
+PRK,North Korea,North Korea,Risk Preparation,1.0,1.1761628568179234,0.5975920953155294,10,1
+NGA,Nigeria,Nigeria,Risk Preparation,10.0,9.979633349436803,0.1825546627994871,10,8
+NER,Niger,Niger,Risk Preparation,10.0,9.96451046392507,1.2579990678999282,63,1
+NIC,Nicaragua,Nicaragua,Risk Preparation,8.0,7.985239852398524,0.1659676860626415,10,6
+NZ1,New Zealand,New Zealand,Risk Preparation,1.0,1.0680470448705277,0.7796108025926385,10,1
+NL1,Netherlands,Netherlands,Risk Preparation,1.0,1.3747276688453158,1.7978120574213532,10,1
+NL1,Netherlands,Aruba,Risk Preparation,1.0,1.0,0.0,1,1
+NL1,Netherlands,Curaçao,Risk Preparation,1.0,1.0,0.0,1,1
+NPL,Nepal,Nepal,Risk Preparation,10.0,9.601609657947686,1.2425785420431823,10,3
+NRU,Nauru,Nauru,Risk Preparation,1.0,1.0,0.0,1,1
+NAM,Namibia,Namibia,Risk Preparation,8.0,7.9540551239546735,2.439457836128085,63,1
+MOZ,Mozambique,Mozambique,Risk Preparation,10.0,9.94172896300556,0.31327411781084324,10,7
+MAR,Morocco,Morocco,Risk Preparation,6.0,4.735631831020508,2.635534746918374,63,1
+SAH,Western Sahara,Western Sahara,Risk Preparation,1.0,3.2148922273024167,8.137894164924138,63,1
+MNE,Montenegro,Montenegro,Risk Preparation,1.0,2.4270931326434617,2.129420247526008,6,1
+MNG,Mongolia,Mongolia,Risk Preparation,8.0,7.8312456258123495,0.8748242104460884,8,3
+MDA,Moldova,Moldova,Risk Preparation,6.0,5.281488866733134,1.2450738999126174,6,3
+MCO,Monaco,Monaco,Risk Preparation,1.0,1.0,0.0,1,1
+MEX,Mexico,Mexico,Risk Preparation,6.0,5.959126415437095,0.4852803962461778,10,1
+MUS,Mauritius,Mauritius,Risk Preparation,10.0,10.0,0.0,10,10
+MRT,Mauritania,Mauritania,Risk Preparation,10.0,9.973614615928131,2.9331315363840846,63,1
+MLT,Malta,Malta,Risk Preparation,1.0,1.0,0.0,1,1
+MLI,Mali,Mali,Risk Preparation,10.0,9.942999827794042,0.43734978094623456,10,6
+MDV,Maldives,Maldives,Risk Preparation,10.0,10.0,0.0,10,10
+MYS,Malaysia,Malaysia,Risk Preparation,3.0,3.072500543754078,0.589025731791638,10,1
+MWI,Malawi,Malawi,Risk Preparation,8.0,8.149867874669686,0.47532645742799084,10,8
+MDG,Madagascar,Madagascar,Risk Preparation,10.0,9.981760535784261,0.1338162402732249,10,9
+MKD,North Macedonia,North Macedonia,Risk Preparation,3.0,3.040021063717746,0.3103942685982577,6,3
+LUX,Luxembourg,Luxembourg,Risk Preparation,1.0,1.0,0.0,1,1
+LTU,Lithuania,Lithuania,Risk Preparation,3.0,3.000358980495393,0.19228848680691082,10,1
+LIE,Liechtenstein,Liechtenstein,Risk Preparation,1.0,1.0,0.0,1,1
+LBY,Libya,Libya,Risk Preparation,1.0,1.2796067539772,2.7247144212479313,63,1
+LBR,Liberia,Liberia,Risk Preparation,10.0,9.991377186499138,0.09245788548410366,10,9
+LSO,Lesotho,Lesotho,Risk Preparation,8.0,8.0,0.0,8,8
+LBN,Lebanon,Lebanon,Risk Preparation,8.0,7.694581280788177,1.1598030226185854,8,1
+LVA,Latvia,Latvia,Risk Preparation,3.0,2.968566033544374,0.3101640394477589,10,1
+LAO,Laos,Laos,Risk Preparation,8.0,7.882193064667291,0.527670756798941,10,3
+KGZ,Kyrgyzstan,Kyrgyzstan,Risk Preparation,6.0,5.952018330076151,0.5122554282412899,8,3
+KWT,Kuwait,Kuwait,Risk Preparation,1.0,1.5327102803738317,1.786565657792502,8,1
+KIR,Kiribati,Kiribati,Risk Preparation,10.0,7.365853658536586,4.094946901356065,10,1
+KEN,Kenya,Kenya,Risk Preparation,10.0,9.872270391779063,3.431020207209053,63,1
+JOR,Jordan,Jordan,Risk Preparation,6.0,5.727219167321288,1.3745032255074325,8,1
+JPN,Japan,Japan,Risk Preparation,1.0,1.0209857682720913,0.4340869866499711,10,1
+JAM,Jamaica,Jamaica,Risk Preparation,6.0,5.968441814595661,0.17482066908213287,6,5
+ITA,Italy,Italy,Risk Preparation,3.0,2.9751023192360164,0.25418225440225234,10,1
+IS1,Israel,Palestine,Risk Preparation,3.0,3.4783783783783786,1.9702702702702704,6,1
+IRL,Ireland,Ireland,Risk Preparation,1.0,1.0067331670822943,0.24607553352922,10,1
+IRQ,Iraq,Iraq,Risk Preparation,8.0,7.70597472232861,1.2635745946160841,8,1
+IRN,Iran,Iran,Risk Preparation,3.0,3.066529428277346,0.6262446674114267,10,1
+IDN,Indonesia,Indonesia,Risk Preparation,8.0,7.985527668812126,0.6677528082924974,63,1
+IND,India,India,Risk Preparation,8.0,7.999301334451198,0.6220905969814611,63,1
+ISL,Iceland,Iceland,Risk Preparation,1.0,1.0606801230458052,0.7365046028908384,10,1
+HUN,Hungary,Hungary,Risk Preparation,1.0,1.5935460908767352,1.4430909318465865,6,1
+HND,Honduras,Honduras,Risk Preparation,8.0,7.977647058823529,0.27775421660938043,10,5
+HTI,Haiti,Haiti,Risk Preparation,10.0,9.894904458598726,0.3218766979857901,10,8
+GUY,Guyana,Guyana,Risk Preparation,6.0,5.998324583938345,0.0625019769677947,10,5
+GNB,Guinea-Bissau,Guinea-Bissau,Risk Preparation,10.0,9.962277580071174,0.19052411648801565,10,9
+GIN,Guinea,Guinea,Risk Preparation,10.0,9.996225346796264,0.061322142794657995,10,9
+GTM,Guatemala,Guatemala,Risk Preparation,8.0,7.750813669650122,0.8514271206904998,8,3
+GRD,Grenada,Grenada,Risk Preparation,1.0,1.0,0.0,1,1
+GRC,Greece,Greece,Risk Preparation,3.0,3.050474928208527,0.5584791267676888,10,1
+GHA,Ghana,Ghana,Risk Preparation,10.0,9.964090554254488,0.24212525950943434,10,8
+DEU,Germany,Germany,Risk Preparation,1.0,1.019015718957696,0.2896612163934034,10,1
+GEO,Georgia,Georgia,Risk Preparation,6.0,5.9229020647849975,0.6089596151740736,10,1
+GMB,Gambia,Gambia,Risk Preparation,10.0,9.969094922737307,0.17306054854321976,10,9
+GAB,Gabon,Gabon,Risk Preparation,8.0,7.982783882783883,2.3483445063121207,63,1
+FR1,France,France,Risk Preparation,1.0,1.0699588477366255,0.6609183762301624,10,1
+FI1,Finland,Aland,Risk Preparation,1.0,1.0,0.0,1,1
+FI1,Finland,Finland,Risk Preparation,1.0,1.0839121978327313,0.44032666566042633,10,1
+FJI,Fiji,Fiji,Risk Preparation,1.0,1.3502358490566038,1.7405336800949969,10,1
+ETH,Ethiopia,Ethiopia,Risk Preparation,8.0,8.045706057801091,3.1415783248017646,63,1
+EST,Estonia,Estonia,Risk Preparation,1.0,1.1901578722799033,0.7815573406059635,10,1
+ERI,Eritrea,Eritrea,Risk Preparation,1.0,2.2954993724224493,6.991952353313068,63,1
+GNQ,Equatorial Guinea,Equatorial Guinea,Risk Preparation,1.0,3.4759309718437783,8.89859167799766,63,1
+SLV,El Salvador,El Salvador,Risk Preparation,6.0,6.395348837209302,0.7774938193387415,8,5
+EGY,Egypt,Egypt,Risk Preparation,6.0,6.068538304160036,0.8842413608628632,63,1
+ECU,Ecuador,Ecuador,Risk Preparation,6.0,5.998133283554228,0.17813111729238426,10,5
+DOM,Dominican Republic,Dominican Republic,Risk Preparation,8.0,8.245590828924163,0.6634199739651547,10,5
+DMA,Dominica,Dominica,Risk Preparation,1.0,1.0,0.0,1,1
+DJI,Djibouti,Djibouti,Risk Preparation,6.0,6.09704641350211,0.8817606392043174,8,1
+DN1,Denmark,Greenland,Risk Preparation,1.0,1.1172293350209328,1.0204515168291648,10,1
+DN1,Denmark,Denmark,Risk Preparation,1.0,1.0871939404615114,0.8815569640700462,10,1
+CZE,Czechia,Czechia,Risk Preparation,1.0,1.0427154843630817,0.2878256062536948,3,1
+CYN,Northern Cyprus,Northern Cyprus,Risk Preparation,6.0,5.914798206278027,0.279181747377101,6,5
+CYP,Cyprus,Cyprus,Risk Preparation,6.0,5.980337078651686,0.13883908265457748,6,5
+HRV,Croatia,Croatia,Risk Preparation,3.0,3.1371603856266432,1.1037480563165052,10,1
+CIV,Ivory Coast,Ivory Coast,Risk Preparation,10.0,9.981674060068359,0.17254292579497366,10,8
+CRI,Costa Rica,Costa Rica,Risk Preparation,6.0,6.199371351594073,0.6088256452539746,8,5
+COD,Democratic Republic of the Congo,Democratic Republic of the Congo,Risk Preparation,10.0,9.996703720232057,2.2014086249868408,63,1
+COG,Republic of the Congo,Republic of the Congo,Risk Preparation,10.0,9.942142513571085,0.3094165644406049,10,8
+COM,Comoros,Comoros,Risk Preparation,1.0,1.0,0.0,1,1
+COL,Colombia,Colombia,Risk Preparation,6.0,5.998628542930763,0.08478135934699088,10,5
+CH1,China,China,Risk Preparation,3.0,3.0586283168097674,0.5667845917857001,63,1
+CH1,China,Macao S.A.R,Risk Preparation,3.0,3.0,0.0,3,3
+CH1,China,Hong Kong S.A.R.,Risk Preparation,3.0,2.9591836734693877,0.28278380531736774,3,1
+CHL,Chile,Chile,Risk Preparation,3.0,3.1142982305773,0.8225751252858063,10,1
+TCD,Chad,Chad,Risk Preparation,10.0,9.961657454722426,2.318660130565968,63,1
+CAF,Central African Republic,Central African Republic,Risk Preparation,10.0,10.007200242534486,1.2413507332501446,63,1
+CPV,Cabo Verde,Cabo Verde,Risk Preparation,10.0,10.0,0.0,10,10
+CAN,Canada,Canada,Risk Preparation,1.0,1.0487082851934821,0.6603045279981432,10,1
+CMR,Cameroon,Cameroon,Risk Preparation,8.0,8.0716851317853,0.6670493476559568,63,1
+KHM,Cambodia,Cambodia,Risk Preparation,10.0,9.772055137844612,0.8597347827726824,10,6
+MMR,Myanmar,Myanmar,Risk Preparation,8.0,7.929034671988027,0.545865971930562,10,3
+BDI,Burundi,Burundi,Risk Preparation,10.0,9.95701754385965,0.2760845593341636,10,8
+BFA,Burkina Faso,Burkina Faso,Risk Preparation,8.0,8.162218515429524,0.5181835364411566,10,8
+BGR,Bulgaria,Bulgaria,Risk Preparation,3.0,3.329593589009731,0.9196761616927541,10,1
+BRN,Brunei,Brunei,Risk Preparation,1.0,1.5,0.8660254037844386,3,1
+BRA,Brazil,Brazil,Risk Preparation,6.0,6.004115969430297,0.140252165734473,10,1
+BWA,Botswana,Botswana,Risk Preparation,6.0,6.110028149190711,0.48731054628953513,10,1
+BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,Risk Preparation,6.0,5.602993585174626,1.2561658128987419,6,1
+BOL,Bolivia,Bolivia,Risk Preparation,8.0,7.898070797523889,0.49428053202775263,8,3
+BTN,Bhutan,Bhutan,Risk Preparation,1.0,3.0736196319018405,7.734215008746599,63,1
+BEN,Benin,Benin,Risk Preparation,10.0,9.988460007958615,0.1333180887420518,10,8
+BLZ,Belize,Belize,Risk Preparation,3.0,3.3996175908221797,1.3374156205532148,8,1
+BEL,Belgium,Belgium,Risk Preparation,1.0,1.0028195488721805,0.15927331852442028,10,1
+BLR,Belarus,Belarus,Risk Preparation,3.0,3.0,0.0,3,3
+BRB,Barbados,Barbados,Risk Preparation,1.0,1.0,0.0,1,1
+BGD,Bangladesh,Bangladesh,Risk Preparation,8.0,7.997501469723692,1.417273836324138,63,1
+BHR,Bahrain,Bahrain,Risk Preparation,1.0,1.0,0.0,1,1
+BHS,The Bahamas,The Bahamas,Risk Preparation,1.0,1.0,0.0,1,1
+AZE,Azerbaijan,Azerbaijan,Risk Preparation,8.0,7.7069520437721275,1.0711237231092596,10,3
+AUT,Austria,Austria,Risk Preparation,1.0,1.0229007633587786,0.21125853245719553,3,1
+AU1,Australia,Australia,Risk Preparation,1.0,1.0036801697091056,0.18195599394595863,10,1
+ARM,Armenia,Armenia,Risk Preparation,6.0,6.0606203007518795,0.9457015887298832,8,3
+ARG,Argentina,Argentina,Risk Preparation,6.0,5.977696712995559,0.33831382433484763,10,3
+ATG,Antigua and Barbuda,Antigua and Barbuda,Risk Preparation,1.0,1.0,0.0,1,1
+AGO,Angola,Angola,Risk Preparation,1.0,1.5842144534022458,4.638991034002138,63,1
+AND,Andorra,Andorra,Risk Preparation,1.0,1.0,0.0,1,1
+DZA,Algeria,Algeria,Risk Preparation,6.0,6.018618266050024,0.5683605212205063,63,1
+ALB,Albania,Albania,Risk Preparation,6.0,5.538939321548018,1.2768055511055283,10,1
+AFG,Afghanistan,Afghanistan,Risk Preparation,10.0,9.826580268415121,2.311607608487483,63,1
+KAS,Kashmir,Siachen Glacier,Risk Preparation,8.0,7.931818181818182,0.4298199379546752,8,4
+NL1,Netherlands,Sint Maarten,Risk Preparation,1.0,1.0,0.0,1,1
+TUV,Tuvalu,Tuvalu,Risk Preparation,--,--,--,--,--

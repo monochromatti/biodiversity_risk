@@ -1,0 +1,208 @@
+SOV_A3,SOVEREIGNTY,ADMIN,RISK_TYPE,RISK_MEDIAN,RISK_MEAN,RISK_STD,RISK_MAX,RISK_MIN
+ZWE,Zimbabwe,Zimbabwe,Additional Reputational Factors,10.0,9.88982402448355,0.5121693852067031,10,5
+ZMB,Zambia,Zambia,Additional Reputational Factors,8.0,8.155252094576463,0.617692434930749,10,6
+YEM,Yemen,Yemen,Additional Reputational Factors,9.0,8.78407931185304,0.9958768178202133,10,1
+VNM,Vietnam,Vietnam,Additional Reputational Factors,6.0,6.461054860697505,0.9014297860382346,10,1
+VEN,Venezuela,Venezuela,Additional Reputational Factors,7.0,7.201226710465534,0.7299683588612988,10,5
+VAT,Vatican,Vatican,Additional Reputational Factors,--,--,--,--,--
+VUT,Vanuatu,Vanuatu,Additional Reputational Factors,5.0,4.73062015503876,0.8277598909787512,5,1
+UZB,Uzbekistan,Uzbekistan,Additional Reputational Factors,6.0,6.0882841711674285,0.47877232456892177,9,6
+URY,Uruguay,Uruguay,Additional Reputational Factors,3.0,3.704062262718299,1.3503306119240608,10,3
+FSM,Federated States of Micronesia,Federated States of Micronesia,Additional Reputational Factors,7.0,6.730769230769231,1.429300321235542,9,1
+MHL,Marshall Islands,Marshall Islands,Additional Reputational Factors,9.0,9.25,0.4330127018922193,10,9
+US1,United States of America,United States of America,Additional Reputational Factors,5.0,5.2821615047495225,1.1483443595105427,10,1
+GB1,United Kingdom,Jersey,Additional Reputational Factors,10.0,10.0,0.0,10,10
+GB1,United Kingdom,Guernsey,Additional Reputational Factors,10.0,10.0,0.0,10,10
+GB1,United Kingdom,Isle of Man,Additional Reputational Factors,7.0,7.166666666666667,0.37267799624996495,8,7
+GB1,United Kingdom,United Kingdom,Additional Reputational Factors,10.0,8.962449785524614,2.198091347831797,10,4
+ARE,United Arab Emirates,United Arab Emirates,Additional Reputational Factors,4.0,4.950320960089311,1.487988669091862,10,4
+UKR,Ukraine,Ukraine,Additional Reputational Factors,6.0,6.349146721047547,0.8024121346146623,10,4
+UGA,Uganda,Uganda,Additional Reputational Factors,9.0,9.183783783783785,0.5311268743815842,10,7
+TKM,Turkmenistan,Turkmenistan,Additional Reputational Factors,6.0,6.041708588676484,0.4427993930661928,10,5
+TUR,Turkey,Turkey,Additional Reputational Factors,8.0,8.121199830386608,0.49438193106144374,10,3
+TUN,Tunisia,Tunisia,Additional Reputational Factors,7.0,6.449911393724591,0.9605033615048816,10,5
+TTO,Trinidad and Tobago,Trinidad and Tobago,Additional Reputational Factors,3.0,3.2752293577981653,0.8225219623740517,10,3
+TON,Tonga,Tonga,Additional Reputational Factors,1.0,1.0,0.0,1,1
+TGO,Togo,Togo,Additional Reputational Factors,8.0,8.454545454545455,1.3658495425048203,10,5
+TLS,East Timor,East Timor,Additional Reputational Factors,8.0,7.876175548589342,0.7709639249481182,10,6
+THA,Thailand,Thailand,Additional Reputational Factors,8.0,8.206395598727758,0.43383149093295925,10,5
+TZA,United Republic of Tanzania,United Republic of Tanzania,Additional Reputational Factors,8.0,8.367060873895182,0.5160783842566536,10,7
+TJK,Tajikistan,Tajikistan,Additional Reputational Factors,8.0,8.49445471349353,0.787181692429091,10,6
+TWN,Taiwan,Taiwan,Additional Reputational Factors,8.0,8.033945464663327,0.18413618912819357,10,8
+SYR,Syria,Syria,Additional Reputational Factors,9.0,8.92764346554246,0.2918710176026229,10,6
+CHE,Switzerland,Switzerland,Additional Reputational Factors,7.0,6.901297998918334,2.1108397879738674,10,2
+SWE,Sweden,Sweden,Additional Reputational Factors,7.0,5.3434167838517155,2.3277170765082045,10,2
+SWZ,eSwatini,eSwatini,Additional Reputational Factors,9.0,8.892655367231638,0.9247398534087802,10,8
+SUR,Suriname,Suriname,Additional Reputational Factors,5.0,5.629037520391517,0.9144865755153361,10,5
+SDS,South Sudan,South Sudan,Additional Reputational Factors,7.0,7.715656033704484,1.239394430345428,10,6
+SDN,Sudan,Sudan,Additional Reputational Factors,10.0,9.912986491592669,0.5026826467906945,10,1
+LKA,Sri Lanka,Sri Lanka,Additional Reputational Factors,7.0,6.667259153928191,0.540751201659564,10,6
+ESP,Spain,Spain,Additional Reputational Factors,4.0,5.951802937308198,2.7235748708095047,10,4
+KOR,South Korea,South Korea,Additional Reputational Factors,5.0,6.573613766730402,1.8854627538118804,10,5
+ZAF,South Africa,South Africa,Additional Reputational Factors,8.0,8.18579031320344,0.5007038073124355,10,5
+SOM,Somalia,Somalia,Additional Reputational Factors,7.0,7.058979092859638,0.36706691823283455,10,1
+SOL,Somaliland,Somaliland,Additional Reputational Factors,7.0,7.037901675363911,0.28404886837728455,10,6
+SLB,Solomon Islands,Solomon Islands,Additional Reputational Factors,6.0,6.302810516772439,0.7514635387319352,10,1
+SVK,Slovakia,Slovakia,Additional Reputational Factors,5.0,4.329675059177965,1.031976153521654,9,3
+SVN,Slovenia,Slovenia,Additional Reputational Factors,3.0,3.772108843537415,1.0308142861163083,10,2
+SGP,Singapore,Singapore,Additional Reputational Factors,5.0,4.909090909090909,0.28747978728803447,5,4
+SLE,Sierra Leone,Sierra Leone,Additional Reputational Factors,8.0,8.089494163424124,0.39092311968492777,10,8
+SYC,Seychelles,Seychelles,Additional Reputational Factors,10.0,10.0,0.0,10,10
+SRB,Republic of Serbia,Republic of Serbia,Additional Reputational Factors,6.0,5.989721695129664,0.5962580858676816,7,3
+SEN,Senegal,Senegal,Additional Reputational Factors,7.0,8.013631716460297,1.3464990385441309,10,7
+SAU,Saudi Arabia,Saudi Arabia,Additional Reputational Factors,4.0,4.069955083203996,0.5315380202636315,10,1
+STP,São Tomé and Principe,São Tomé and Principe,Additional Reputational Factors,10.0,10.0,0.0,10,10
+SMR,San Marino,San Marino,Additional Reputational Factors,10.0,10.0,0.0,10,10
+WSM,Samoa,Samoa,Additional Reputational Factors,10.0,10.0,0.0,10,10
+VCT,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,Additional Reputational Factors,7.0,7.142857142857143,0.3499271061118826,8,7
+LCA,Saint Lucia,Saint Lucia,Additional Reputational Factors,7.0,7.208333333333333,0.40611643103370687,8,7
+KNA,Saint Kitts and Nevis,Saint Kitts and Nevis,Additional Reputational Factors,7.0,7.454545454545454,0.4979295977319692,8,7
+RWA,Rwanda,Rwanda,Additional Reputational Factors,10.0,8.64507042253521,1.4286921100347016,10,7
+RUS,Russia,Russia,Additional Reputational Factors,8.0,8.110539101833552,0.5326254561765141,10,1
+ROU,Romania,Romania,Additional Reputational Factors,5.0,5.664947694121114,0.9318476910478161,9,3
+QAT,Qatar,Qatar,Additional Reputational Factors,6.0,6.017636684303351,0.5472774255565,10,4
+PRT,Portugal,Portugal,Additional Reputational Factors,7.0,5.9088069956277325,1.5833466997530163,10,4
+POL,Poland,Poland,Additional Reputational Factors,5.0,5.971711944803794,1.7029864487784172,10,3
+PHL,Philippines,Philippines,Additional Reputational Factors,8.0,8.15929411764706,0.3987700351653696,10,1
+PER,Peru,Peru,Additional Reputational Factors,7.0,7.5780009633052074,0.8976085869543231,10,1
+PRY,Paraguay,Paraguay,Additional Reputational Factors,7.0,7.216373681567052,0.638850289666671,10,6
+PNG,Papua New Guinea,Papua New Guinea,Additional Reputational Factors,8.0,8.03948436865611,0.7721318767271157,10,1
+PAN,Panama,Panama,Additional Reputational Factors,6.0,6.086641461877757,1.1129038632408976,10,4
+PLW,Palau,Palau,Additional Reputational Factors,8.0,7.75,0.82915619758885,10,7
+PAK,Pakistan,Pakistan,Additional Reputational Factors,8.0,7.970755217906302,0.5365785530206106,10,1
+OMN,Oman,Oman,Additional Reputational Factors,4.0,4.444831280128549,1.2682133453680835,10,1
+NOR,Norway,Norway,Additional Reputational Factors,2.0,3.5774087576064204,2.4995472769550773,10,1
+PRK,North Korea,North Korea,Additional Reputational Factors,6.0,6.261799158421471,0.7646620832719129,10,6
+NGA,Nigeria,Nigeria,Additional Reputational Factors,9.0,9.097714154949275,0.3643682650348659,10,7
+NER,Niger,Niger,Additional Reputational Factors,8.0,8.38248207229621,0.7992233446539304,10,6
+NIC,Nicaragua,Nicaragua,Additional Reputational Factors,9.0,8.682832542611141,0.5006607371065162,10,7
+NZ1,New Zealand,New Zealand,Additional Reputational Factors,2.0,3.427950187784147,2.263611082784983,10,1
+NL1,Netherlands,Netherlands,Additional Reputational Factors,9.0,8.778503994190269,1.3375325264922944,10,2
+NL1,Netherlands,Aruba,Additional Reputational Factors,7.5,7.5,0.5,8,7
+NL1,Netherlands,Curaçao,Additional Reputational Factors,7.5,7.5,0.5,8,7
+NPL,Nepal,Nepal,Additional Reputational Factors,8.0,8.722837022132797,0.9004199777970734,10,8
+NRU,Nauru,Nauru,Additional Reputational Factors,4.0,4.0,0.0,4,4
+NAM,Namibia,Namibia,Additional Reputational Factors,6.0,6.555965164035825,1.13118349516406,10,5
+MOZ,Mozambique,Mozambique,Additional Reputational Factors,8.0,8.263123305676498,0.6566927200881206,10,6
+MAR,Morocco,Morocco,Additional Reputational Factors,6.0,6.3808792828196,0.5565969679576552,10,6
+SAH,Western Sahara,Western Sahara,Additional Reputational Factors,6.0,6.457217504898759,1.0597071061473564,10,6
+MNE,Montenegro,Montenegro,Additional Reputational Factors,6.0,4.854186265286923,1.3806889056911615,7,3
+MNG,Mongolia,Mongolia,Additional Reputational Factors,6.0,6.475690228957479,1.062726901618185,10,6
+MDA,Moldova,Moldova,Additional Reputational Factors,6.0,5.93519441674975,1.0202930836247934,8,5
+MCO,Monaco,Monaco,Additional Reputational Factors,10.0,10.0,0.0,10,10
+MEX,Mexico,Mexico,Additional Reputational Factors,7.0,8.022061643420868,1.4121059762384385,10,3
+MUS,Mauritius,Mauritius,Additional Reputational Factors,10.0,10.0,0.0,10,10
+MRT,Mauritania,Mauritania,Additional Reputational Factors,9.0,8.962208539416574,0.4250473794427252,10,6
+MLT,Malta,Malta,Additional Reputational Factors,7.0,7.266666666666667,0.4422166387140533,8,7
+MLI,Mali,Mali,Additional Reputational Factors,9.0,9.04088169450663,0.4899356796160717,10,6
+MDV,Maldives,Maldives,Additional Reputational Factors,1.0,1.0,0.0,1,1
+MYS,Malaysia,Malaysia,Additional Reputational Factors,5.0,5.232074240556805,0.7252092079333697,10,2
+MWI,Malawi,Malawi,Additional Reputational Factors,7.0,7.834465836164591,0.9980943089647563,10,7
+MDG,Madagascar,Madagascar,Additional Reputational Factors,8.0,8.699333832068683,0.9644823090989499,10,1
+MKD,North Macedonia,North Macedonia,Additional Reputational Factors,4.0,4.7614533965244865,1.2704231295856507,7,4
+LUX,Luxembourg,Luxembourg,Additional Reputational Factors,5.0,5.946360153256705,1.8249537254885912,10,5
+LTU,Lithuania,Lithuania,Additional Reputational Factors,3.0,4.106856527462008,1.4266635227358246,10,3
+LIE,Liechtenstein,Liechtenstein,Additional Reputational Factors,7.0,6.181818181818182,1.465865045145191,7,2
+LBY,Libya,Libya,Additional Reputational Factors,7.0,7.068492673120054,0.4734635284185051,10,5
+LBR,Liberia,Liberia,Additional Reputational Factors,8.0,8.079822616407982,0.366810249480404,10,8
+LSO,Lesotho,Lesotho,Additional Reputational Factors,7.0,7.665264423076923,0.84869536602435,9,7
+LBN,Lebanon,Lebanon,Additional Reputational Factors,9.0,8.758620689655173,0.7444565152417537,10,6
+LVA,Latvia,Latvia,Additional Reputational Factors,3.0,4.030434299677885,1.3059923495537782,10,2
+LAO,Laos,Laos,Additional Reputational Factors,8.0,8.052014995313964,0.4856064795783775,10,6
+KGZ,Kyrgyzstan,Kyrgyzstan,Additional Reputational Factors,6.0,6.600646943864142,0.9107867856209317,9,6
+KWT,Kuwait,Kuwait,Additional Reputational Factors,4.0,4.69055036344756,1.4589516742709896,9,4
+KIR,Kiribati,Kiribati,Additional Reputational Factors,1.0,1.8048780487804879,2.0978445639265537,10,1
+KEN,Kenya,Kenya,Additional Reputational Factors,8.0,8.26228323699422,0.706318434526625,10,4
+JOR,Jordan,Jordan,Additional Reputational Factors,6.0,6.46229379418696,1.1966633705451737,9,4
+JPN,Japan,Japan,Additional Reputational Factors,9.0,6.384739084988341,2.9073498933935773,10,3
+JAM,Jamaica,Jamaica,Additional Reputational Factors,7.0,7.092702169625246,0.30331175994857723,9,7
+ITA,Italy,Italy,Additional Reputational Factors,7.0,7.45681275579809,2.449230843376822,10,2
+IS1,Israel,Palestine,Additional Reputational Factors,6.0,5.251351351351351,0.9495722000136243,7,4
+IRL,Ireland,Ireland,Additional Reputational Factors,5.0,4.310598503740648,1.6819156608380592,10,2
+IRQ,Iraq,Iraq,Additional Reputational Factors,8.0,8.040329375718116,0.8743446014529735,10,4
+IRN,Iran,Iran,Additional Reputational Factors,5.0,5.7894638345653595,1.7733242278111943,10,4
+IDN,Indonesia,Indonesia,Additional Reputational Factors,9.0,9.037539195896967,0.7067341177364899,10,1
+IND,India,India,Additional Reputational Factors,9.0,9.036317905527715,0.382013483277149,10,1
+ISL,Iceland,Iceland,Additional Reputational Factors,5.0,3.587080190468164,1.6149610087329287,10,1
+HUN,Hungary,Hungary,Additional Reputational Factors,6.0,5.2917309289358165,1.3494629965794265,8,3
+HND,Honduras,Honduras,Additional Reputational Factors,8.0,8.29,0.525075158018952,10,6
+HTI,Haiti,Haiti,Additional Reputational Factors,10.0,9.97452229299363,0.27816607297207185,10,6
+GUY,Guyana,Guyana,Additional Reputational Factors,5.0,5.250753937227745,0.7158633518606872,10,5
+GNB,Guinea-Bissau,Guinea-Bissau,Additional Reputational Factors,10.0,9.498932384341638,0.6552543710665258,10,7
+GIN,Guinea,Guinea,Additional Reputational Factors,8.0,8.934132301594792,0.9736562276335636,10,8
+GTM,Guatemala,Guatemala,Additional Reputational Factors,8.0,8.436737184703011,0.7009416635587424,10,6
+GRD,Grenada,Grenada,Additional Reputational Factors,7.0,7.384615384615385,0.4865042554105199,8,7
+GRC,Greece,Greece,Additional Reputational Factors,5.0,4.656836757234371,1.5440227211877355,10,3
+GHA,Ghana,Ghana,Additional Reputational Factors,5.0,5.336553473848555,1.1001839259997102,10,5
+DEU,Germany,Germany,Additional Reputational Factors,5.0,6.34995780145585,3.373782557289008,10,2
+GEO,Georgia,Georgia,Additional Reputational Factors,5.0,5.382079939382459,0.8560256056447881,10,5
+GMB,Gambia,Gambia,Additional Reputational Factors,9.0,8.73289183222958,1.287295633451144,10,7
+GAB,Gabon,Gabon,Additional Reputational Factors,9.0,8.521062271062272,0.5758538554086284,10,6
+FR1,France,France,Additional Reputational Factors,4.0,6.0900947459087,2.732663531550814,10,3
+FI1,Finland,Aland,Additional Reputational Factors,7.0,7.3828125,0.5321109751205569,9,7
+FI1,Finland,Finland,Additional Reputational Factors,7.0,4.849627542042102,2.5098438542435906,10,2
+FJI,Fiji,Fiji,Additional Reputational Factors,7.0,7.1674528301886795,0.8228901681920159,10,1
+ETH,Ethiopia,Ethiopia,Additional Reputational Factors,8.0,8.005307004011108,0.2299506850513662,10,6
+EST,Estonia,Estonia,Additional Reputational Factors,5.0,4.720665623666619,1.7483310726499734,10,2
+ERI,Eritrea,Eritrea,Additional Reputational Factors,7.0,7.046799354491662,0.5669748924646105,10,1
+GNQ,Equatorial Guinea,Equatorial Guinea,Additional Reputational Factors,8.0,8.061762034514079,1.7996367030825366,10,6
+SLV,El Salvador,El Salvador,Additional Reputational Factors,7.0,7.295681063122924,0.7075398052548932,9,6
+EGY,Egypt,Egypt,Additional Reputational Factors,6.0,6.19246798514814,0.81259555393022,10,5
+ECU,Ecuador,Ecuador,Additional Reputational Factors,8.0,8.278327422064589,0.5590088654472555,10,7
+DOM,Dominican Republic,Dominican Republic,Additional Reputational Factors,6.0,6.572310405643739,1.3188935514076308,10,6
+DMA,Dominica,Dominica,Additional Reputational Factors,7.0,7.25,0.5,9,7
+DJI,Djibouti,Djibouti,Additional Reputational Factors,6.0,6.224683544303797,0.591021433160379,9,6
+DN1,Denmark,Greenland,Additional Reputational Factors,5.0,5.14887858479646,0.7002930470206103,10,5
+DN1,Denmark,Denmark,Additional Reputational Factors,7.0,6.560683459573719,1.6809213728334245,10,2
+CZE,Czechia,Czechia,Additional Reputational Factors,5.0,4.53585049580473,1.2465253084249814,10,2
+CYN,Northern Cyprus,Northern Cyprus,Additional Reputational Factors,4.0,4.2242152466367715,0.5791180772440612,8,4
+CYP,Cyprus,Cyprus,Additional Reputational Factors,4.0,4.963483146067416,1.3927231438207388,8,4
+HRV,Croatia,Croatia,Additional Reputational Factors,5.0,4.576906222611744,1.3076333161634401,10,2
+CIV,Ivory Coast,Ivory Coast,Additional Reputational Factors,8.0,8.362010035633771,0.9824995484524477,10,5
+CRI,Costa Rica,Costa Rica,Additional Reputational Factors,7.0,6.550067355186349,1.4612442013671303,10,4
+COD,Democratic Republic of the Congo,Democratic Republic of the Congo,Additional Reputational Factors,10.0,9.945991723802182,0.3977119987645365,10,6
+COG,Republic of the Congo,Republic of the Congo,Additional Reputational Factors,10.0,9.61595547309833,0.5214149081440456,10,8
+COM,Comoros,Comoros,Additional Reputational Factors,8.0,8.246153846153845,0.4307692307692308,9,8
+COL,Colombia,Colombia,Additional Reputational Factors,7.0,7.219620147951126,0.6031639257363027,10,6
+CH1,China,China,Additional Reputational Factors,8.0,8.196149509265334,0.6214722789098994,10,4
+CH1,China,Macao S.A.R,Additional Reputational Factors,8.0,8.0,0.0,8,8
+CH1,China,Hong Kong S.A.R.,Additional Reputational Factors,10.0,10.0,0.0,10,10
+CHL,Chile,Chile,Additional Reputational Factors,5.0,5.921356874845247,1.8866730805727956,10,1
+TCD,Chad,Chad,Additional Reputational Factors,10.0,9.930945180241249,0.3964472969082052,10,7
+CAF,Central African Republic,Central African Republic,Additional Reputational Factors,10.0,9.983969986357435,0.16906183724868265,10,7
+CPV,Cabo Verde,Cabo Verde,Additional Reputational Factors,10.0,10.0,0.0,10,10
+CAN,Canada,Canada,Additional Reputational Factors,4.0,4.352396871042857,1.4457843979836196,10,1
+CMR,Cameroon,Cameroon,Additional Reputational Factors,8.0,8.419132898264785,0.7892920476309743,10,8
+KHM,Cambodia,Cambodia,Additional Reputational Factors,10.0,9.828446115288221,0.698022873054289,10,6
+MMR,Myanmar,Myanmar,Additional Reputational Factors,8.0,8.106946869543528,0.3159304595894266,10,8
+BDI,Burundi,Burundi,Additional Reputational Factors,10.0,9.563157894736841,1.0071902168726565,10,7
+BFA,Burkina Faso,Burkina Faso,Additional Reputational Factors,8.0,7.5561301084236865,1.5079363148667728,10,5
+BGR,Bulgaria,Bulgaria,Additional Reputational Factors,6.0,4.8,1.6514065746723936,10,3
+BRN,Brunei,Brunei,Additional Reputational Factors,7.0,6.584745762711864,0.9003414718160415,9,5
+BRA,Brazil,Brazil,Additional Reputational Factors,8.0,8.173425708079515,0.5897266179093525,10,3
+BWA,Botswana,Botswana,Additional Reputational Factors,5.0,5.537966220971147,0.9774018476735933,10,5
+BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,Additional Reputational Factors,6.0,6.576383939177952,1.06005156878131,8,3
+BOL,Bolivia,Bolivia,Additional Reputational Factors,7.0,7.146743594366649,0.5855691785961211,10,5
+BTN,Bhutan,Bhutan,Additional Reputational Factors,4.0,5.1618688060405855,2.0095899153568038,10,4
+BEN,Benin,Benin,Additional Reputational Factors,7.0,7.897532829287704,1.2963437984381836,10,7
+BLZ,Belize,Belize,Additional Reputational Factors,6.0,5.584130019120459,1.629700601929287,10,3
+BEL,Belgium,Belgium,Additional Reputational Factors,7.0,6.343671679197995,2.359192026950117,10,3
+BLR,Belarus,Belarus,Additional Reputational Factors,4.0,6.25972278842234,2.4090661931864266,10,3
+BRB,Barbados,Barbados,Additional Reputational Factors,7.0,7.1875,0.3903123748998999,8,7
+BGD,Bangladesh,Bangladesh,Additional Reputational Factors,8.0,8.172398589065256,0.5192893630122726,10,4
+BHR,Bahrain,Bahrain,Additional Reputational Factors,6.0,6.344827586206897,0.47531202593414557,7,6
+BHS,The Bahamas,The Bahamas,Additional Reputational Factors,4.0,4.855140186915888,1.246507918022755,9,4
+AZE,Azerbaijan,Azerbaijan,Additional Reputational Factors,8.0,7.918088187962665,0.8116177354611754,10,4
+AUT,Austria,Austria,Additional Reputational Factors,7.0,5.359813688704878,2.531119758412985,10,2
+AU1,Australia,Australia,Additional Reputational Factors,4.0,4.746043507784116,1.955381655997207,10,1
+ARM,Armenia,Armenia,Additional Reputational Factors,7.0,6.515037593984962,1.0958566011645938,9,4
+ARG,Argentina,Argentina,Additional Reputational Factors,6.0,6.482705666465237,1.101355239890449,10,3
+ATG,Antigua and Barbuda,Antigua and Barbuda,Additional Reputational Factors,7.0,7.45,0.5894913061275798,9,7
+AGO,Angola,Angola,Additional Reputational Factors,6.0,6.099819832935995,0.5995729099304621,10,1
+AND,Andorra,Andorra,Additional Reputational Factors,10.0,10.0,0.0,10,10
+DZA,Algeria,Algeria,Additional Reputational Factors,6.0,6.61970981841836,1.1949564037260947,10,5
+ALB,Albania,Albania,Additional Reputational Factors,7.0,6.172479694218825,1.1338375510443055,10,3
+AFG,Afghanistan,Afghanistan,Additional Reputational Factors,10.0,9.844098965269952,0.7525871506760689,10,5
+KAS,Kashmir,Siachen Glacier,Additional Reputational Factors,9.0,8.909090909090908,0.37848472717566045,9,7
+NL1,Netherlands,Sint Maarten,Additional Reputational Factors,7.0,7.0,0.0,7,7
+TUV,Tuvalu,Tuvalu,Additional Reputational Factors,--,--,--,--,--

@@ -1,0 +1,208 @@
+SOV_A3,SOVEREIGNTY,ADMIN,RISK_TYPE,RISK_MEDIAN,RISK_MEAN,RISK_STD,RISK_MAX,RISK_MIN
+ZWE,Zimbabwe,Zimbabwe,Pressures on Biodiversity,4.0,4.590337741829708,1.096381924086955,9,2
+ZMB,Zambia,Zambia,Pressures on Biodiversity,5.0,5.153135156086943,1.415830744450079,10,1
+YEM,Yemen,Yemen,Pressures on Biodiversity,3.0,2.890508820527774,1.1019454310160803,7,1
+VNM,Vietnam,Vietnam,Pressures on Biodiversity,7.0,6.951889352127589,1.2352236574344324,10,2
+VEN,Venezuela,Venezuela,Pressures on Biodiversity,3.0,3.641430991120464,0.7970083705700276,8,2
+VAT,Vatican,Vatican,Pressures on Biodiversity,--,--,--,--,--
+VUT,Vanuatu,Vanuatu,Pressures on Biodiversity,2.0,2.0426356589147288,0.20203430278949064,3,2
+UZB,Uzbekistan,Uzbekistan,Pressures on Biodiversity,3.0,3.942785922013176,2.065343696811466,8,1
+URY,Uruguay,Uruguay,Pressures on Biodiversity,5.0,5.431093394077449,1.7248566292389078,10,3
+FSM,Federated States of Micronesia,Federated States of Micronesia,Pressures on Biodiversity,2.0,2.0,0.0,2,2
+MHL,Marshall Islands,Marshall Islands,Pressures on Biodiversity,2.0,2.0,0.0,2,2
+US1,United States of America,United States of America,Pressures on Biodiversity,6.0,6.4217137130817985,1.8964350990614993,10,1
+GB1,United Kingdom,Jersey,Pressures on Biodiversity,7.0,6.785714285714286,0.6738557951469002,8,6
+GB1,United Kingdom,Guernsey,Pressures on Biodiversity,6.5,6.5,0.5,7,6
+GB1,United Kingdom,Isle of Man,Pressures on Biodiversity,2.0,2.393939393939394,0.967326648455295,6,2
+GB1,United Kingdom,United Kingdom,Pressures on Biodiversity,6.0,6.490229454619731,0.9370224251182591,10,4
+ARE,United Arab Emirates,United Arab Emirates,Pressures on Biodiversity,3.0,3.3767792352777004,0.7916230465506041,8,2
+UKR,Ukraine,Ukraine,Pressures on Biodiversity,5.0,5.204983721512647,1.3659569100519018,10,3
+UGA,Uganda,Uganda,Pressures on Biodiversity,5.0,5.138083538083538,1.6029761211914046,10,1
+TKM,Turkmenistan,Turkmenistan,Pressures on Biodiversity,4.0,4.485777005396506,1.8514705997118972,10,1
+TUR,Turkey,Turkey,Pressures on Biodiversity,5.0,5.420770266034919,1.134603169731267,10,2
+TUN,Tunisia,Tunisia,Pressures on Biodiversity,4.0,4.6566246221202965,1.5240153879357277,10,2
+TTO,Trinidad and Tobago,Trinidad and Tobago,Pressures on Biodiversity,3.0,3.2477064220183487,0.6793948103329768,7,3
+TON,Tonga,Tonga,Pressures on Biodiversity,4.0,4.0,0.0,4,4
+TGO,Togo,Togo,Pressures on Biodiversity,7.0,6.514879739094986,0.8746805111263455,8,5
+TLS,East Timor,East Timor,Pressures on Biodiversity,4.0,4.244514106583072,1.1663085130473185,8,2
+THA,Thailand,Thailand,Pressures on Biodiversity,6.0,5.982334737385026,0.7869317411619808,10,3
+TZA,United Republic of Tanzania,United Republic of Tanzania,Pressures on Biodiversity,5.0,5.379484625918088,1.2555852595998407,9,1
+TJK,Tajikistan,Tajikistan,Pressures on Biodiversity,4.0,3.920312179092216,1.9702595253272333,8,1
+TWN,Taiwan,Taiwan,Pressures on Biodiversity,5.0,5.072899276572064,0.38722662625773696,10,5
+SYR,Syria,Syria,Pressures on Biodiversity,5.0,4.97048954658866,1.249860283492757,9,3
+CHE,Switzerland,Switzerland,Pressures on Biodiversity,6.0,5.8193618171984856,0.9330384562930609,8,5
+SWE,Sweden,Sweden,Pressures on Biodiversity,5.0,4.7868523911286305,1.0426071394433754,10,2
+SWZ,eSwatini,eSwatini,Pressures on Biodiversity,5.0,6.0214689265536725,1.9434351584594056,9,3
+SUR,Suriname,Suriname,Pressures on Biodiversity,4.0,4.3,0.8026566817615791,7,2
+SDS,South Sudan,South Sudan,Pressures on Biodiversity,2.0,2.3862097502257,1.4183805939945848,6,1
+SDN,Sudan,Sudan,Pressures on Biodiversity,3.0,3.8156527489136596,1.0141403585657227,8,1
+LKA,Sri Lanka,Sri Lanka,Pressures on Biodiversity,6.0,5.780305723426946,0.8227629263319224,8,5
+ESP,Spain,Spain,Pressures on Biodiversity,7.0,6.925032880315651,1.126784350925873,10,3
+KOR,South Korea,South Korea,Pressures on Biodiversity,6.0,5.9753027405991075,1.069089717571968,10,4
+ZAF,South Africa,South Africa,Pressures on Biodiversity,6.0,5.778446952192126,1.428150196707065,10,3
+SOM,Somalia,Somalia,Pressures on Biodiversity,1.0,1.6129434658949153,0.9224888090170427,6,1
+SOL,Somaliland,Somaliland,Pressures on Biodiversity,1.0,1.6855259544081296,1.184205218214196,5,1
+SLB,Solomon Islands,Solomon Islands,Pressures on Biodiversity,5.0,5.334542157751587,0.9090827791549001,6,2
+SVK,Slovakia,Slovakia,Pressures on Biodiversity,6.0,5.898644286636539,0.5324142323275944,8,5
+SVN,Slovenia,Slovenia,Pressures on Biodiversity,6.0,5.799886621315193,0.8638494167444191,10,4
+SGP,Singapore,Singapore,Pressures on Biodiversity,7.0,7.181818181818182,0.385694607919935,8,7
+SLE,Sierra Leone,Sierra Leone,Pressures on Biodiversity,5.0,5.2701037613488975,0.5762269284065712,7,1
+SYC,Seychelles,Seychelles,Pressures on Biodiversity,2.0,2.0,0.0,2,2
+SRB,Republic of Serbia,Republic of Serbia,Pressures on Biodiversity,6.0,6.206989247311828,0.8207510979848072,9,4
+SEN,Senegal,Senegal,Pressures on Biodiversity,4.0,4.150744064523458,1.0021539126587315,8,2
+SAU,Saudi Arabia,Saudi Arabia,Pressures on Biodiversity,4.0,3.9916539042665815,0.5759857612741276,8,2
+STP,São Tomé and Principe,São Tomé and Principe,Pressures on Biodiversity,5.0,4.977777777777778,0.14740554623801777,5,4
+SMR,San Marino,San Marino,Pressures on Biodiversity,8.0,8.0,0.0,8,8
+WSM,Samoa,Samoa,Pressures on Biodiversity,2.0,2.0,0.0,2,2
+VCT,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,Pressures on Biodiversity,4.0,4.142857142857143,0.3499271061118826,5,4
+LCA,Saint Lucia,Saint Lucia,Pressures on Biodiversity,4.0,4.208333333333333,0.40611643103370687,5,4
+KNA,Saint Kitts and Nevis,Saint Kitts and Nevis,Pressures on Biodiversity,2.0,2.909090909090909,1.2398346997259868,5,2
+RWA,Rwanda,Rwanda,Pressures on Biodiversity,6.0,5.953990610328638,0.38363903699956825,7,5
+RUS,Russia,Russia,Pressures on Biodiversity,4.0,3.9208113215712865,1.684692929814228,10,1
+ROU,Romania,Romania,Pressures on Biodiversity,5.0,5.3838711261725845,0.8919765599386236,8,3
+QAT,Qatar,Qatar,Pressures on Biodiversity,2.0,2.252204585537919,0.8022617326022852,8,2
+PRT,Portugal,Portugal,Pressures on Biodiversity,7.0,6.801217988757027,0.6590965486280776,10,3
+POL,Poland,Poland,Pressures on Biodiversity,7.0,6.632916486991519,0.9349045885494448,10,4
+PHL,Philippines,Philippines,Pressures on Biodiversity,5.0,5.190509803921569,0.8187149991931766,10,3
+PER,Peru,Peru,Pressures on Biodiversity,5.0,5.024207503077225,0.8788195000624811,8,3
+PRY,Paraguay,Paraguay,Pressures on Biodiversity,5.0,5.518985434455048,1.3152187181352002,9,3
+PNG,Papua New Guinea,Papua New Guinea,Pressures on Biodiversity,5.0,5.294204222492895,1.7944163029127855,9,2
+PAN,Panama,Panama,Pressures on Biodiversity,5.0,4.530875866414619,0.8053214172583197,8,2
+PLW,Palau,Palau,Pressures on Biodiversity,2.0,2.0,0.0,2,2
+PAK,Pakistan,Pakistan,Pressures on Biodiversity,5.0,5.573459134909937,1.663702388781559,9,2
+OMN,Oman,Oman,Pressures on Biodiversity,3.0,3.0820166041778254,0.7384410856685579,8,2
+NOR,Norway,Norway,Pressures on Biodiversity,3.0,3.522552430589246,0.9856760546821312,10,3
+PRK,North Korea,North Korea,Pressures on Biodiversity,5.0,4.851927669737291,1.0344465133543688,8,3
+NGA,Nigeria,Nigeria,Pressures on Biodiversity,6.0,5.9901599328739605,1.2276861571533135,10,2
+NER,Niger,Niger,Pressures on Biodiversity,2.0,2.6795697351090295,1.3578246140695,7,1
+NIC,Nicaragua,Nicaragua,Pressures on Biodiversity,4.0,4.250043929010719,0.7778324243986765,8,3
+NZ1,New Zealand,New Zealand,Pressures on Biodiversity,7.0,7.124876457797984,1.5829729560788572,10,3
+NL1,Netherlands,Netherlands,Pressures on Biodiversity,6.0,5.99685306221254,1.2218219873313791,10,2
+NL1,Netherlands,Aruba,Pressures on Biodiversity,2.0,2.3333333333333335,0.7453559924999298,4,2
+NL1,Netherlands,Curaçao,Pressures on Biodiversity,2.0,3.3,1.452583904633395,5,2
+NPL,Nepal,Nepal,Pressures on Biodiversity,4.0,4.210261569416499,1.2693394612947126,8,3
+NRU,Nauru,Nauru,Pressures on Biodiversity,1.0,1.0,0.0,1,1
+NAM,Namibia,Namibia,Pressures on Biodiversity,3.0,3.105645999307239,0.41326451526398805,6,1
+MOZ,Mozambique,Mozambique,Pressures on Biodiversity,4.0,4.582682986938306,1.5806069639763363,10,1
+MAR,Morocco,Morocco,Pressures on Biodiversity,4.0,3.7410352449957016,1.2416815475650897,10,1
+SAH,Western Sahara,Western Sahara,Pressures on Biodiversity,2.0,2.2943609841062487,0.5225221349917704,6,2
+MNE,Montenegro,Montenegro,Pressures on Biodiversity,5.0,5.2549388523047975,0.8195124924792989,6,4
+MNG,Mongolia,Mongolia,Pressures on Biodiversity,1.0,1.7966806164569438,1.1373837851521555,6,1
+MDA,Moldova,Moldova,Pressures on Biodiversity,5.0,4.764041209704221,1.3044991117280105,6,3
+MCO,Monaco,Monaco,Pressures on Biodiversity,7.0,7.0,0.0,7,7
+MEX,Mexico,Mexico,Pressures on Biodiversity,6.0,5.718789738207214,1.462536892558821,9,3
+MUS,Mauritius,Mauritius,Pressures on Biodiversity,7.0,7.0,0.0,7,7
+MRT,Mauritania,Mauritania,Pressures on Biodiversity,2.0,2.482265065105481,0.8914901093755712,8,1
+MLT,Malta,Malta,Pressures on Biodiversity,6.0,6.266666666666667,0.4422166387140533,7,6
+MLI,Mali,Mali,Pressures on Biodiversity,2.0,3.26175305665576,1.4873518381992437,8,2
+MDV,Maldives,Maldives,Pressures on Biodiversity,3.0,3.0,0.0,3,3
+MYS,Malaysia,Malaysia,Pressures on Biodiversity,7.0,6.484158631189734,0.6948134991922827,9,3
+MWI,Malawi,Malawi,Pressures on Biodiversity,5.0,5.234994337485844,1.4219622373139684,10,2
+MDG,Madagascar,Madagascar,Pressures on Biodiversity,5.0,4.985287307185351,1.5387241809185457,8,2
+MKD,North Macedonia,North Macedonia,Pressures on Biodiversity,5.0,5.673512374934176,1.2245465727465292,8,3
+LUX,Luxembourg,Luxembourg,Pressures on Biodiversity,7.0,7.053639846743295,0.2253056004289526,8,7
+LTU,Lithuania,Lithuania,Pressures on Biodiversity,7.0,7.288620318296039,0.8412205438425688,10,6
+LIE,Liechtenstein,Liechtenstein,Pressures on Biodiversity,5.0,5.0,0.0,5,5
+LBY,Libya,Libya,Pressures on Biodiversity,2.0,2.3905500098776336,0.827605778441458,10,1
+LBR,Liberia,Liberia,Pressures on Biodiversity,5.0,5.392707563439271,0.6532319905482923,7,1
+LSO,Lesotho,Lesotho,Pressures on Biodiversity,4.0,3.9170673076923075,1.1885256927777168,7,3
+LBN,Lebanon,Lebanon,Pressures on Biodiversity,7.0,7.090311986863711,1.1141962286767668,9,5
+LVA,Latvia,Latvia,Pressures on Biodiversity,6.0,6.6909918915916915,1.2692739076447608,10,3
+LAO,Laos,Laos,Pressures on Biodiversity,7.0,7.20506091846298,1.081033848183647,10,4
+KGZ,Kyrgyzstan,Kyrgyzstan,Pressures on Biodiversity,5.0,4.061729227036862,1.9559722948716394,8,1
+KWT,Kuwait,Kuwait,Pressures on Biodiversity,4.0,3.491173416407061,0.9197695849207201,7,2
+KIR,Kiribati,Kiribati,Pressures on Biodiversity,2.0,1.6341463414634145,0.48166872336906086,2,1
+KEN,Kenya,Kenya,Pressures on Biodiversity,4.0,4.020512202954399,1.29392195837794,8,1
+JOR,Jordan,Jordan,Pressures on Biodiversity,4.0,4.300078554595443,0.850520838599975,7,3
+JPN,Japan,Japan,Pressures on Biodiversity,6.0,5.910187344214843,0.7387590924396233,10,2
+JAM,Jamaica,Jamaica,Pressures on Biodiversity,5.0,5.094674556213017,0.31232291645909227,7,5
+ITA,Italy,Italy,Pressures on Biodiversity,8.0,7.756778649386084,0.48832822196567977,10,4
+IS1,Israel,Palestine,Pressures on Biodiversity,6.0,5.5162162162162165,1.1813902743283333,7,2
+IRL,Ireland,Ireland,Pressures on Biodiversity,4.0,4.158852867830424,0.7882887686887989,9,3
+IRQ,Iraq,Iraq,Pressures on Biodiversity,5.0,4.9685944082726925,1.2205982581524566,7,3
+IRN,Iran,Iran,Pressures on Biodiversity,4.0,4.606676855577389,0.9118606748555768,10,1
+IDN,Indonesia,Indonesia,Pressures on Biodiversity,7.0,6.876363128562542,1.7835014681108718,9,3
+IND,India,India,Pressures on Biodiversity,7.0,7.1697376193289,1.113748530224754,10,1
+ISL,Iceland,Iceland,Pressures on Biodiversity,1.0,1.486325902827525,1.031473704591834,8,1
+HUN,Hungary,Hungary,Pressures on Biodiversity,7.0,6.288764978051963,1.1435752664399623,8,4
+HND,Honduras,Honduras,Pressures on Biodiversity,5.0,4.698627450980392,0.8326417199229497,8,3
+HTI,Haiti,Haiti,Pressures on Biodiversity,4.0,4.359076433121019,0.5692886727171836,8,4
+GUY,Guyana,Guyana,Pressures on Biodiversity,3.0,3.22707472355635,0.5243279633362808,7,3
+GNB,Guinea-Bissau,Guinea-Bissau,Pressures on Biodiversity,5.0,5.3900355871886125,0.5895051898332309,7,3
+GIN,Guinea,Guinea,Pressures on Biodiversity,6.0,5.649145984712654,0.5954694138993646,7,2
+GTM,Guatemala,Guatemala,Pressures on Biodiversity,6.0,5.827502034174126,1.0141113507744905,9,4
+GRD,Grenada,Grenada,Pressures on Biodiversity,4.0,4.3076923076923075,0.46153846153846156,5,4
+GRC,Greece,Greece,Pressures on Biodiversity,6.0,5.711398277004639,1.213232564588464,10,3
+GHA,Ghana,Ghana,Pressures on Biodiversity,7.0,6.373145979703357,1.11808154448873,9,3
+DEU,Germany,Germany,Pressures on Biodiversity,6.0,6.295627175862433,0.9153615546086731,10,4
+GEO,Georgia,Georgia,Pressures on Biodiversity,5.0,4.382269369198712,1.643587274010325,10,2
+GMB,Gambia,Gambia,Pressures on Biodiversity,3.0,3.381898454746137,0.8231361544491951,7,2
+GAB,Gabon,Gabon,Pressures on Biodiversity,3.0,3.4826007326007327,0.8053560482141223,7,3
+FR1,France,France,Pressures on Biodiversity,7.0,6.808689826777682,1.5069104532611184,10,1
+FI1,Finland,Aland,Pressures on Biodiversity,5.0,5.4375,0.6702378309227255,8,5
+FI1,Finland,Finland,Pressures on Biodiversity,5.0,4.943674830310007,1.0005305870376215,10,2
+FJI,Fiji,Fiji,Pressures on Biodiversity,4.0,5.346698113207547,2.23186368594454,9,1
+ETH,Ethiopia,Ethiopia,Pressures on Biodiversity,3.0,3.727388666049573,0.9771226810119173,8,1
+EST,Estonia,Estonia,Pressures on Biodiversity,6.0,5.799175081780685,0.6556468082980732,10,3
+ERI,Eritrea,Eritrea,Pressures on Biodiversity,2.0,2.2675273444504214,1.2067030231734361,7,1
+GNQ,Equatorial Guinea,Equatorial Guinea,Pressures on Biodiversity,5.0,4.646684831970935,1.0897759519574444,7,1
+SLV,El Salvador,El Salvador,Pressures on Biodiversity,5.0,4.225913621262459,0.8626067406384965,5,3
+EGY,Egypt,Egypt,Pressures on Biodiversity,4.0,4.451523073425778,1.0166357744108447,10,2
+ECU,Ecuador,Ecuador,Pressures on Biodiversity,5.0,5.328448758633564,0.7357119388519157,8,3
+DOM,Dominican Republic,Dominican Republic,Pressures on Biodiversity,6.0,5.695767195767195,0.670649269854733,8,4
+DMA,Dominica,Dominica,Pressures on Biodiversity,3.0,3.34375,0.7335434121440939,6,3
+DJI,Djibouti,Djibouti,Pressures on Biodiversity,3.0,2.808016877637131,0.5635360329869236,5,2
+DN1,Denmark,Greenland,Pressures on Biodiversity,1.0,1.0627785620787762,0.4372074392225335,5,1
+DN1,Denmark,Denmark,Pressures on Biodiversity,5.0,5.181786154659151,1.055480232796169,10,4
+CZE,Czechia,Czechia,Pressures on Biodiversity,7.0,6.768878718535469,0.8372388656569126,8,4
+CYN,Northern Cyprus,Northern Cyprus,Pressures on Biodiversity,6.0,5.7174887892376685,0.603434838349932,9,5
+CYP,Cyprus,Cyprus,Pressures on Biodiversity,6.0,5.657303370786517,0.9213311864672644,9,4
+HRV,Croatia,Croatia,Pressures on Biodiversity,6.0,5.631244522348817,1.2865501679296094,10,4
+CIV,Ivory Coast,Ivory Coast,Pressures on Biodiversity,6.0,6.274961820958476,1.1982998086690704,10,3
+CRI,Costa Rica,Costa Rica,Pressures on Biodiversity,5.0,5.305792546026044,0.6770187680440687,8,3
+COD,Democratic Republic of the Congo,Democratic Republic of the Congo,Pressures on Biodiversity,5.0,4.514321067791797,1.0608049293726178,9,1
+COG,Republic of the Congo,Republic of the Congo,Pressures on Biodiversity,3.0,3.920978492407064,1.0243085889328725,6,3
+COM,Comoros,Comoros,Pressures on Biodiversity,2.0,2.046153846153846,0.20981817995362853,3,2
+COL,Colombia,Colombia,Pressures on Biodiversity,4.0,4.29230737262073,1.1937894467060548,8,3
+CH1,China,China,Pressures on Biodiversity,6.0,6.035433304515337,1.1402481128589066,10,2
+CH1,China,Macao S.A.R,Pressures on Biodiversity,7.0,7.0,0.0,7,7
+CH1,China,Hong Kong S.A.R.,Pressures on Biodiversity,7.0,7.346938775510204,0.5170963044620378,9,7
+CHL,Chile,Chile,Pressures on Biodiversity,5.0,4.892615660057521,1.123775765427312,9,2
+TCD,Chad,Chad,Pressures on Biodiversity,2.0,2.6560990023290576,1.570265775806376,7,1
+CAF,Central African Republic,Central African Republic,Pressures on Biodiversity,3.0,2.9951114142792177,1.7738860079966963,7,1
+CPV,Cabo Verde,Cabo Verde,Pressures on Biodiversity,3.0,3.0,0.0,3,3
+CAN,Canada,Canada,Pressures on Biodiversity,3.0,4.0633119340140125,1.8923465939882105,10,1
+CMR,Cameroon,Cameroon,Pressures on Biodiversity,6.0,5.360853948500026,1.1785298057013918,8,2
+KHM,Cambodia,Cambodia,Pressures on Biodiversity,7.0,6.660401002506266,1.6504608119639101,10,2
+MMR,Myanmar,Myanmar,Pressures on Biodiversity,6.0,5.614773010725867,1.2611626864271948,8,3
+BDI,Burundi,Burundi,Pressures on Biodiversity,5.0,4.885087719298245,0.8023794062683628,7,3
+BFA,Burkina Faso,Burkina Faso,Pressures on Biodiversity,5.0,4.975646371976647,0.8372523840995211,8,2
+BGR,Bulgaria,Bulgaria,Pressures on Biodiversity,7.0,6.447853463079565,0.7894552078353358,10,4
+BRN,Brunei,Brunei,Pressures on Biodiversity,3.0,3.9237288135593222,1.309397452712422,7,3
+BRA,Brazil,Brazil,Pressures on Biodiversity,6.0,5.91302027181331,1.0671810569374955,10,2
+BWA,Botswana,Botswana,Pressures on Biodiversity,3.0,3.1419774806474314,0.48351140802313614,7,1
+BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,Pressures on Biodiversity,5.0,4.626752197671656,1.4171192827929548,7,2
+BOL,Bolivia,Bolivia,Pressures on Biodiversity,4.0,4.512651000661098,1.3298123037212595,10,3
+BTN,Bhutan,Bhutan,Pressures on Biodiversity,4.0,3.6248230297310053,2.095043962910937,10,1
+BEN,Benin,Benin,Pressures on Biodiversity,6.0,6.265220851571827,0.9020316420933334,8,2
+BLZ,Belize,Belize,Pressures on Biodiversity,5.0,5.123326959847036,0.436274448086616,7,1
+BEL,Belgium,Belgium,Pressures on Biodiversity,7.0,6.761591478696742,0.8528242765330847,10,4
+BLR,Belarus,Belarus,Pressures on Biodiversity,6.0,6.35348552792499,0.956534523918994,10,3
+BRB,Barbados,Barbados,Pressures on Biodiversity,4.0,4.1875,0.3903123748998999,5,4
+BGD,Bangladesh,Bangladesh,Pressures on Biodiversity,5.0,5.6077307466196356,1.7899727796369536,9,4
+BHR,Bahrain,Bahrain,Pressures on Biodiversity,3.0,3.3793103448275863,0.5517241379310345,5,3
+BHS,The Bahamas,The Bahamas,Pressures on Biodiversity,4.0,5.09190031152648,1.2238402111126891,7,4
+AZE,Azerbaijan,Azerbaijan,Pressures on Biodiversity,6.0,5.772288381074992,1.0516733076064761,10,1
+AUT,Austria,Austria,Pressures on Biodiversity,5.0,5.560615862336654,0.7066813707564839,8,4
+AU1,Australia,Australia,Pressures on Biodiversity,5.0,5.056974479200226,1.6339162259392785,10,3
+ARM,Armenia,Armenia,Pressures on Biodiversity,6.0,6.202537593984962,0.63708478184884,7,5
+ARG,Argentina,Argentina,Pressures on Biodiversity,5.0,4.981793687665279,0.8823915503792603,10,2
+ATG,Antigua and Barbuda,Antigua and Barbuda,Pressures on Biodiversity,3.0,3.75,0.9937303457175896,6,3
+AGO,Angola,Angola,Pressures on Biodiversity,4.0,3.7146990846057255,1.8648016677268278,10,1
+AND,Andorra,Andorra,Pressures on Biodiversity,7.0,6.9714285714285715,0.16659862556700858,7,6
+DZA,Algeria,Algeria,Pressures on Biodiversity,4.0,4.069832380075996,0.7726425688668805,10,1
+ALB,Albania,Albania,Pressures on Biodiversity,5.0,5.177257525083612,0.921484670616689,10,3
+AFG,Afghanistan,Afghanistan,Pressures on Biodiversity,4.0,3.9916504456510604,1.5721659320145471,8,1
+KAS,Kashmir,Siachen Glacier,Pressures on Biodiversity,5.0,4.924242424242424,0.36142001339019886,5,3
+NL1,Netherlands,Sint Maarten,Pressures on Biodiversity,2.0,2.0,0.0,2,2
+TUV,Tuvalu,Tuvalu,Pressures on Biodiversity,--,--,--,--,--

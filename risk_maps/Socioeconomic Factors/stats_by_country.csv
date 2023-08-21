@@ -1,0 +1,208 @@
+SOV_A3,SOVEREIGNTY,ADMIN,RISK_TYPE,RISK_MEDIAN,RISK_MEAN,RISK_STD,RISK_MAX,RISK_MIN
+ZWE,Zimbabwe,Zimbabwe,Socioeconomic Factors,10.0,9.955459613072467,0.24792279294372155,10,8
+ZMB,Zambia,Zambia,Socioeconomic Factors,9.0,9.027430752258566,0.18312835431394853,10,8
+YEM,Yemen,Yemen,Socioeconomic Factors,8.0,8.265393400398503,0.4935156457397963,10,5
+VNM,Vietnam,Vietnam,Socioeconomic Factors,6.0,5.9117199391172,0.9432383178037638,10,5
+VEN,Venezuela,Venezuela,Socioeconomic Factors,7.0,7.032284555766566,0.27633045149306207,10,5
+VAT,Vatican,Vatican,Socioeconomic Factors,--,--,--,--,--
+VUT,Vanuatu,Vanuatu,Socioeconomic Factors,7.0,6.875968992248062,0.4823674166233813,10,5
+UZB,Uzbekistan,Uzbekistan,Socioeconomic Factors,7.0,7.142649415395573,0.7806735120504351,8,4
+URY,Uruguay,Uruguay,Socioeconomic Factors,5.0,5.108295368261199,0.44361613125220395,10,5
+FSM,Federated States of Micronesia,Federated States of Micronesia,Socioeconomic Factors,7.0,6.730769230769231,0.5921078583977174,7,5
+MHL,Marshall Islands,Marshall Islands,Socioeconomic Factors,6.0,6.583333333333333,2.0190069065976193,10,5
+US1,United States of America,United States of America,Socioeconomic Factors,7.0,7.179616616874022,0.574037815702233,10,1
+GB1,United Kingdom,Jersey,Socioeconomic Factors,3.0,3.2142857142857144,0.7726181304565691,4,1
+GB1,United Kingdom,Guernsey,Socioeconomic Factors,3.5,3.5,0.5,4,3
+GB1,United Kingdom,Isle of Man,Socioeconomic Factors,5.0,5.0,0.0,5,5
+GB1,United Kingdom,United Kingdom,Socioeconomic Factors,4.0,3.997685027575407,0.4753701736515651,10,1
+ARE,United Arab Emirates,United Arab Emirates,Socioeconomic Factors,9.0,9.154619034328775,0.6287246936743522,10,5
+UKR,Ukraine,Ukraine,Socioeconomic Factors,5.0,5.482880755608028,0.689275976472357,10,2
+UGA,Uganda,Uganda,Socioeconomic Factors,9.0,9.01002457002457,0.23854132765263025,10,7
+TKM,Turkmenistan,Turkmenistan,Socioeconomic Factors,7.0,6.827708161834202,0.6979907141207852,10,5
+TUR,Turkey,Turkey,Socioeconomic Factors,7.0,7.34875831935252,0.5532691919702044,10,5
+TUN,Tunisia,Tunisia,Socioeconomic Factors,7.0,6.831543834045658,0.7678366422117976,10,5
+TTO,Trinidad and Tobago,Trinidad and Tobago,Socioeconomic Factors,7.0,6.967889908256881,0.3087057129980044,10,5
+TON,Tonga,Tonga,Socioeconomic Factors,10.0,10.0,0.0,10,10
+TGO,Togo,Togo,Socioeconomic Factors,8.0,7.914390542193233,0.2797864874163843,8,7
+TLS,East Timor,East Timor,Socioeconomic Factors,5.0,5.1426332288401255,0.5008149724586826,7,5
+THA,Thailand,Thailand,Socioeconomic Factors,7.0,7.193501246454053,0.4117700848628086,10,5
+TZA,United Republic of Tanzania,United Republic of Tanzania,Socioeconomic Factors,8.0,8.018847255072824,0.20746270149387902,10,6
+TJK,Tajikistan,Tajikistan,Socioeconomic Factors,7.0,6.8771821729307865,1.1535932361852321,10,5
+TWN,Taiwan,Taiwan,Socioeconomic Factors,9.0,9.000556483027268,0.023583327880263873,10,9
+SYR,Syria,Syria,Socioeconomic Factors,8.0,8.502796179987955,0.5471535632526986,10,7
+CHE,Switzerland,Switzerland,Socioeconomic Factors,3.0,2.981611681990265,0.2614338269160275,4,2
+SWE,Sweden,Sweden,Socioeconomic Factors,2.0,1.5420925005259487,0.5866903311870835,10,1
+SWZ,eSwatini,eSwatini,Socioeconomic Factors,10.0,8.98870056497175,1.3629011121178638,10,7
+SUR,Suriname,Suriname,Socioeconomic Factors,6.0,5.999021207177814,0.17697573922592416,10,5
+SDS,South Sudan,South Sudan,Socioeconomic Factors,10.0,9.928678904604274,0.276116669915309,10,8
+SDN,Sudan,Sudan,Socioeconomic Factors,9.0,9.01126487814094,0.19197893114102182,10,8
+LKA,Sri Lanka,Sri Lanka,Socioeconomic Factors,5.0,5.352648418059012,0.5191576106555216,10,5
+ESP,Spain,Spain,Socioeconomic Factors,5.0,5.117711530030689,1.0059597623582632,10,1
+KOR,South Korea,South Korea,Socioeconomic Factors,7.0,6.556883365200765,0.52239408168657,10,5
+ZAF,South Africa,South Africa,Socioeconomic Factors,9.0,8.386234552257719,0.7362484774642923,10,5
+SOM,Somalia,Somalia,Socioeconomic Factors,10.0,9.941919065914874,0.305006524892142,10,8
+SOL,Somaliland,Somaliland,Socioeconomic Factors,10.0,9.932436143916506,0.3430077198966054,10,6
+SLB,Solomon Islands,Solomon Islands,Socioeconomic Factors,7.0,6.925657298277425,0.3947799672442827,10,5
+SVK,Slovakia,Slovakia,Socioeconomic Factors,2.0,2.299117710350764,0.5390349917381514,4,2
+SVN,Slovenia,Slovenia,Socioeconomic Factors,4.0,3.930839002267574,0.3980980564070921,10,1
+SGP,Singapore,Singapore,Socioeconomic Factors,7.0,6.954545454545454,0.20829889522526546,7,6
+SLE,Sierra Leone,Sierra Leone,Socioeconomic Factors,9.0,8.920557717250324,0.27162421632064754,10,8
+SYC,Seychelles,Seychelles,Socioeconomic Factors,10.0,10.0,0.0,10,10
+SRB,Republic of Serbia,Republic of Serbia,Socioeconomic Factors,4.0,4.191650853889943,0.4274942001088692,6,3
+SEN,Senegal,Senegal,Socioeconomic Factors,7.0,7.016812450301034,0.18568311309495597,10,5
+SAU,Saudi Arabia,Saudi Arabia,Socioeconomic Factors,8.0,8.034473897893948,0.1927437232026256,10,5
+STP,São Tomé and Principe,São Tomé and Principe,Socioeconomic Factors,7.0,6.888888888888889,0.3784308081316978,7,5
+SMR,San Marino,San Marino,Socioeconomic Factors,4.0,4.0,0.0,4,4
+WSM,Samoa,Samoa,Socioeconomic Factors,10.0,10.0,0.0,10,10
+VCT,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,Socioeconomic Factors,5.0,5.0,0.0,5,5
+LCA,Saint Lucia,Saint Lucia,Socioeconomic Factors,5.0,5.0,0.0,5,5
+KNA,Saint Kitts and Nevis,Saint Kitts and Nevis,Socioeconomic Factors,7.0,6.818181818181818,0.385694607919935,7,6
+RWA,Rwanda,Rwanda,Socioeconomic Factors,7.0,7.184976525821596,0.5554337850633575,9,7
+RUS,Russia,Russia,Socioeconomic Factors,5.0,5.085190496112177,0.44299769489370755,10,1
+ROU,Romania,Romania,Socioeconomic Factors,5.0,5.102450763714946,0.32708307221168,6,4
+QAT,Qatar,Qatar,Socioeconomic Factors,9.0,8.964726631393297,0.1937949817062038,10,8
+PRT,Portugal,Portugal,Socioeconomic Factors,5.0,4.730793254216115,0.9829819552777735,10,1
+POL,Poland,Poland,Socioeconomic Factors,4.0,4.1458962196349,0.4483556171045338,10,1
+PHL,Philippines,Philippines,Socioeconomic Factors,8.0,7.973333333333334,0.25528658764233064,10,5
+PER,Peru,Peru,Socioeconomic Factors,8.0,7.978557539647145,0.3268392243895551,10,5
+PRY,Paraguay,Paraguay,Socioeconomic Factors,5.0,5.621044701155198,0.7739409176149122,7,5
+PNG,Papua New Guinea,Papua New Guinea,Socioeconomic Factors,7.0,6.9842671538773855,0.21621288457126686,10,5
+PAN,Panama,Panama,Socioeconomic Factors,7.0,7.005671077504726,0.4109013562598908,10,5
+PLW,Palau,Palau,Socioeconomic Factors,7.0,7.0,0.9354143466934853,10,5
+PAK,Pakistan,Pakistan,Socioeconomic Factors,9.0,9.03929257035494,0.19429015484538129,10,9
+OMN,Oman,Oman,Socioeconomic Factors,8.0,7.592059453668988,0.5735545308802124,10,5
+NOR,Norway,Norway,Socioeconomic Factors,2.0,1.9382060629582911,1.4995460763753656,10,1
+PRK,North Korea,North Korea,Socioeconomic Factors,7.0,7.073808711475037,0.4137270093200988,10,5
+NGA,Nigeria,Nigeria,Socioeconomic Factors,7.0,7.023900938238959,0.15797778740350973,8,5
+NER,Niger,Niger,Socioeconomic Factors,8.0,7.991548368213084,0.1540999836339829,9,7
+NIC,Nicaragua,Nicaragua,Socioeconomic Factors,6.0,6.025478826216833,0.2581667558684271,10,5
+NZ1,New Zealand,New Zealand,Socioeconomic Factors,4.0,4.000642419450484,0.6400897953129735,10,1
+NL1,Netherlands,Netherlands,Socioeconomic Factors,2.0,2.8094892277898813,1.6383999508668197,10,1
+NL1,Netherlands,Aruba,Socioeconomic Factors,5.0,5.0,0.0,5,5
+NL1,Netherlands,Curaçao,Socioeconomic Factors,5.0,5.0,0.0,5,5
+NPL,Nepal,Nepal,Socioeconomic Factors,8.0,8.211393360160965,0.5675727292728772,10,8
+NRU,Nauru,Nauru,Socioeconomic Factors,7.0,7.0,0.0,7,7
+NAM,Namibia,Namibia,Socioeconomic Factors,9.0,9.008758473947251,0.1598606681717888,10,8
+MOZ,Mozambique,Mozambique,Socioeconomic Factors,10.0,9.943070730304774,0.3094327476635942,10,7
+MAR,Morocco,Morocco,Socioeconomic Factors,7.0,6.574450448237751,0.660095224185676,10,5
+SAH,Western Sahara,Western Sahara,Socioeconomic Factors,7.0,6.770738079686479,0.47115517343524166,8,5
+MNE,Montenegro,Montenegro,Socioeconomic Factors,4.0,3.952022577610536,0.2683582213309566,5,1
+MNG,Mongolia,Mongolia,Socioeconomic Factors,4.0,4.462678359733192,0.860623526510832,9,4
+MDA,Moldova,Moldova,Socioeconomic Factors,5.0,5.0827517447657025,0.27550661245047253,6,5
+MCO,Monaco,Monaco,Socioeconomic Factors,3.0,3.0,0.0,3,3
+MEX,Mexico,Mexico,Socioeconomic Factors,7.0,7.339795732999616,0.5686827332736849,10,5
+MUS,Mauritius,Mauritius,Socioeconomic Factors,10.0,10.0,0.0,10,10
+MRT,Mauritania,Mauritania,Socioeconomic Factors,7.0,7.04770364388816,0.2385259860007363,8,5
+MLT,Malta,Malta,Socioeconomic Factors,6.0,6.0,0.0,6,6
+MLI,Mali,Mali,Socioeconomic Factors,7.0,7.041811606681591,0.23039567417326362,9,7
+MDV,Maldives,Maldives,Socioeconomic Factors,10.0,10.0,0.0,10,10
+MYS,Malaysia,Malaysia,Socioeconomic Factors,7.0,6.989922424418183,0.15174358611797634,10,5
+MWI,Malawi,Malawi,Socioeconomic Factors,8.0,8.144394110985278,0.4672228468085557,10,8
+MDG,Madagascar,Madagascar,Socioeconomic Factors,7.0,6.995725125574436,0.17498092895661288,10,5
+MKD,North Macedonia,North Macedonia,Socioeconomic Factors,5.0,5.280674038967878,0.44932852437535725,6,5
+LUX,Luxembourg,Luxembourg,Socioeconomic Factors,3.0,3.053639846743295,0.22530560042895262,4,3
+LTU,Lithuania,Lithuania,Socioeconomic Factors,3.0,3.256910374536317,0.6231746997898119,10,1
+LIE,Liechtenstein,Liechtenstein,Socioeconomic Factors,3.0,2.8181818181818183,0.385694607919935,3,2
+LBY,Libya,Libya,Socioeconomic Factors,8.0,7.9123912007716175,0.4916950247199998,10,5
+LBR,Liberia,Liberia,Socioeconomic Factors,9.0,8.958364129095836,0.1997556636449025,9,8
+LSO,Lesotho,Lesotho,Socioeconomic Factors,8.0,7.9921875,0.08804240366863003,8,7
+LBN,Lebanon,Lebanon,Socioeconomic Factors,9.0,8.889983579638752,0.34770866161094055,9,5
+LVA,Latvia,Latvia,Socioeconomic Factors,4.0,4.012884594024214,0.3249254029843153,10,1
+LAO,Laos,Laos,Socioeconomic Factors,7.0,6.991002811621368,0.25597568086728223,9,5
+KGZ,Kyrgyzstan,Kyrgyzstan,Socioeconomic Factors,5.0,5.068872565536761,0.9887026870795556,9,4
+KWT,Kuwait,Kuwait,Socioeconomic Factors,9.0,8.807892004153686,0.39395750250277806,9,8
+KIR,Kiribati,Kiribati,Socioeconomic Factors,10.0,8.951219512195122,1.7101022578495713,10,5
+KEN,Kenya,Kenya,Socioeconomic Factors,10.0,9.940109184328838,0.32197924896202207,10,8
+JOR,Jordan,Jordan,Socioeconomic Factors,9.0,8.593479968578162,0.5146142964471312,9,7
+JPN,Japan,Japan,Socioeconomic Factors,4.0,3.9482994291227786,0.47420869564431245,10,1
+JAM,Jamaica,Jamaica,Socioeconomic Factors,7.0,6.964497041420119,0.20526091898615692,7,5
+ITA,Italy,Italy,Socioeconomic Factors,4.0,4.1262363574351975,1.013408026499377,10,1
+IS1,Israel,Palestine,Socioeconomic Factors,8.0,8.248648648648649,0.7261976581581561,10,7
+IRL,Ireland,Ireland,Socioeconomic Factors,3.0,3.0193266832917707,0.29501349647679387,10,1
+IRQ,Iraq,Iraq,Socioeconomic Factors,9.0,8.95603217158177,0.2631108226166517,10,7
+IRN,Iran,Iran,Socioeconomic Factors,9.0,9.223646590353805,0.49511444262005666,10,5
+IDN,Indonesia,Indonesia,Socioeconomic Factors,7.0,7.01242843178327,0.2775680014808854,10,5
+IND,India,India,Socioeconomic Factors,10.0,9.912241255565506,0.3989948613379003,10,7
+ISL,Iceland,Iceland,Socioeconomic Factors,3.0,3.021238043066032,0.6179269541906205,10,1
+HUN,Hungary,Hungary,Socioeconomic Factors,4.0,3.9133942341914816,0.591470374419018,5,2
+HND,Honduras,Honduras,Socioeconomic Factors,8.0,7.9096078431372545,0.43551394378665176,10,5
+HTI,Haiti,Haiti,Socioeconomic Factors,7.0,6.94187898089172,0.28040741175041456,7,5
+GUY,Guyana,Guyana,Socioeconomic Factors,7.0,6.96850217804088,0.18155711514941855,10,5
+GNB,Guinea-Bissau,Guinea-Bissau,Socioeconomic Factors,6.0,6.252669039145908,0.6286756634013833,8,5
+GIN,Guinea,Guinea,Socioeconomic Factors,8.0,7.995847881475889,0.1847792504735874,10,5
+GTM,Guatemala,Guatemala,Socioeconomic Factors,8.0,7.940195280716029,0.2371246820458304,8,7
+GRD,Grenada,Grenada,Socioeconomic Factors,5.0,5.0,0.0,5,5
+GRC,Greece,Greece,Socioeconomic Factors,7.0,6.6150872542522645,0.721684322720083,10,5
+GHA,Ghana,Ghana,Socioeconomic Factors,8.0,7.9973653395784545,0.07836197769371124,10,5
+DEU,Germany,Germany,Socioeconomic Factors,3.0,3.419295284312691,0.6354850247147391,10,1
+GEO,Georgia,Georgia,Socioeconomic Factors,6.0,5.993180526614889,0.20952616102402083,10,5
+GMB,Gambia,Gambia,Socioeconomic Factors,7.0,6.684326710816777,0.4834084275533254,7,5
+GAB,Gabon,Gabon,Socioeconomic Factors,5.0,5.179212454212454,0.7116431759022653,10,5
+FR1,France,France,Socioeconomic Factors,4.0,3.7686094363096947,0.7789915406319072,10,1
+FI1,Finland,Aland,Socioeconomic Factors,3.0,2.953125,0.30257682392245444,3,1
+FI1,Finland,Finland,Socioeconomic Factors,2.0,2.1260535333889043,0.6758659023377837,10,1
+FJI,Fiji,Fiji,Socioeconomic Factors,5.0,5.2075471698113205,0.9721788515870534,10,5
+ETH,Ethiopia,Ethiopia,Socioeconomic Factors,8.0,8.0526586444513,0.29612999299167175,10,7
+EST,Estonia,Estonia,Socioeconomic Factors,4.0,4.1315602332527375,0.6241827863656796,10,1
+ERI,Eritrea,Eritrea,Socioeconomic Factors,9.0,9.023668639053254,0.6061184274384865,10,5
+GNQ,Equatorial Guinea,Equatorial Guinea,Socioeconomic Factors,7.0,6.841053587647593,0.7036845922021818,8,5
+SLV,El Salvador,El Salvador,Socioeconomic Factors,7.0,7.208194905869324,0.40873539908298784,8,6
+EGY,Egypt,Egypt,Socioeconomic Factors,9.0,9.015628551943623,0.16367164477020082,10,5
+ECU,Ecuador,Ecuador,Socioeconomic Factors,7.0,7.059081575508681,0.31149967582684296,10,5
+DOM,Dominican Republic,Dominican Republic,Socioeconomic Factors,5.0,5.283068783068783,0.7140162141009461,10,5
+DMA,Dominica,Dominica,Socioeconomic Factors,5.0,5.0,0.0,5,5
+DJI,Djibouti,Djibouti,Socioeconomic Factors,7.0,7.154008438818566,0.4767979164104467,10,5
+DN1,Denmark,Greenland,Socioeconomic Factors,5.0,5.140664384080313,0.6175658252457538,10,5
+DN1,Denmark,Denmark,Socioeconomic Factors,2.0,2.2760260701074513,0.891158610385448,10,1
+CZE,Czechia,Czechia,Socioeconomic Factors,3.0,3.1934909738113397,0.46944616543859025,5,2
+CYN,Northern Cyprus,Northern Cyprus,Socioeconomic Factors,6.0,5.914798206278027,0.279181747377101,6,5
+CYP,Cyprus,Cyprus,Socioeconomic Factors,6.0,5.980337078651686,0.13883908265457748,6,5
+HRV,Croatia,Croatia,Socioeconomic Factors,3.0,3.182077125328659,0.4614152268620613,10,1
+CIV,Ivory Coast,Ivory Coast,Socioeconomic Factors,8.0,7.996509344774926,0.164439634274792,9,7
+CRI,Costa Rica,Costa Rica,Socioeconomic Factors,6.0,5.550516389762012,0.5072739447576464,7,5
+COD,Democratic Republic of the Congo,Democratic Republic of the Congo,Socioeconomic Factors,9.0,9.010142399285975,0.14156248344342642,10,7
+COG,Republic of the Congo,Republic of the Congo,Socioeconomic Factors,9.0,8.921459492888065,0.49937968807582933,10,5
+COM,Comoros,Comoros,Socioeconomic Factors,8.0,7.876923076923077,0.3724221057510832,8,6
+COL,Colombia,Colombia,Socioeconomic Factors,9.0,8.915447593716234,0.39337661816556674,10,5
+CH1,China,China,Socioeconomic Factors,9.0,8.952212917413181,0.47996275344661615,10,4
+CH1,China,Macao S.A.R,Socioeconomic Factors,9.0,9.0,0.0,9,9
+CH1,China,Hong Kong S.A.R.,Socioeconomic Factors,9.0,9.0,0.0,9,9
+CHL,Chile,Chile,Socioeconomic Factors,6.0,6.736415061996458,0.9790215970486776,10,5
+TCD,Chad,Chad,Socioeconomic Factors,8.0,8.03189418430841,0.20375017487306243,10,7
+CAF,Central African Republic,Central African Republic,Socioeconomic Factors,10.0,9.947438229498257,0.2757228173625241,10,8
+CPV,Cabo Verde,Cabo Verde,Socioeconomic Factors,10.0,10.0,0.0,10,10
+CAN,Canada,Canada,Socioeconomic Factors,4.0,4.063526741941883,0.5718019917312062,10,1
+CMR,Cameroon,Cameroon,Socioeconomic Factors,8.0,8.003490666261952,0.19643701686540083,10,5
+KHM,Cambodia,Cambodia,Socioeconomic Factors,8.0,7.920426065162907,0.42751109138295396,8,5
+MMR,Myanmar,Myanmar,Socioeconomic Factors,7.0,7.072867298578199,0.4199706128296594,10,5
+BDI,Burundi,Burundi,Socioeconomic Factors,7.0,7.413157894736842,0.764567663396352,9,7
+BFA,Burkina Faso,Burkina Faso,Socioeconomic Factors,8.0,7.964136780650542,0.18594904906277565,8,7
+BGR,Bulgaria,Bulgaria,Socioeconomic Factors,5.0,5.691929021179164,0.8075191145228472,10,4
+BRN,Brunei,Brunei,Socioeconomic Factors,7.0,6.944915254237288,0.2783417779646609,7,5
+BRA,Brazil,Brazil,Socioeconomic Factors,7.0,6.99717989707421,0.12059846828918805,10,5
+BWA,Botswana,Botswana,Socioeconomic Factors,9.0,8.992892329345532,0.145125373560046,10,7
+BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,Socioeconomic Factors,4.0,3.971727251128534,0.16575101973356582,4,3
+BOL,Bolivia,Bolivia,Socioeconomic Factors,6.0,6.223531061562193,0.4363403034904388,8,6
+BTN,Bhutan,Bhutan,Socioeconomic Factors,7.0,7.5450684285040115,1.0716312637272982,10,7
+BEN,Benin,Benin,Socioeconomic Factors,7.0,7.0356148030242736,0.1987950922694942,8,5
+BLZ,Belize,Belize,Socioeconomic Factors,8.0,7.9818355640535374,0.18719749521593926,8,5
+BEL,Belgium,Belgium,Socioeconomic Factors,4.0,3.843671679197995,0.47062593894829546,10,1
+BLR,Belarus,Belarus,Socioeconomic Factors,6.0,5.92291072156543,0.40528631675888893,7,3
+BRB,Barbados,Barbados,Socioeconomic Factors,5.0,5.0,0.0,5,5
+BGD,Bangladesh,Bangladesh,Socioeconomic Factors,8.0,8.16740152851264,0.553744356998531,10,5
+BHR,Bahrain,Bahrain,Socioeconomic Factors,9.0,9.0,0.0,9,9
+BHS,The Bahamas,The Bahamas,Socioeconomic Factors,6.0,5.820872274143302,0.3834592334083319,6,5
+AZE,Azerbaijan,Azerbaijan,Socioeconomic Factors,6.0,5.680881879626649,0.8420655982315628,10,1
+AUT,Austria,Austria,Socioeconomic Factors,2.0,2.0847457627118646,0.47549492440689894,4,1
+AU1,Australia,Australia,Socioeconomic Factors,5.0,4.814732574334472,0.6434533175379038,10,1
+ARM,Armenia,Armenia,Socioeconomic Factors,6.0,5.900375939849624,0.7673064949324162,9,4
+ARG,Argentina,Argentina,Socioeconomic Factors,7.0,7.014996368716632,0.2516012004230001,10,5
+ATG,Antigua and Barbuda,Antigua and Barbuda,Socioeconomic Factors,6.0,5.8,0.39999999999999997,6,5
+AGO,Angola,Angola,Socioeconomic Factors,10.0,9.961455167518972,0.19250747614063554,10,9
+AND,Andorra,Andorra,Socioeconomic Factors,6.0,5.9714285714285715,0.16659862556700858,6,5
+DZA,Algeria,Algeria,Socioeconomic Factors,9.0,8.58080739970966,0.6128481908365253,10,5
+ALB,Albania,Albania,Socioeconomic Factors,5.0,5.082178690874343,0.574944798933053,10,4
+AFG,Afghanistan,Afghanistan,Socioeconomic Factors,10.0,9.924802786599734,0.409309908886373,10,6
+KAS,Kashmir,Siachen Glacier,Socioeconomic Factors,10.0,9.916666666666666,0.34906078889419007,10,7
+NL1,Netherlands,Sint Maarten,Socioeconomic Factors,7.0,7.0,0.0,7,7
+TUV,Tuvalu,Tuvalu,Socioeconomic Factors,--,--,--,--,--

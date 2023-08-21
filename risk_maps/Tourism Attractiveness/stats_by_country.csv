@@ -1,0 +1,208 @@
+SOV_A3,SOVEREIGNTY,ADMIN,RISK_TYPE,RISK_MEDIAN,RISK_MEAN,RISK_STD,RISK_MAX,RISK_MIN
+ZWE,Zimbabwe,Zimbabwe,Tourism Attractiveness,6.0,6.5856924254016835,1.3927606316670331,10,6
+ZMB,Zambia,Zambia,Tourism Attractiveness,10.0,9.93094606279257,0.509197761463953,10,6
+YEM,Yemen,Yemen,Tourism Attractiveness,10.0,10.0,0.0,10,10
+VNM,Vietnam,Vietnam,Tourism Attractiveness,8.0,7.4003044140030445,1.9114394041068814,9,1
+VEN,Venezuela,Venezuela,Tourism Attractiveness,8.0,7.501437150336191,1.3577895088132472,8,3
+VAT,Vatican,Vatican,Tourism Attractiveness,--,--,--,--,--
+VUT,Vanuatu,Vanuatu,Tourism Attractiveness,6.0,6.0,0.0,6,6
+UZB,Uzbekistan,Uzbekistan,Tourism Attractiveness,6.0,7.115793222149683,1.762689381999857,10,6
+URY,Uruguay,Uruguay,Tourism Attractiveness,10.0,8.686028853454822,2.564790348141381,10,3
+FSM,Federated States of Micronesia,Federated States of Micronesia,Tourism Attractiveness,6.0,5.846153846153846,0.36080121229410994,6,5
+MHL,Marshall Islands,Marshall Islands,Tourism Attractiveness,6.0,6.0,0.0,6,6
+US1,United States of America,United States of America,Tourism Attractiveness,3.0,2.9883080176273684,0.15205738099795324,4,1
+GB1,United Kingdom,Jersey,Tourism Attractiveness,3.0,3.0,0.0,3,3
+GB1,United Kingdom,Guernsey,Tourism Attractiveness,3.0,3.0,0.0,3,3
+GB1,United Kingdom,Isle of Man,Tourism Attractiveness,6.0,5.924242424242424,0.2646098363117118,6,5
+GB1,United Kingdom,United Kingdom,Tourism Attractiveness,6.0,5.973071423708041,0.19903931935333005,6,3
+ARE,United Arab Emirates,United Arab Emirates,Tourism Attractiveness,10.0,10.0,0.0,10,10
+UKR,Ukraine,Ukraine,Tourism Attractiveness,6.0,6.3663017423348,1.1307040427014936,10,6
+UGA,Uganda,Uganda,Tourism Attractiveness,6.0,6.167469287469287,0.6279824043413889,10,6
+TKM,Turkmenistan,Turkmenistan,Tourism Attractiveness,6.0,6.105826397146254,0.6447747836626092,10,5
+TUR,Turkey,Turkey,Tourism Attractiveness,8.0,8.00001843623827,0.004293704504860792,9,8
+TUN,Tunisia,Tunisia,Tourism Attractiveness,10.0,9.300323152298551,2.3452138582857147,10,1
+TTO,Trinidad and Tobago,Trinidad and Tobago,Tourism Attractiveness,10.0,9.825688073394495,0.4854589561586405,10,7
+TON,Tonga,Tonga,Tourism Attractiveness,6.0,6.0,0.0,6,6
+TGO,Togo,Togo,Tourism Attractiveness,10.0,9.140236445169181,1.5696570784767445,10,6
+TLS,East Timor,East Timor,Tourism Attractiveness,3.0,3.41692789968652,1.0452888628095922,6,1
+THA,Thailand,Thailand,Tourism Attractiveness,6.0,6.000257887045474,0.018541383126326357,8,6
+TZA,United Republic of Tanzania,United Republic of Tanzania,Tourism Attractiveness,6.0,6.0,0.0,6,6
+TJK,Tajikistan,Tajikistan,Tourism Attractiveness,10.0,9.097555966317518,2.6738451176700533,10,1
+TWN,Taiwan,Taiwan,Tourism Attractiveness,1.0,1.0,0.0,1,1
+SYR,Syria,Syria,Tourism Attractiveness,6.0,7.2527746709111245,1.591872262975744,10,6
+CHE,Switzerland,Switzerland,Tourism Attractiveness,4.0,5.600324499729584,4.097687604266999,10,1
+SWE,Sweden,Sweden,Tourism Attractiveness,10.0,9.962829271533446,0.39098691813126907,10,3
+SWZ,eSwatini,eSwatini,Tourism Attractiveness,6.0,6.0,0.0,6,6
+SUR,Suriname,Suriname,Tourism Attractiveness,6.0,5.520228384991843,1.1016813251997162,8,3
+SDS,South Sudan,South Sudan,Tourism Attractiveness,6.0,6.012714414685525,0.15560818715085958,8,6
+SDN,Sudan,Sudan,Tourism Attractiveness,6.0,6.262811732476856,0.9163069110620329,10,6
+LKA,Sri Lanka,Sri Lanka,Tourism Attractiveness,10.0,9.852826164237468,0.7463788710323107,10,3
+ESP,Spain,Spain,Tourism Attractiveness,1.0,1.0509644892590968,0.49689980489007435,6,1
+KOR,South Korea,South Korea,Tourism Attractiveness,3.0,2.9864563416188656,0.15554791674496057,4,1
+ZAF,South Africa,South Africa,Tourism Attractiveness,6.0,6.000193795560591,0.015918147101040676,8,6
+SOM,Somalia,Somalia,Tourism Attractiveness,6.0,6.170001496931291,0.5455091251082086,10,6
+SOL,Somaliland,Somaliland,Tourism Attractiveness,6.0,6.0318593792914035,0.2809058169585542,10,6
+SLB,Solomon Islands,Solomon Islands,Tourism Attractiveness,6.0,6.0,0.0,6,6
+SVK,Slovakia,Slovakia,Tourism Attractiveness,10.0,10.0,0.0,10,10
+SVN,Slovenia,Slovenia,Tourism Attractiveness,8.0,5.900793650793651,3.6012751968695484,10,1
+SGP,Singapore,Singapore,Tourism Attractiveness,8.0,7.7272727272727275,0.616575453011388,8,6
+SLE,Sierra Leone,Sierra Leone,Tourism Attractiveness,10.0,9.99935149156939,0.03600828096472566,10,8
+SYC,Seychelles,Seychelles,Tourism Attractiveness,10.0,10.0,0.0,10,10
+SRB,Republic of Serbia,Republic of Serbia,Tourism Attractiveness,10.0,9.880613535736876,0.46422679580626436,10,8
+SEN,Senegal,Senegal,Tourism Attractiveness,10.0,9.999772804725662,0.02131522767844402,10,8
+SAU,Saudi Arabia,Saudi Arabia,Tourism Attractiveness,10.0,9.998149880256138,0.04708206399008879,10,8
+STP,São Tomé and Principe,São Tomé and Principe,Tourism Attractiveness,6.0,6.0,0.0,6,6
+SMR,San Marino,San Marino,Tourism Attractiveness,1.0,1.0,0.0,1,1
+WSM,Samoa,Samoa,Tourism Attractiveness,6.0,6.0,0.0,6,6
+VCT,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,Tourism Attractiveness,6.0,6.142857142857143,0.3499271061118826,7,6
+LCA,Saint Lucia,Saint Lucia,Tourism Attractiveness,6.0,6.208333333333333,0.40611643103370687,7,6
+KNA,Saint Kitts and Nevis,Saint Kitts and Nevis,Tourism Attractiveness,6.0,6.454545454545454,0.4979295977319692,7,6
+RWA,Rwanda,Rwanda,Tourism Attractiveness,10.0,8.848826291079812,1.76631523642473,10,6
+RUS,Russia,Russia,Tourism Attractiveness,6.0,6.051810614694384,0.5939561077701029,10,1
+ROU,Romania,Romania,Tourism Attractiveness,10.0,9.998870389470065,0.033590690823282275,10,9
+QAT,Qatar,Qatar,Tourism Attractiveness,10.0,10.0,0.0,10,10
+PRT,Portugal,Portugal,Tourism Attractiveness,8.0,5.390224859462836,3.313983114675435,8,1
+POL,Poland,Poland,Tourism Attractiveness,10.0,9.834440132240909,1.0240677207147486,10,3
+PHL,Philippines,Philippines,Tourism Attractiveness,8.0,7.812549019607843,0.6660384583409842,8,3
+PER,Peru,Peru,Tourism Attractiveness,6.0,5.832527605829781,0.6817948089722203,8,3
+PRY,Paraguay,Paraguay,Tourism Attractiveness,10.0,8.42882973380211,2.471237372312968,10,3
+PNG,Papua New Guinea,Papua New Guinea,Tourism Attractiveness,6.0,5.705034510759237,0.9789102901169585,6,1
+PAN,Panama,Panama,Tourism Attractiveness,8.0,7.720226843100189,0.6678222742647071,8,6
+PLW,Palau,Palau,Tourism Attractiveness,6.0,5.5625,0.7880950133074057,6,3
+PAK,Pakistan,Pakistan,Tourism Attractiveness,10.0,8.814646897847487,2.6276570265672308,10,1
+OMN,Oman,Oman,Tourism Attractiveness,6.0,7.171531869309052,1.7886173632809774,10,6
+NOR,Norway,Norway,Tourism Attractiveness,6.0,6.699153070984018,1.4956396630353421,10,3
+PRK,North Korea,North Korea,Tourism Attractiveness,6.0,4.777095416808825,1.9213793845983,6,1
+NGA,Nigeria,Nigeria,Tourism Attractiveness,10.0,9.999949146939917,0.010084817010340901,10,8
+NER,Niger,Niger,Tourism Attractiveness,6.0,6.498975559783404,1.2891033047988103,10,6
+NIC,Nicaragua,Nicaragua,Tourism Attractiveness,10.0,9.774732033034615,0.6473940389795608,10,4
+NZ1,New Zealand,New Zealand,Tourism Attractiveness,8.0,7.982951176121763,0.33750814678782526,8,1
+NL1,Netherlands,Netherlands,Tourism Attractiveness,3.0,5.575405470830307,3.0047675018974527,10,3
+NL1,Netherlands,Aruba,Tourism Attractiveness,8.0,8.0,0.0,8,8
+NL1,Netherlands,Curaçao,Tourism Attractiveness,8.0,7.7,0.45825756949558405,8,7
+NPL,Nepal,Nepal,Tourism Attractiveness,3.0,4.033827967806841,3.565178892820015,10,1
+NRU,Nauru,Nauru,Tourism Attractiveness,6.0,6.0,0.0,6,6
+NAM,Namibia,Namibia,Tourism Attractiveness,10.0,9.841679449750112,0.7588999998234773,10,6
+MOZ,Mozambique,Mozambique,Tourism Attractiveness,6.0,6.334428653577589,1.085271815841492,10,6
+MAR,Morocco,Morocco,Tourism Attractiveness,10.0,8.96061034016947,1.8375848644832005,10,1
+SAH,Western Sahara,Western Sahara,Tourism Attractiveness,6.0,6.028739386022208,0.32868732616461993,10,4
+MNE,Montenegro,Montenegro,Tourism Attractiveness,10.0,9.427093132643462,0.965101156616356,10,4
+MNG,Mongolia,Mongolia,Tourism Attractiveness,10.0,8.716266978989616,3.1189494145734624,10,1
+MDA,Moldova,Moldova,Tourism Attractiveness,10.0,9.99900299102692,0.04075153487795103,10,8
+MCO,Monaco,Monaco,Tourism Attractiveness,1.0,1.0,0.0,1,1
+MEX,Mexico,Mexico,Tourism Attractiveness,1.0,1.0000403689724078,0.00898533890076949,3,1
+MUS,Mauritius,Mauritius,Tourism Attractiveness,10.0,10.0,0.0,10,10
+MRT,Mauritania,Mauritania,Tourism Attractiveness,6.0,6.406621580700515,1.181037109883247,10,1
+MLT,Malta,Malta,Tourism Attractiveness,10.0,9.333333333333334,1.1925695879998877,10,6
+MLI,Mali,Mali,Tourism Attractiveness,10.0,9.999948338212501,0.009279025284090543,10,8
+MDV,Maldives,Maldives,Tourism Attractiveness,3.0,3.0,0.0,3,3
+MYS,Malaysia,Malaysia,Tourism Attractiveness,8.0,7.1248459363445225,1.7536823186055184,8,3
+MWI,Malawi,Malawi,Tourism Attractiveness,10.0,9.449226123065309,1.3513441309279393,10,6
+MDG,Madagascar,Madagascar,Tourism Attractiveness,6.0,6.0,0.0,6,6
+MKD,North Macedonia,North Macedonia,Tourism Attractiveness,10.0,10.0,0.0,10,10
+LUX,Luxembourg,Luxembourg,Tourism Attractiveness,3.0,3.0,0.0,3,3
+LTU,Lithuania,Lithuania,Tourism Attractiveness,10.0,9.980256072753381,0.31774571154125864,10,3
+LIE,Liechtenstein,Liechtenstein,Tourism Attractiveness,10.0,10.0,0.0,10,10
+LBY,Libya,Libya,Tourism Attractiveness,6.0,6.303440902699499,0.9878025659025971,10,1
+LBR,Liberia,Liberia,Tourism Attractiveness,6.0,6.744025622074402,1.48550047403992,10,6
+LSO,Lesotho,Lesotho,Tourism Attractiveness,6.0,7.292668269230769,1.7904780451989106,10,6
+LBN,Lebanon,Lebanon,Tourism Attractiveness,10.0,9.952380952380953,0.23495465662904186,10,8
+LVA,Latvia,Latvia,Tourism Attractiveness,10.0,9.961235143840941,0.4161932530192772,10,3
+LAO,Laos,Laos,Tourism Attractiveness,8.0,7.940299906279288,2.6823902642140145,10,1
+KGZ,Kyrgyzstan,Kyrgyzstan,Tourism Attractiveness,10.0,8.611564121571535,3.214683605968735,10,1
+KWT,Kuwait,Kuwait,Tourism Attractiveness,10.0,9.997923156801662,0.06441562790974381,10,8
+KIR,Kiribati,Kiribati,Tourism Attractiveness,6.0,6.0,0.0,6,6
+KEN,Kenya,Kenya,Tourism Attractiveness,8.0,7.875682402055235,0.4753049083560957,8,6
+JOR,Jordan,Jordan,Tourism Attractiveness,10.0,9.8586017282011,0.5033651963304822,10,8
+JPN,Japan,Japan,Tourism Attractiveness,1.0,1.0,0.0,1,1
+JAM,Jamaica,Jamaica,Tourism Attractiveness,6.0,5.95069033530572,0.23402514397624574,6,4
+ITA,Italy,Italy,Tourism Attractiveness,1.0,1.0,0.0,1,1
+IS1,Israel,Palestine,Tourism Attractiveness,10.0,9.91891891891892,0.3804960047649311,10,8
+IRL,Ireland,Ireland,Tourism Attractiveness,10.0,9.118952618453866,1.6508336593437634,10,3
+IRQ,Iraq,Iraq,Tourism Attractiveness,6.0,6.679816162389889,1.4448267853225794,10,6
+IRN,Iran,Iran,Tourism Attractiveness,6.0,6.168283376480251,0.7522093873921003,10,5
+IDN,Indonesia,Indonesia,Tourism Attractiveness,3.0,2.998311561361415,0.06916049803788492,8,1
+IND,India,India,Tourism Attractiveness,3.0,2.937545651442109,0.4197121266801908,10,1
+ISL,Iceland,Iceland,Tourism Attractiveness,10.0,10.0,0.0,10,10
+HUN,Hungary,Hungary,Tourism Attractiveness,10.0,9.83129671372642,0.5430897583050757,10,8
+HND,Honduras,Honduras,Tourism Attractiveness,10.0,9.908823529411764,0.6256922348724652,10,1
+HTI,Haiti,Haiti,Tourism Attractiveness,10.0,9.60828025477707,1.1808159644243577,10,4
+GUY,Guyana,Guyana,Tourism Attractiveness,6.0,5.6966379984362785,1.3569002330124573,8,3
+GNB,Guinea-Bissau,Guinea-Bissau,Tourism Attractiveness,6.0,7.41067615658363,1.8402459718098698,10,6
+GIN,Guinea,Guinea,Tourism Attractiveness,6.0,7.044918373124469,1.7113771705259402,10,6
+GTM,Guatemala,Guatemala,Tourism Attractiveness,10.0,7.93673718470301,3.705474071269206,10,1
+GRD,Grenada,Grenada,Tourism Attractiveness,6.0,6.384615384615385,0.4865042554105199,7,6
+GRC,Greece,Greece,Tourism Attractiveness,10.0,9.801082394521758,0.7050536588557506,10,1
+GHA,Ghana,Ghana,Tourism Attractiveness,10.0,9.999902419984387,0.009877777774041866,10,9
+DEU,Germany,Germany,Tourism Attractiveness,3.0,2.9947251819812215,0.10231844482906145,3,1
+GEO,Georgia,Georgia,Tourism Attractiveness,10.0,9.854896760750142,0.4998296581847663,10,8
+GMB,Gambia,Gambia,Tourism Attractiveness,10.0,10.0,0.0,10,10
+GAB,Gabon,Gabon,Tourism Attractiveness,6.0,6.092307692307692,0.5645960212667157,10,6
+FR1,France,France,Tourism Attractiveness,3.0,3.0656713561106326,0.8614596730255544,10,1
+FI1,Finland,Aland,Tourism Attractiveness,10.0,8.859375,1.6140708191944366,10,5
+FI1,Finland,Finland,Tourism Attractiveness,10.0,9.970864922796014,0.36012505270568396,10,3
+FJI,Fiji,Fiji,Tourism Attractiveness,6.0,6.0,0.0,6,6
+ETH,Ethiopia,Ethiopia,Tourism Attractiveness,6.0,6.0803250025712225,0.38870536640632014,8,6
+EST,Estonia,Estonia,Tourism Attractiveness,10.0,9.826767173943962,0.8803390189036281,10,3
+ERI,Eritrea,Eritrea,Tourism Attractiveness,6.0,6.0331719562488795,0.24794771326320847,10,6
+GNQ,Equatorial Guinea,Equatorial Guinea,Tourism Attractiveness,6.0,6.701180744777475,1.424671820339407,10,6
+SLV,El Salvador,El Salvador,Tourism Attractiveness,10.0,9.955703211517164,0.3429856023709471,10,6
+EGY,Egypt,Egypt,Tourism Attractiveness,8.0,7.987610820641055,0.15510176005749962,8,6
+ECU,Ecuador,Ecuador,Tourism Attractiveness,8.0,7.245846555908158,0.9557329337776796,8,6
+DOM,Dominican Republic,Dominican Republic,Tourism Attractiveness,10.0,9.829805996472663,0.8230329322162894,10,3
+DMA,Dominica,Dominica,Tourism Attractiveness,6.0,6.25,0.5,8,6
+DJI,Djibouti,Djibouti,Tourism Attractiveness,6.0,6.025316455696203,0.18768072882940273,9,6
+DN1,Denmark,Greenland,Tourism Attractiveness,6.0,5.983522917816074,0.37581110288514474,10,3
+DN1,Denmark,Denmark,Tourism Attractiveness,10.0,8.841465562797252,2.3856375120714715,10,3
+CZE,Czechia,Czechia,Tourism Attractiveness,10.0,7.922069666920925,3.159808879798767,10,3
+CYN,Northern Cyprus,Northern Cyprus,Tourism Attractiveness,10.0,9.829596412556054,0.3877303376003101,10,8
+CYP,Cyprus,Cyprus,Tourism Attractiveness,10.0,9.935393258426966,0.24583065414294644,10,9
+HRV,Croatia,Croatia,Tourism Attractiveness,8.0,7.868098159509202,0.7686613635760756,8,1
+CIV,Ivory Coast,Ivory Coast,Tourism Attractiveness,10.0,9.999854556032288,0.012059138184949017,10,9
+CRI,Costa Rica,Costa Rica,Tourism Attractiveness,8.0,7.966771441400988,0.2839368867617861,8,4
+COD,Democratic Republic of the Congo,Democratic Republic of the Congo,Tourism Attractiveness,6.0,6.344730009331007,1.1027019899761654,10,6
+COG,Republic of the Congo,Republic of the Congo,Tourism Attractiveness,6.0,6.209991067133925,0.8646563152205317,10,6
+COM,Comoros,Comoros,Tourism Attractiveness,6.0,6.0,0.0,6,6
+COL,Colombia,Colombia,Tourism Attractiveness,6.0,5.863664699526224,0.617979716264804,8,3
+CH1,China,China,Tourism Attractiveness,1.0,1.0044429973069342,0.14085672910422417,7,1
+CH1,China,Macao S.A.R,Tourism Attractiveness,1.0,1.0,0.0,1,1
+CH1,China,Hong Kong S.A.R.,Tourism Attractiveness,1.0,1.0,0.0,1,1
+CHL,Chile,Chile,Tourism Attractiveness,10.0,9.199436222692036,0.9631290321466254,10,6
+TCD,Chad,Chad,Tourism Attractiveness,10.0,9.998922376333994,0.05654155703118628,10,6
+CAF,Central African Republic,Central African Republic,Tourism Attractiveness,6.0,6.2825147794452025,0.9912618893940264,10,6
+CPV,Cabo Verde,Cabo Verde,Tourism Attractiveness,10.0,10.0,0.0,10,10
+CAN,Canada,Canada,Tourism Attractiveness,3.0,3.000000940078459,0.0009695759770129798,4,3
+CMR,Cameroon,Cameroon,Tourism Attractiveness,10.0,9.999696463803309,0.02011523787329493,10,8
+KHM,Cambodia,Cambodia,Tourism Attractiveness,10.0,8.953634085213032,1.467220985397592,10,6
+MMR,Myanmar,Myanmar,Tourism Attractiveness,6.0,5.475523821401846,1.4758468044535582,10,1
+BDI,Burundi,Burundi,Tourism Attractiveness,6.0,6.61578947368421,1.4079086734840625,10,6
+BFA,Burkina Faso,Burkina Faso,Tourism Attractiveness,6.0,7.312260216847373,1.837268200629535,10,6
+BGR,Bulgaria,Bulgaria,Tourism Attractiveness,10.0,9.679450486548369,0.7177894388837381,10,8
+BRN,Brunei,Brunei,Tourism Attractiveness,8.0,6.817796610169491,2.0514208121356003,8,3
+BRA,Brazil,Brazil,Tourism Attractiveness,3.0,3.0000929412452004,0.014299024489995375,7,3
+BWA,Botswana,Botswana,Tourism Attractiveness,10.0,9.664989444053484,1.0741896197070238,10,6
+BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,Tourism Attractiveness,10.0,9.190306486101212,0.9587060289021827,10,8
+BOL,Bolivia,Bolivia,Tourism Attractiveness,8.0,7.288939639802072,1.6530967307791984,8,3
+BTN,Bhutan,Bhutan,Tourism Attractiveness,6.0,4.285040113260973,2.1557823919341828,6,1
+BEN,Benin,Benin,Tourism Attractiveness,10.0,9.999801034619976,0.014104105530001817,10,9
+BLZ,Belize,Belize,Tourism Attractiveness,10.0,8.364244741873804,2.602437222394955,10,1
+BEL,Belgium,Belgium,Tourism Attractiveness,3.0,5.1613408521303255,2.4253200097067573,8,3
+BLR,Belarus,Belarus,Tourism Attractiveness,6.0,6.589523033020791,1.3975096862836691,10,6
+BRB,Barbados,Barbados,Tourism Attractiveness,6.0,6.1875,0.3903123748998999,7,6
+BGD,Bangladesh,Bangladesh,Tourism Attractiveness,5.0,6.324074074074074,3.4441119626754655,10,1
+BHR,Bahrain,Bahrain,Tourism Attractiveness,10.0,10.0,0.0,10,10
+BHS,The Bahamas,The Bahamas,Tourism Attractiveness,6.0,5.752336448598131,0.47297938039514614,6,4
+AZE,Azerbaijan,Azerbaijan,Tourism Attractiveness,10.0,9.971998712584487,0.20103040648244178,10,7
+AUT,Austria,Austria,Tourism Attractiveness,10.0,7.075042049424247,3.915633703000212,10,1
+AU1,Australia,Australia,Tourism Attractiveness,1.0,1.0,0.0,1,1
+ARM,Armenia,Armenia,Tourism Attractiveness,10.0,9.418703007518797,0.8895634490246207,10,8
+ARG,Argentina,Argentina,Tourism Attractiveness,8.0,7.966265100317668,0.40227626397813976,9,3
+ATG,Antigua and Barbuda,Antigua and Barbuda,Tourism Attractiveness,6.0,6.45,0.5894913061275798,8,6
+AGO,Angola,Angola,Tourism Attractiveness,10.0,9.999963602613333,0.008531907674460519,10,8
+AND,Andorra,Andorra,Tourism Attractiveness,1.0,1.0571428571428572,0.33319725113401716,3,1
+DZA,Algeria,Algeria,Tourism Attractiveness,6.0,6.32356277616037,1.08212545392319,10,1
+ALB,Albania,Albania,Tourism Attractiveness,10.0,9.894887720974678,0.784121962506631,10,1
+AFG,Afghanistan,Afghanistan,Tourism Attractiveness,6.0,6.681846122323533,1.5702637414429377,10,1
+KAS,Kashmir,Siachen Glacier,Tourism Attractiveness,1.0,1.0984848484848484,0.42390408586478123,3,1
+NL1,Netherlands,Sint Maarten,Tourism Attractiveness,6.0,6.0,0.0,6,6
+TUV,Tuvalu,Tuvalu,Tourism Attractiveness,--,--,--,--,--

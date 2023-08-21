@@ -1,0 +1,208 @@
+SOV_A3,SOVEREIGNTY,ADMIN,RISK_TYPE,RISK_MEDIAN,RISK_MEAN,RISK_STD,RISK_MAX,RISK_MIN
+ZWE,Zimbabwe,Zimbabwe,Tropical Cyclones,3.0,3.015247568040223,0.20550223575221063,6,3
+ZMB,Zambia,Zambia,Tropical Cyclones,3.0,2.9998807358597452,0.01544390030316524,3,1
+YEM,Yemen,Yemen,Tropical Cyclones,3.0,2.9978130922875055,0.08620152932018342,10,1
+VNM,Vietnam,Vietnam,Tropical Cyclones,10.0,8.7676527033287,1.8505692335280717,10,1
+VEN,Venezuela,Venezuela,Tropical Cyclones,3.0,3.433660113945491,1.149547748703831,10,1
+VAT,Vatican,Vatican,Tropical Cyclones,--,--,--,--,--
+VUT,Vanuatu,Vanuatu,Tropical Cyclones,10.0,9.763565891472869,0.4248917754583068,10,9
+UZB,Uzbekistan,Uzbekistan,Tropical Cyclones,1.0,1.7737254436465073,0.9737740977586253,3,1
+URY,Uruguay,Uruguay,Tropical Cyclones,1.0,1.0025626423690206,0.1518460213020842,10,1
+FSM,Federated States of Micronesia,Federated States of Micronesia,Tropical Cyclones,10.0,9.538461538461538,0.4985185152621431,10,9
+MHL,Marshall Islands,Marshall Islands,Tropical Cyclones,5.0,6.25,2.165063509461097,10,5
+US1,United States of America,United States of America,Tropical Cyclones,3.0,2.963322668473696,2.2342951596190264,10,1
+GB1,United Kingdom,Jersey,Tropical Cyclones,1.0,1.0,0.0,1,1
+GB1,United Kingdom,Guernsey,Tropical Cyclones,1.0,1.0,0.0,1,1
+GB1,United Kingdom,Isle of Man,Tropical Cyclones,1.0,1.0,0.0,1,1
+GB1,United Kingdom,United Kingdom,Tropical Cyclones,1.0,1.011949342956356,0.3277213752719145,10,1
+ARE,United Arab Emirates,United Arab Emirates,Tropical Cyclones,3.0,2.9972090427016465,0.3332751281326308,10,1
+UKR,Ukraine,Ukraine,Tropical Cyclones,1.0,1.002575936460234,0.15223926134036075,10,1
+UGA,Uganda,Uganda,Tropical Cyclones,1.0,1.8713513513513513,0.9904010514158363,3,1
+TKM,Turkmenistan,Turkmenistan,Tropical Cyclones,3.0,2.0140553065642246,1.0239743385206368,10,1
+TUR,Turkey,Turkey,Tropical Cyclones,1.0,1.0068029719216092,0.24734685538230694,10,1
+TUN,Tunisia,Tunisia,Tropical Cyclones,1.0,1.009381840925675,0.2904282172791068,10,1
+TTO,Trinidad and Tobago,Trinidad and Tobago,Tropical Cyclones,8.0,7.995412844036697,0.17913416687859302,10,7
+TON,Tonga,Tonga,Tropical Cyclones,10.0,10.0,0.0,10,10
+TGO,Togo,Togo,Tropical Cyclones,1.0,1.0,0.0,1,1
+TLS,East Timor,East Timor,Tropical Cyclones,8.0,8.098746081504702,0.4630195918338116,10,7
+THA,Thailand,Thailand,Tropical Cyclones,6.0,6.319350124645405,1.889030400436448,10,1
+TZA,United Republic of Tanzania,United Republic of Tanzania,Tropical Cyclones,3.0,2.999825718909498,0.07109234312252079,10,1
+TJK,Tajikistan,Tajikistan,Tropical Cyclones,3.0,3.0,0.0,3,3
+TWN,Taiwan,Taiwan,Tropical Cyclones,10.0,9.954924874791319,0.20746893332762584,10,9
+SYR,Syria,Syria,Tropical Cyclones,1.0,1.0,0.0,1,1
+CHE,Switzerland,Switzerland,Tropical Cyclones,1.0,1.0,0.0,1,1
+SWE,Sweden,Sweden,Tropical Cyclones,1.0,1.003986137100971,0.18936563737846385,10,1
+SWZ,eSwatini,eSwatini,Tropical Cyclones,3.0,3.0,0.0,3,3
+SUR,Suriname,Suriname,Tropical Cyclones,3.0,3.0,0.14336892712824972,10,1
+SDS,South Sudan,South Sudan,Tropical Cyclones,1.0,1.0245636473066506,0.21985413070219426,3,1
+SDN,Sudan,Sudan,Tropical Cyclones,1.0,1.0002125448705839,0.04373623966383139,10,1
+LKA,Sri Lanka,Sri Lanka,Tropical Cyclones,6.0,6.444009953785994,0.8504262889810913,10,5
+ESP,Spain,Spain,Tropical Cyclones,1.0,1.009864094695309,0.2977911212471313,10,1
+KOR,South Korea,South Korea,Tropical Cyclones,10.0,9.957934990439771,0.20073750155595554,10,9
+ZAF,South Africa,South Africa,Tropical Cyclones,3.0,2.688928310549932,0.7418943489073597,10,1
+SOM,Somalia,Somalia,Tropical Cyclones,3.0,2.998403273289756,0.09735509902355677,10,1
+SOL,Somaliland,Somaliland,Tropical Cyclones,3.0,3.0076901950013735,0.37454895497905566,10,1
+SLB,Solomon Islands,Solomon Islands,Tropical Cyclones,8.0,8.038077969174978,1.05617414791762,10,5
+SVK,Slovakia,Slovakia,Tropical Cyclones,1.0,1.0,0.0,1,1
+SVN,Slovenia,Slovenia,Tropical Cyclones,1.0,1.0051020408163265,0.21422496709405117,10,1
+SGP,Singapore,Singapore,Tropical Cyclones,3.0,3.0,0.0,3,3
+SLE,Sierra Leone,Sierra Leone,Tropical Cyclones,1.0,1.0029182879377432,0.16203726434126547,10,1
+SYC,Seychelles,Seychelles,Tropical Cyclones,10.0,10.0,0.0,10,10
+SRB,Republic of Serbia,Republic of Serbia,Tropical Cyclones,1.0,1.0,0.0,1,1
+SEN,Senegal,Senegal,Tropical Cyclones,1.0,1.0010223787345223,0.09591852455299806,10,1
+SAU,Saudi Arabia,Saudi Arabia,Tropical Cyclones,1.0,1.9773360331377003,1.0036423473042415,10,1
+STP,São Tomé and Principe,São Tomé and Principe,Tropical Cyclones,1.0,1.0,0.0,1,1
+SMR,San Marino,San Marino,Tropical Cyclones,1.0,1.0,0.0,1,1
+WSM,Samoa,Samoa,Tropical Cyclones,10.0,10.0,0.0,10,10
+VCT,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,Tropical Cyclones,10.0,9.857142857142858,0.34992710611188255,10,9
+LCA,Saint Lucia,Saint Lucia,Tropical Cyclones,10.0,9.791666666666666,0.4061164310337068,10,9
+KNA,Saint Kitts and Nevis,Saint Kitts and Nevis,Tropical Cyclones,10.0,9.545454545454545,0.49792959773196915,10,9
+RWA,Rwanda,Rwanda,Tropical Cyclones,3.0,2.9699530516431927,0.2432921651185224,3,1
+RUS,Russia,Russia,Tropical Cyclones,1.0,1.2844960256206812,1.1422145722268087,10,1
+ROU,Romania,Romania,Tropical Cyclones,1.0,1.0,0.0,1,1
+QAT,Qatar,Qatar,Tropical Cyclones,3.0,2.9911816578483243,0.3587060527174835,10,1
+PRT,Portugal,Portugal,Tropical Cyclones,1.0,1.2150218613366646,1.3743952674457582,10,1
+POL,Poland,Poland,Tropical Cyclones,1.0,1.0077619663648125,0.2641920686952266,10,1
+PHL,Philippines,Philippines,Tropical Cyclones,10.0,9.739372549019608,0.664679488168201,10,5
+PER,Peru,Peru,Tropical Cyclones,1.0,1.2565602868508838,0.6857392565927449,10,1
+PRY,Paraguay,Paraguay,Tropical Cyclones,1.0,1.0,0.0,1,1
+PNG,Papua New Guinea,Papua New Guinea,Tropical Cyclones,3.0,3.6296691027202597,1.5245436782345037,10,1
+PAN,Panama,Panama,Tropical Cyclones,3.0,3.0374921235034655,0.44852851808827593,10,1
+PLW,Palau,Palau,Tropical Cyclones,9.5,9.5,0.5,10,9
+PAK,Pakistan,Pakistan,Tropical Cyclones,3.0,3.3530613078462608,1.0137545676985484,10,3
+OMN,Oman,Oman,Tropical Cyclones,3.0,3.797603106588109,1.4179759320671808,10,1
+NOR,Norway,Norway,Tropical Cyclones,1.0,1.24588664180863,1.467146732831364,10,1
+PRK,North Korea,North Korea,Tropical Cyclones,10.0,9.502331399977255,0.8416137368496069,10,8
+NGA,Nigeria,Nigeria,Tropical Cyclones,1.0,1.0,0.0,1,1
+NER,Niger,Niger,Tropical Cyclones,1.0,1.0,0.0,1,1
+NIC,Nicaragua,Nicaragua,Tropical Cyclones,8.0,7.881567387102442,0.7234040194200846,10,5
+NZ1,New Zealand,New Zealand,Tropical Cyclones,8.0,7.994020557422416,0.26789358722873874,10,5
+NL1,Netherlands,Netherlands,Tropical Cyclones,1.0,1.3969983054950375,1.8366427368884062,10,1
+NL1,Netherlands,Aruba,Tropical Cyclones,8.0,8.0,0.0,8,8
+NL1,Netherlands,Curaçao,Tropical Cyclones,8.0,8.0,0.0,8,8
+NPL,Nepal,Nepal,Tropical Cyclones,3.0,3.0,0.0,3,3
+NRU,Nauru,Nauru,Tropical Cyclones,5.0,5.0,0.0,5,5
+NAM,Namibia,Namibia,Tropical Cyclones,1.0,1.6990944628630809,0.9581059008007985,10,1
+MOZ,Mozambique,Mozambique,Tropical Cyclones,6.0,5.5721405295873385,2.235055586197353,10,1
+MAR,Morocco,Morocco,Tropical Cyclones,1.0,1.0022104875353064,0.1410301441629194,10,1
+SAH,Western Sahara,Western Sahara,Tropical Cyclones,1.0,1.0,0.0,1,1
+MNE,Montenegro,Montenegro,Tropical Cyclones,1.0,1.0,0.0,1,1
+MNG,Mongolia,Mongolia,Tropical Cyclones,3.0,2.2688500707011556,0.962966993564259,3,1
+MDA,Moldova,Moldova,Tropical Cyclones,1.0,1.0,0.0,1,1
+MCO,Monaco,Monaco,Tropical Cyclones,1.0,1.0,0.0,1,1
+MEX,Mexico,Mexico,Tropical Cyclones,8.0,8.50324970227883,1.7864529270236513,10,3
+MUS,Mauritius,Mauritius,Tropical Cyclones,10.0,10.0,0.0,10,10
+MRT,Mauritania,Mauritania,Tropical Cyclones,1.0,1.0,0.0,1,1
+MLT,Malta,Malta,Tropical Cyclones,1.0,1.0,0.0,1,1
+MLI,Mali,Mali,Tropical Cyclones,1.0,1.0,0.0,1,1
+MDV,Maldives,Maldives,Tropical Cyclones,10.0,10.0,0.0,10,10
+MYS,Malaysia,Malaysia,Tropical Cyclones,3.0,3.112230841731313,0.6097557881221001,10,1
+MWI,Malawi,Malawi,Tropical Cyclones,3.0,3.367874669686674,1.001321537940939,8,3
+MDG,Madagascar,Madagascar,Tropical Cyclones,10.0,9.981760535784261,0.1338162402732249,10,9
+MKD,North Macedonia,North Macedonia,Tropical Cyclones,1.0,1.0,0.0,1,1
+LUX,Luxembourg,Luxembourg,Tropical Cyclones,1.0,1.0,0.0,1,1
+LTU,Lithuania,Lithuania,Tropical Cyclones,1.0,1.0053847074308964,0.22007583193969746,10,1
+LIE,Liechtenstein,Liechtenstein,Tropical Cyclones,1.0,1.0,0.0,1,1
+LBY,Libya,Libya,Tropical Cyclones,1.0,1.0005229335409573,0.068601227460794,10,1
+LBR,Liberia,Liberia,Tropical Cyclones,1.0,1.0,0.0,1,1
+LSO,Lesotho,Lesotho,Tropical Cyclones,3.0,3.0,0.0,3,3
+LBN,Lebanon,Lebanon,Tropical Cyclones,1.0,1.0,0.0,1,1
+LVA,Latvia,Latvia,Tropical Cyclones,1.0,1.0049983338887039,0.2120377835591358,10,1
+LAO,Laos,Laos,Tropical Cyclones,8.0,8.835051546391753,0.9920816168794241,10,6
+KGZ,Kyrgyzstan,Kyrgyzstan,Tropical Cyclones,3.0,3.0,0.0,3,3
+KWT,Kuwait,Kuwait,Tropical Cyclones,3.0,2.9896157840083073,0.14373795616197946,3,1
+KIR,Kiribati,Kiribati,Tropical Cyclones,10.0,8.536585365853659,2.27497050075337,10,5
+KEN,Kenya,Kenya,Tropical Cyclones,3.0,2.9654383429672446,0.2602462284872293,3,1
+JOR,Jordan,Jordan,Tropical Cyclones,1.0,1.0,0.0,1,1
+JPN,Japan,Japan,Tropical Cyclones,10.0,9.946972742622819,0.2240878563247799,10,9
+JAM,Jamaica,Jamaica,Tropical Cyclones,10.0,9.911242603550296,0.2843932506674063,10,9
+ITA,Italy,Italy,Tropical Cyclones,1.0,1.001918485675307,0.13138755835495328,10,1
+IS1,Israel,Palestine,Tropical Cyclones,1.0,1.0,0.0,1,1
+IRL,Ireland,Ireland,Tropical Cyclones,1.0,1.0067331670822943,0.24607553352922,10,1
+IRQ,Iraq,Iraq,Tropical Cyclones,1.0,1.1645346610494063,0.5489155457574991,3,1
+IRN,Iran,Iran,Tropical Cyclones,3.0,2.7863967645010033,0.6722924842619408,10,1
+IDN,Indonesia,Indonesia,Tropical Cyclones,3.0,3.263434512701375,1.1995568110673933,10,1
+IND,India,India,Tropical Cyclones,3.0,4.407360123981378,1.93568842402887,10,3
+ISL,Iceland,Iceland,Tropical Cyclones,1.0,1.0606801230458052,0.7365046028908384,10,1
+HUN,Hungary,Hungary,Tropical Cyclones,1.0,1.0,0.0,1,1
+HND,Honduras,Honduras,Tropical Cyclones,8.0,8.73607843137255,0.9464859226061721,10,7
+HTI,Haiti,Haiti,Tropical Cyclones,10.0,9.909235668789808,0.2872736802948676,10,9
+GUY,Guyana,Guyana,Tropical Cyclones,3.0,2.9983245839383446,0.1019057042725444,10,1
+GNB,Guinea-Bissau,Guinea-Bissau,Tropical Cyclones,1.0,1.0,0.0,1,1
+GIN,Guinea,Guinea,Tropical Cyclones,1.0,1.000849296970841,0.08742397515683298,10,1
+GTM,Guatemala,Guatemala,Tropical Cyclones,8.0,8.24979658258747,0.6525361732508411,10,7
+GRD,Grenada,Grenada,Tropical Cyclones,10.0,9.615384615384615,0.4865042554105199,10,9
+GRC,Greece,Greece,Tropical Cyclones,1.0,1.014910536779324,0.36602254972456133,10,1
+GHA,Ghana,Ghana,Tropical Cyclones,1.0,1.0008782201405153,0.0888999999663768,10,1
+DEU,Germany,Germany,Tropical Cyclones,1.0,1.0066462707036608,0.2444836669773263,10,1
+GEO,Georgia,Georgia,Tropical Cyclones,1.0,1.0034097366925554,0.1751456648869338,10,1
+GMB,Gambia,Gambia,Tropical Cyclones,1.0,1.0,0.0,1,1
+GAB,Gabon,Gabon,Tropical Cyclones,1.0,1.0032967032967033,0.1722192248783602,10,1
+FR1,France,France,Tropical Cyclones,1.0,1.1819695664656904,0.807527691752362,10,1
+FI1,Finland,Aland,Tropical Cyclones,1.0,1.0,0.0,1,1
+FI1,Finland,Finland,Tropical Cyclones,1.0,1.0048823085777796,0.2095636902303622,10,1
+FJI,Fiji,Fiji,Tropical Cyclones,10.0,9.25,0.9958640886279954,10,5
+ETH,Ethiopia,Ethiopia,Tropical Cyclones,3.0,2.58895402653502,0.8073134330406858,3,1
+EST,Estonia,Estonia,Tropical Cyclones,1.0,1.0384013653818802,0.5866324433354583,10,1
+ERI,Eritrea,Eritrea,Tropical Cyclones,1.0,1.6148466917697686,0.9645584921602947,10,1
+GNQ,Equatorial Guinea,Equatorial Guinea,Tropical Cyclones,1.0,1.0,0.0,1,1
+SLV,El Salvador,El Salvador,Tropical Cyclones,8.0,8.0,0.0,8,8
+EGY,Egypt,Egypt,Tropical Cyclones,1.0,1.0017049329393044,0.12386076722437964,10,1
+ECU,Ecuador,Ecuador,Tropical Cyclones,3.0,2.7931678178084747,0.6812003842020049,10,1
+DOM,Dominican Republic,Dominican Republic,Tropical Cyclones,10.0,9.95546737213404,0.20627523584112809,10,9
+DMA,Dominica,Dominica,Tropical Cyclones,10.0,9.78125,0.41339864235384227,10,9
+DJI,Djibouti,Djibouti,Tropical Cyclones,3.0,2.9936708860759493,0.11233062879303067,3,1
+DN1,Denmark,Greenland,Tropical Cyclones,1.0,1.1189189627754519,1.02190841964385,10,1
+DN1,Denmark,Denmark,Tropical Cyclones,1.0,1.0871939404615114,0.8815569640700462,10,1
+CZE,Czechia,Czechia,Tropical Cyclones,1.0,1.0,0.0,1,1
+CYN,Northern Cyprus,Northern Cyprus,Tropical Cyclones,1.0,1.0,0.0,1,1
+CYP,Cyprus,Cyprus,Tropical Cyclones,1.0,1.0,0.0,1,1
+HRV,Croatia,Croatia,Tropical Cyclones,1.0,1.0059158632778264,0.2306680993594829,10,1
+CIV,Ivory Coast,Ivory Coast,Tropical Cyclones,1.0,1.0,0.0,1,1
+CRI,Costa Rica,Costa Rica,Tropical Cyclones,3.0,4.325999101930849,1.4829255197044326,6,1
+COD,Democratic Republic of the Congo,Democratic Republic of the Congo,Tropical Cyclones,1.0,1.3714349466509796,0.7772613147215094,3,1
+COG,Republic of the Congo,Republic of the Congo,Tropical Cyclones,1.0,1.0,0.0,1,1
+COM,Comoros,Comoros,Tropical Cyclones,8.0,7.876923076923077,0.3724221057510832,8,6
+COL,Colombia,Colombia,Tropical Cyclones,3.0,3.0982461973235806,0.7125443665170154,10,1
+CH1,China,China,Tropical Cyclones,3.0,4.096510883739432,2.6672721120754397,10,1
+CH1,China,Macao S.A.R,Tropical Cyclones,10.0,10.0,0.0,10,10
+CH1,China,Hong Kong S.A.R.,Tropical Cyclones,10.0,9.673469387755102,0.46894388951330845,10,9
+CHL,Chile,Chile,Tropical Cyclones,1.0,1.0407976687046454,0.6045780086722268,10,1
+TCD,Chad,Chad,Tropical Cyclones,1.0,1.0,0.0,1,1
+CAF,Central African Republic,Central African Republic,Tropical Cyclones,1.0,1.0,0.0,1,1
+CPV,Cabo Verde,Cabo Verde,Tropical Cyclones,10.0,10.0,0.0,10,10
+CAN,Canada,Canada,Tropical Cyclones,1.0,1.563234847580379,1.3043137459204912,10,1
+CMR,Cameroon,Cameroon,Tropical Cyclones,1.0,1.0,0.0,1,1
+KHM,Cambodia,Cambodia,Tropical Cyclones,8.0,7.156641604010025,1.795573713824603,10,1
+MMR,Myanmar,Myanmar,Tropical Cyclones,6.0,5.843882514342729,2.035428593848134,10,1
+BDI,Burundi,Burundi,Tropical Cyclones,3.0,2.9991228070175437,0.02960445093102843,3,2
+BFA,Burkina Faso,Burkina Faso,Tropical Cyclones,1.0,1.0,0.0,1,1
+BGR,Bulgaria,Bulgaria,Tropical Cyclones,1.0,1.0010303377218088,0.09629111018395396,10,1
+BRN,Brunei,Brunei,Tropical Cyclones,3.0,2.957627118644068,0.2880109401350242,3,1
+BRA,Brazil,Brazil,Tropical Cyclones,1.0,1.231391834978836,0.6418623205894151,10,1
+BWA,Botswana,Botswana,Tropical Cyclones,3.0,3.0,0.0,3,3
+BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,Tropical Cyclones,1.0,1.0,0.0,1,1
+BOL,Bolivia,Bolivia,Tropical Cyclones,1.0,1.0,0.0,1,1
+BTN,Bhutan,Bhutan,Tropical Cyclones,3.0,3.0,0.0,3,3
+BEN,Benin,Benin,Tropical Cyclones,1.0,1.0,0.0,1,1
+BLZ,Belize,Belize,Tropical Cyclones,8.0,8.48757170172084,0.8497769542708927,10,5
+BEL,Belgium,Belgium,Tropical Cyclones,1.0,1.0028195488721805,0.15927331852442028,10,1
+BLR,Belarus,Belarus,Tropical Cyclones,1.0,1.0,0.0,1,1
+BRB,Barbados,Barbados,Tropical Cyclones,10.0,9.8125,0.3903123748998999,10,9
+BGD,Bangladesh,Bangladesh,Tropical Cyclones,8.0,6.9829512051734275,1.6147114642701346,10,3
+BHR,Bahrain,Bahrain,Tropical Cyclones,3.0,3.0,0.0,3,3
+BHS,The Bahamas,The Bahamas,Tropical Cyclones,10.0,9.607476635514018,0.4883121673874068,10,9
+AZE,Azerbaijan,Azerbaijan,Tropical Cyclones,1.0,1.0333118764081106,0.546531981281212,10,1
+AUT,Austria,Austria,Tropical Cyclones,1.0,1.0,0.0,1,1
+AU1,Australia,Australia,Tropical Cyclones,6.0,5.648359164737778,2.623223250895594,10,1
+ARM,Armenia,Armenia,Tropical Cyclones,1.0,1.0,0.0,1,1
+ARG,Argentina,Argentina,Tropical Cyclones,1.0,1.0012473874163557,0.10594777379367257,10,1
+ATG,Antigua and Barbuda,Antigua and Barbuda,Tropical Cyclones,10.0,9.6,0.48989794855663565,10,9
+AGO,Angola,Angola,Tropical Cyclones,1.0,1.604051029136108,0.924612336924041,10,1
+AND,Andorra,Andorra,Tropical Cyclones,1.0,1.0,0.0,1,1
+DZA,Algeria,Algeria,Tropical Cyclones,1.0,1.0007853465440786,0.08406843716587575,10,1
+ALB,Albania,Albania,Tropical Cyclones,1.0,1.0172001911132347,0.39307235141228075,10,1
+AFG,Afghanistan,Afghanistan,Tropical Cyclones,3.0,3.0,0.0,3,3
+KAS,Kashmir,Siachen Glacier,Tropical Cyclones,3.0,3.0,0.0,3,3
+NL1,Netherlands,Sint Maarten,Tropical Cyclones,10.0,10.0,0.0,10,10
+TUV,Tuvalu,Tuvalu,Tropical Cyclones,--,--,--,--,--

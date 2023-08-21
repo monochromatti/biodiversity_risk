@@ -1,0 +1,208 @@
+SOV_A3,SOVEREIGNTY,ADMIN,RISK_TYPE,RISK_MEDIAN,RISK_MEAN,RISK_STD,RISK_MAX,RISK_MIN
+ZWE,Zimbabwe,Zimbabwe,Sites of International Interest,1.0,2.5170510438299267,3.3197144281198963,10,1
+ZMB,Zambia,Zambia,Sites of International Interest,1.0,1.7302245147440294,2.4163581745172,10,1
+YEM,Yemen,Yemen,Sites of International Interest,1.0,1.0706614180881566,0.781873490613345,10,1
+VNM,Vietnam,Vietnam,Sites of International Interest,1.0,2.160677652041559,2.941467626107186,10,1
+VEN,Venezuela,Venezuela,Sites of International Interest,1.0,1.634091259046348,2.263722281160823,10,1
+VAT,Vatican,Vatican,Sites of International Interest,--,--,--,--,--
+VUT,Vanuatu,Vanuatu,Sites of International Interest,1.0,1.0,0.0,1,1
+UZB,Uzbekistan,Uzbekistan,Sites of International Interest,1.0,1.2182028607038993,1.3700517485605712,10,1
+URY,Uruguay,Uruguay,Sites of International Interest,1.0,3.044134396355353,3.728831387205371,10,1
+FSM,Federated States of Micronesia,Federated States of Micronesia,Sites of International Interest,10.0,8.923076923076923,2.0925339244208376,10,1
+MHL,Marshall Islands,Marshall Islands,Sites of International Interest,10.0,10.0,0.0,10,10
+US1,United States of America,United States of America,Sites of International Interest,1.0,1.5134958850711462,2.0561191185340997,10,1
+GB1,United Kingdom,Jersey,Sites of International Interest,10.0,10.0,0.0,10,10
+GB1,United Kingdom,Guernsey,Sites of International Interest,10.0,10.0,0.0,10,10
+GB1,United Kingdom,Isle of Man,Sites of International Interest,10.0,10.0,0.0,10,10
+GB1,United Kingdom,United Kingdom,Sites of International Interest,10.0,8.627493701913256,3.1669681630049564,10,1
+ARE,United Arab Emirates,United Arab Emirates,Sites of International Interest,1.0,3.5768908735696345,3.9973674900136626,10,1
+UKR,Ukraine,Ukraine,Sites of International Interest,1.0,2.4098422238918107,3.228053086470077,10,1
+UGA,Uganda,Uganda,Sites of International Interest,1.0,3.1986240786240785,3.8090746519190146,10,1
+TKM,Turkmenistan,Turkmenistan,Sites of International Interest,1.0,1.049056373669929,0.6379864313836349,10,1
+TUR,Turkey,Turkey,Sites of International Interest,1.0,2.1728397337807195,2.9613098101459974,10,1
+TUN,Tunisia,Tunisia,Sites of International Interest,10.0,6.702282914625248,4.2708727943520275,10,1
+TTO,Trinidad and Tobago,Trinidad and Tobago,Sites of International Interest,1.0,1.31651376146789,1.1111621952363877,10,1
+TON,Tonga,Tonga,Sites of International Interest,1.0,1.0,0.0,1,1
+TGO,Togo,Togo,Sites of International Interest,1.0,4.205462698736241,4.240643848837728,10,1
+TLS,East Timor,East Timor,Sites of International Interest,1.0,1.1849529780564263,0.8602831317388794,6,1
+THA,Thailand,Thailand,Sites of International Interest,1.0,2.66487578440643,3.4277679687037486,10,1
+TZA,United Republic of Tanzania,United Republic of Tanzania,Sites of International Interest,1.0,4.017726876633885,4.200221634836216,10,1
+TJK,Tajikistan,Tajikistan,Sites of International Interest,1.0,4.723454508112549,4.387596445238669,10,1
+TWN,Taiwan,Taiwan,Sites of International Interest,1.0,1.105731775180857,0.6957662581537923,10,1
+SYR,Syria,Syria,Sites of International Interest,1.0,1.1864406779661016,1.2546046326264768,10,1
+CHE,Switzerland,Switzerland,Sites of International Interest,10.0,8.754191454840454,2.9974552048073924,10,1
+SWE,Sweden,Sweden,Sites of International Interest,10.0,6.917564470231307,4.198823961128709,10,1
+SWZ,eSwatini,eSwatini,Sites of International Interest,4.0,5.144632768361582,4.299190175437224,10,1
+SUR,Suriname,Suriname,Sites of International Interest,1.0,3.6365415986949428,4.011448028147354,10,1
+SDS,South Sudan,South Sudan,Sites of International Interest,1.0,2.6758576587421006,3.468875546431051,10,1
+SDN,Sudan,Sudan,Sites of International Interest,1.0,1.3202460797279425,1.649672655841276,10,1
+LKA,Sri Lanka,Sri Lanka,Sites of International Interest,10.0,6.505865623889086,4.337157194945463,10,1
+ESP,Spain,Spain,Sites of International Interest,1.0,4.0759809294169225,4.174830065303859,10,1
+KOR,South Korea,South Korea,Sites of International Interest,1.0,4.374123645634162,4.248262076334767,10,1
+ZAF,South Africa,South Africa,Sites of International Interest,1.0,2.8069647143006216,3.559408733082442,10,1
+SOM,Somalia,Somalia,Sites of International Interest,1.0,1.0072351679057931,0.181466356258819,10,1
+SOL,Somaliland,Somaliland,Sites of International Interest,1.0,1.0690744301016204,0.6433757657456193,10,1
+SLB,Solomon Islands,Solomon Islands,Sites of International Interest,1.0,1.5929283771532186,1.832571439040146,10,1
+SVK,Slovakia,Slovakia,Sites of International Interest,10.0,6.579728857327308,4.292265639579463,10,1
+SVN,Slovenia,Slovenia,Sites of International Interest,1.0,4.284013605442177,4.206726418044972,10,1
+SGP,Singapore,Singapore,Sites of International Interest,1.0,1.0,0.0,1,1
+SLE,Sierra Leone,Sierra Leone,Sites of International Interest,1.0,1.3988326848249026,1.7747175838666638,10,1
+SYC,Seychelles,Seychelles,Sites of International Interest,10.0,10.0,0.0,10,10
+SRB,Republic of Serbia,Republic of Serbia,Sites of International Interest,1.0,1.9024351676154332,2.640271082315555,10,1
+SEN,Senegal,Senegal,Sites of International Interest,1.0,3.727933658979893,4.06458986023667,10,1
+SAU,Saudi Arabia,Saudi Arabia,Sites of International Interest,1.0,1.0120360567781193,0.2832716650284723,10,1
+STP,São Tomé and Principe,São Tomé and Principe,Sites of International Interest,10.0,10.0,0.0,10,10
+SMR,San Marino,San Marino,Sites of International Interest,10.0,10.0,0.0,10,10
+WSM,Samoa,Samoa,Sites of International Interest,10.0,10.0,0.0,10,10
+VCT,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,Sites of International Interest,10.0,10.0,0.0,10,10
+LCA,Saint Lucia,Saint Lucia,Sites of International Interest,10.0,10.0,0.0,10,10
+KNA,Saint Kitts and Nevis,Saint Kitts and Nevis,Sites of International Interest,10.0,10.0,0.0,10,10
+RWA,Rwanda,Rwanda,Sites of International Interest,8.0,5.790610328638498,4.353219746659962,10,1
+RUS,Russia,Russia,Sites of International Interest,1.0,1.5621962232576927,2.1511046884171368,10,1
+ROU,Romania,Romania,Sites of International Interest,1.0,3.8579146407347378,4.103936396563456,10,1
+QAT,Qatar,Qatar,Sites of International Interest,1.0,1.1340388007054674,0.774156024663455,10,1
+PRT,Portugal,Portugal,Sites of International Interest,10.0,6.442535915053091,4.316959807130513,10,1
+POL,Poland,Poland,Sites of International Interest,1.0,3.18528101193043,3.806166228901068,10,1
+PHL,Philippines,Philippines,Sites of International Interest,1.0,2.045176470588235,2.7374236972507373,10,1
+PER,Peru,Peru,Sites of International Interest,1.0,3.4190734431025565,3.93918647973174,10,1
+PRY,Paraguay,Paraguay,Sites of International Interest,1.0,1.8583626318432949,2.5856555060315602,10,1
+PNG,Papua New Guinea,Papua New Guinea,Sites of International Interest,1.0,1.4971579374746244,2.0098195911831644,10,1
+PAN,Panama,Panama,Sites of International Interest,4.0,5.349716446124764,4.3928041184346975,10,1
+PLW,Palau,Palau,Sites of International Interest,10.0,10.0,0.0,10,10
+PAK,Pakistan,Pakistan,Sites of International Interest,1.0,1.2507658375199118,1.4421961986658003,10,1
+OMN,Oman,Oman,Sites of International Interest,1.0,1.9137653990358865,2.6958245232831164,10,1
+NOR,Norway,Norway,Sites of International Interest,1.0,3.515774226189651,3.966281861416648,10,1
+PRK,North Korea,North Korea,Sites of International Interest,1.0,1.494029341521665,1.988878910331762,10,1
+NGA,Nigeria,Nigeria,Sites of International Interest,1.0,2.0528871824862063,2.8505717815586085,10,1
+NER,Niger,Niger,Sites of International Interest,1.0,2.5615395872969415,3.3623628690484186,10,1
+NIC,Nicaragua,Nicaragua,Sites of International Interest,10.0,7.1203654893691795,4.097231315486868,10,1
+NZ1,New Zealand,New Zealand,Sites of International Interest,1.0,3.4674342755485275,3.9433722597527208,10,1
+NL1,Netherlands,Netherlands,Sites of International Interest,10.0,9.58799322198015,1.8302948653350108,10,1
+NL1,Netherlands,Aruba,Sites of International Interest,10.0,10.0,0.0,10,10
+NL1,Netherlands,Curaçao,Sites of International Interest,10.0,10.0,0.0,10,10
+NPL,Nepal,Nepal,Sites of International Interest,1.0,3.864688128772636,4.134229270771001,10,1
+NRU,Nauru,Nauru,Sites of International Interest,4.0,4.0,0.0,4,4
+NAM,Namibia,Namibia,Sites of International Interest,1.0,2.6014152110445843,3.39214905630592,10,1
+MOZ,Mozambique,Mozambique,Sites of International Interest,1.0,2.121690079136888,2.938628578038896,10,1
+MAR,Morocco,Morocco,Sites of International Interest,1.0,3.9261635760776126,4.12951706543,10,1
+SAH,Western Sahara,Western Sahara,Sites of International Interest,1.0,1.1811452209884608,1.231462781677016,10,1
+MNE,Montenegro,Montenegro,Sites of International Interest,1.0,4.1928504233301975,4.193067079885878,10,1
+MNG,Mongolia,Mongolia,Sites of International Interest,1.0,2.210675160327368,3.042105084457349,10,1
+MDA,Moldova,Moldova,Sites of International Interest,1.0,3.9680957128614156,4.205937390737901,10,1
+MCO,Monaco,Monaco,Sites of International Interest,10.0,10.0,0.0,10,10
+MEX,Mexico,Mexico,Sites of International Interest,1.0,4.08547120683043,4.201847560658268,10,1
+MUS,Mauritius,Mauritius,Sites of International Interest,10.0,10.0,0.0,10,10
+MRT,Mauritania,Mauritania,Sites of International Interest,1.0,1.231432320581407,1.4033288940934598,10,1
+MLT,Malta,Malta,Sites of International Interest,10.0,10.0,0.0,10,10
+MLI,Mali,Mali,Sites of International Interest,1.0,1.927742379886344,2.701493655395019,10,1
+MDV,Maldives,Maldives,Sites of International Interest,1.0,1.0,0.0,1,1
+MYS,Malaysia,Malaysia,Sites of International Interest,1.0,1.6533023997679983,2.2345937272927294,10,1
+MWI,Malawi,Malawi,Sites of International Interest,1.0,4.1243865609664025,4.185691468821331,10,1
+MDG,Madagascar,Madagascar,Sites of International Interest,1.0,4.177692280289267,4.219552880948338,10,1
+MKD,North Macedonia,North Macedonia,Sites of International Interest,1.0,3.2159031068983674,3.7981925058945367,10,1
+LUX,Luxembourg,Luxembourg,Sites of International Interest,10.0,10.0,0.0,10,10
+LTU,Lithuania,Lithuania,Sites of International Interest,1.0,4.965777192772526,4.406259923558337,10,1
+LIE,Liechtenstein,Liechtenstein,Sites of International Interest,10.0,8.0,2.73030134866931,10,1
+LBY,Libya,Libya,Sites of International Interest,1.0,1.1553577446457415,1.1368843567403508,10,1
+LBR,Liberia,Liberia,Sites of International Interest,1.0,1.3476225671347624,1.6484970091578803,10,1
+LSO,Lesotho,Lesotho,Sites of International Interest,1.0,3.253605769230769,3.860781790892849,10,1
+LBN,Lebanon,Lebanon,Sites of International Interest,10.0,7.4794745484400655,3.9065423277768057,10,1
+LVA,Latvia,Latvia,Sites of International Interest,1.0,4.787293124514051,4.342465957157896,10,1
+LAO,Laos,Laos,Sites of International Interest,1.0,1.3651358950328023,1.7450809310055924,10,1
+KGZ,Kyrgyzstan,Kyrgyzstan,Sites of International Interest,1.0,3.373812251499427,3.9242736152440414,10,1
+KWT,Kuwait,Kuwait,Sites of International Interest,1.0,1.8328141225337486,2.5019375822241696,10,1
+KIR,Kiribati,Kiribati,Sites of International Interest,1.0,1.9024390243902438,2.239391010953762,10,1
+KEN,Kenya,Kenya,Sites of International Interest,1.0,2.275329158638407,3.0850742188755493,10,1
+JOR,Jordan,Jordan,Sites of International Interest,1.0,2.975451688923802,3.642668805873554,10,1
+JPN,Japan,Japan,Sites of International Interest,10.0,6.024201977968963,4.374915110350519,10,1
+JAM,Jamaica,Jamaica,Sites of International Interest,10.0,10.0,0.0,10,10
+ITA,Italy,Italy,Sites of International Interest,4.0,5.4584328103683495,4.402892823024208,10,1
+IS1,Israel,Palestine,Sites of International Interest,1.0,1.008108108108108,0.15575167064025847,4,1
+IRL,Ireland,Ireland,Sites of International Interest,10.0,7.258852867830424,4.043075750833832,10,1
+IRQ,Iraq,Iraq,Sites of International Interest,1.0,1.719532746074301,2.4033770628001663,10,1
+IRN,Iran,Iran,Sites of International Interest,1.0,2.340403189752867,3.1612087221130203,10,1
+IDN,Indonesia,Indonesia,Sites of International Interest,1.0,2.098945043226568,2.8852993535837728,10,1
+IND,India,India,Sites of International Interest,1.0,1.6215011146891256,2.247165877039878,10,1
+ISL,Iceland,Iceland,Sites of International Interest,6.0,5.490961190004636,4.437899053368697,10,1
+HUN,Hungary,Hungary,Sites of International Interest,10.0,7.325780045082453,4.013049777041772,10,1
+HND,Honduras,Honduras,Sites of International Interest,1.0,3.573529411764706,3.951207967950775,10,1
+HTI,Haiti,Haiti,Sites of International Interest,1.0,5.094745222929936,4.397607676798567,10,1
+GUY,Guyana,Guyana,Sites of International Interest,1.0,1.5878476488327935,2.1938644433051144,10,1
+GNB,Guinea-Bissau,Guinea-Bissau,Sites of International Interest,10.0,6.279003558718861,4.282599952400469,10,1
+GIN,Guinea,Guinea,Sites of International Interest,1.0,5.182504482400679,4.407340685021642,10,1
+GTM,Guatemala,Guatemala,Sites of International Interest,1.0,5.200162733930024,4.37857234995637,10,1
+GRD,Grenada,Grenada,Sites of International Interest,10.0,10.0,0.0,10,10
+GRC,Greece,Greece,Sites of International Interest,4.0,5.32339297548045,4.360584969662269,10,1
+GHA,Ghana,Ghana,Sites of International Interest,1.0,1.428376268540203,1.8562043403654935,10,1
+DEU,Germany,Germany,Sites of International Interest,4.0,5.37042409536871,4.411872204792744,10,1
+GEO,Georgia,Georgia,Sites of International Interest,1.0,1.8397423754498958,2.5389715626363816,10,1
+GMB,Gambia,Gambia,Sites of International Interest,4.0,5.437086092715232,4.453700238428727,10,1
+GAB,Gabon,Gabon,Sites of International Interest,1.0,5.214560439560439,4.385355717630735,10,1
+FR1,France,France,Sites of International Interest,1.0,4.188151976265671,4.238773637945662,10,1
+FI1,Finland,Aland,Sites of International Interest,10.0,10.0,0.0,10,10
+FI1,Finland,Finland,Sites of International Interest,8.0,5.623559454345784,4.436274506533075,10,1
+FJI,Fiji,Fiji,Sites of International Interest,10.0,9.599056603773585,1.7783018867924525,10,1
+ETH,Ethiopia,Ethiopia,Sites of International Interest,1.0,1.1307209708937571,1.0591308053979556,10,1
+EST,Estonia,Estonia,Sites of International Interest,10.0,8.080500640022757,3.6011588993737718,10,1
+ERI,Eritrea,Eritrea,Sites of International Interest,1.0,1.0032275416890801,0.09834738451980153,4,1
+GNQ,Equatorial Guinea,Equatorial Guinea,Sites of International Interest,6.0,5.434150772025432,4.341514940766743,10,1
+SLV,El Salvador,El Salvador,Sites of International Interest,10.0,8.878183831672203,2.9107431172202602,10,1
+EGY,Egypt,Egypt,Sites of International Interest,1.0,1.1695082215655073,1.178130069468708,10,1
+ECU,Ecuador,Ecuador,Sites of International Interest,1.0,3.803901437371663,4.100849688175618,10,1
+DOM,Dominican Republic,Dominican Republic,Sites of International Interest,1.0,1.6283068783068784,2.170800157503017,10,1
+DMA,Dominica,Dominica,Sites of International Interest,10.0,10.0,0.0,10,10
+DJI,Djibouti,Djibouti,Sites of International Interest,1.0,1.0464135021097047,0.43326574356095987,8,1
+DN1,Denmark,Greenland,Sites of International Interest,1.0,1.4190668981706855,1.8535505264020484,10,1
+DN1,Denmark,Denmark,Sites of International Interest,10.0,8.897657213316892,2.8784163621832746,10,1
+CZE,Czechia,Czechia,Sites of International Interest,10.0,7.093821510297483,4.119878566865882,10,1
+CYN,Northern Cyprus,Northern Cyprus,Sites of International Interest,1.0,1.452914798206278,1.226127385281792,8,1
+CYP,Cyprus,Cyprus,Sites of International Interest,1.0,3.702247191011236,3.9335913638236866,10,1
+HRV,Croatia,Croatia,Sites of International Interest,10.0,6.207931638913234,4.3024785693043555,10,1
+CIV,Ivory Coast,Ivory Coast,Sites of International Interest,1.0,3.005672314740746,3.680790521224177,10,1
+CRI,Costa Rica,Costa Rica,Sites of International Interest,10.0,7.899865289627301,3.6697203925002198,10,1
+COD,Democratic Republic of the Congo,Democratic Republic of the Congo,Sites of International Interest,1.0,2.7380015416446915,3.5230042356507636,10,1
+COG,Republic of the Congo,Republic of the Congo,Sites of International Interest,10.0,6.614856043427472,4.301911576969728,10,1
+COM,Comoros,Comoros,Sites of International Interest,10.0,10.0,0.0,10,10
+COL,Colombia,Colombia,Sites of International Interest,1.0,1.87021029008395,2.6146288545176115,10,1
+CH1,China,China,Sites of International Interest,1.0,1.9311158980709051,2.702471161405775,10,1
+CH1,China,Macao S.A.R,Sites of International Interest,1.0,1.0,0.0,1,1
+CH1,China,Hong Kong S.A.R.,Sites of International Interest,10.0,10.0,0.0,10,10
+CHL,Chile,Chile,Sites of International Interest,1.0,2.656495819286517,3.3784855993294007,10,1
+TCD,Chad,Chad,Sites of International Interest,1.0,1.9548788542427087,2.73063569245388,10,1
+CAF,Central African Republic,Central African Republic,Sites of International Interest,1.0,1.72927088070335,2.4295742951309474,10,1
+CPV,Cabo Verde,Cabo Verde,Sites of International Interest,10.0,10.0,0.0,10,10
+CAN,Canada,Canada,Sites of International Interest,1.0,1.5595690116297105,2.1435257539605987,10,1
+CMR,Cameroon,Cameroon,Sites of International Interest,1.0,2.74659786512875,3.5093822942127977,10,1
+KHM,Cambodia,Cambodia,Sites of International Interest,1.0,3.099122807017544,3.7199690397364376,10,1
+MMR,Myanmar,Myanmar,Sites of International Interest,1.0,1.7031366924420055,2.356869060331133,10,1
+BDI,Burundi,Burundi,Sites of International Interest,1.0,1.1789473684210525,1.2159375621818145,10,1
+BFA,Burkina Faso,Burkina Faso,Sites of International Interest,1.0,5.244954128440367,4.398077236688868,10,1
+BGR,Bulgaria,Bulgaria,Sites of International Interest,8.0,5.698111047510017,4.387849681038176,10,1
+BRN,Brunei,Brunei,Sites of International Interest,10.0,7.639830508474576,3.8125493012763068,10,1
+BRA,Brazil,Brazil,Sites of International Interest,1.0,1.8277134860402249,2.572205877931318,10,1
+BWA,Botswana,Botswana,Sites of International Interest,1.0,2.8381421534130893,3.611827928058533,10,1
+BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,Sites of International Interest,1.0,4.44119743406985,4.280875614168218,10,1
+BOL,Bolivia,Bolivia,Sites of International Interest,1.0,1.538353667087365,2.1054774462450214,10,1
+BTN,Bhutan,Bhutan,Sites of International Interest,1.0,2.0070788107597926,2.7515402883466584,10,1
+BEN,Benin,Benin,Sites of International Interest,1.0,3.3820135296458416,3.91087879450392,10,1
+BLZ,Belize,Belize,Sites of International Interest,10.0,7.678776290630975,3.8342908924403307,10,1
+BEL,Belgium,Belgium,Sites of International Interest,10.0,7.136278195488722,4.0860772448557645,10,1
+BLR,Belarus,Belarus,Sites of International Interest,1.0,4.971218915613535,4.403190114686753,10,1
+BRB,Barbados,Barbados,Sites of International Interest,10.0,10.0,0.0,10,10
+BGD,Bangladesh,Bangladesh,Sites of International Interest,1.0,1.7469135802469136,2.4163301835075743,10,1
+BHR,Bahrain,Bahrain,Sites of International Interest,1.0,1.103448275862069,0.5473968229788808,4,1
+BHS,The Bahamas,The Bahamas,Sites of International Interest,1.0,2.931464174454829,3.1437482895274167,10,1
+AZE,Azerbaijan,Azerbaijan,Sites of International Interest,1.0,1.8368200836820083,2.547348077513143,10,1
+AUT,Austria,Austria,Sites of International Interest,10.0,6.744986414801398,4.206538112991537,10,1
+AU1,Australia,Australia,Sites of International Interest,1.0,2.132149070416392,2.946590127853845,10,1
+ARM,Armenia,Armenia,Sites of International Interest,10.0,5.822838345864661,4.397442975838077,10,1
+ARG,Argentina,Argentina,Sites of International Interest,1.0,2.3954273549288434,3.213891443973076,10,1
+ATG,Antigua and Barbuda,Antigua and Barbuda,Sites of International Interest,10.0,10.0,0.0,10,10
+AGO,Angola,Angola,Sites of International Interest,1.0,1.0432946914411545,0.601822590001453,10,1
+AND,Andorra,Andorra,Sites of International Interest,10.0,10.0,0.0,10,10
+DZA,Algeria,Algeria,Sites of International Interest,1.0,2.7738281280987476,3.535678751354775,10,1
+ALB,Albania,Albania,Sites of International Interest,10.0,6.569517439082657,4.268638913206345,10,1
+AFG,Afghanistan,Afghanistan,Sites of International Interest,1.0,1.1063927876242188,0.9552271332751663,10,1
+KAS,Kashmir,Siachen Glacier,Sites of International Interest,1.0,1.0,0.0,1,1
+NL1,Netherlands,Sint Maarten,Sites of International Interest,10.0,10.0,0.0,10,10
+TUV,Tuvalu,Tuvalu,Sites of International Interest,--,--,--,--,--

@@ -1,0 +1,208 @@
+SOV_A3,SOVEREIGNTY,ADMIN,RISK_TYPE,RISK_MEDIAN,RISK_MEAN,RISK_STD,RISK_MAX,RISK_MIN
+ZWE,Zimbabwe,Zimbabwe,Herbicide Resistance,1.0,1.0219149633839764,0.20781171478844312,3,1
+ZMB,Zambia,Zambia,Herbicide Resistance,1.0,1.0,0.0,1,1
+YEM,Yemen,Yemen,Herbicide Resistance,1.0,1.0578801574573553,0.33708329981858487,10,1
+VNM,Vietnam,Vietnam,Herbicide Resistance,1.0,1.1883396201442658,1.1002308563819756,10,1
+VEN,Venezuela,Venezuela,Herbicide Resistance,3.0,3.014397166760766,0.44880958817361,10,1
+VAT,Vatican,Vatican,Herbicide Resistance,--,--,--,--,--
+VUT,Vanuatu,Vanuatu,Herbicide Resistance,1.0,1.0348837209302326,0.5592285886702814,10,1
+UZB,Uzbekistan,Uzbekistan,Herbicide Resistance,1.0,1.1391773992521812,0.5069186582967359,3,1
+URY,Uruguay,Uruguay,Herbicide Resistance,3.0,3.272399392558846,1.222270786451779,10,1
+FSM,Federated States of Micronesia,Federated States of Micronesia,Herbicide Resistance,1.0,1.0,0.0,1,1
+MHL,Marshall Islands,Marshall Islands,Herbicide Resistance,1.0,3.25,3.897114317029974,10,1
+US1,United States of America,United States of America,Herbicide Resistance,10.0,9.979029700107384,0.309802702578715,10,3
+GB1,United Kingdom,Jersey,Herbicide Resistance,9.0,9.357142857142858,0.47915742374995496,10,9
+GB1,United Kingdom,Guernsey,Herbicide Resistance,9.5,9.5,0.5,10,9
+GB1,United Kingdom,Isle of Man,Herbicide Resistance,1.0,1.0,0.0,1,1
+GB1,United Kingdom,United Kingdom,Herbicide Resistance,6.0,5.927589024307211,0.4676132432409881,10,1
+ARE,United Arab Emirates,United Arab Emirates,Herbicide Resistance,1.0,1.11722020653084,0.5696695952403388,10,1
+UKR,Ukraine,Ukraine,Herbicide Resistance,3.0,2.9926299595721084,0.39952217227998377,10,1
+UGA,Uganda,Uganda,Herbicide Resistance,1.0,1.0587714987714987,0.3360201590616076,3,1
+TKM,Turkmenistan,Turkmenistan,Herbicide Resistance,1.0,1.0978688374645569,0.6626416122382189,10,1
+TUR,Turkey,Turkey,Herbicide Resistance,3.0,3.0142143397061263,0.34505358701944067,10,1
+TUN,Tunisia,Tunisia,Herbicide Resistance,3.0,2.8103825706244137,0.6374534561707964,10,1
+TTO,Trinidad and Tobago,Trinidad and Tobago,Herbicide Resistance,1.0,1.0412844036697249,0.6081572420362666,10,1
+TON,Tonga,Tonga,Herbicide Resistance,10.0,10.0,0.0,10,10
+TGO,Togo,Togo,Herbicide Resistance,1.0,1.0,0.0,1,1
+TLS,East Timor,East Timor,Herbicide Resistance,1.0,1.141065830721003,0.5120860209427704,3,1
+THA,Thailand,Thailand,Herbicide Resistance,3.0,2.936946617381587,0.38129234380474436,10,1
+TZA,United Republic of Tanzania,United Republic of Tanzania,Herbicide Resistance,1.0,1.0064732976472053,0.1322338635233469,10,1
+TJK,Tajikistan,Tajikistan,Herbicide Resistance,1.0,1.0481618402135962,0.5487538953302786,8,1
+TWN,Taiwan,Taiwan,Herbicide Resistance,8.0,7.985531441291041,0.17907170739793082,10,5
+SYR,Syria,Syria,Herbicide Resistance,3.0,2.9067366428632884,0.4287787331497818,8,1
+CHE,Switzerland,Switzerland,Herbicide Resistance,6.0,6.314223904813413,1.1137169995374185,10,3
+SWE,Sweden,Sweden,Herbicide Resistance,3.0,2.998693432839126,0.1746836767153683,10,1
+SWZ,eSwatini,eSwatini,Herbicide Resistance,1.0,1.6858757062146892,0.9452070268116429,3,1
+SUR,Suriname,Suriname,Herbicide Resistance,1.0,1.0122349102773247,0.2605310118055637,10,1
+SDS,South Sudan,South Sudan,Herbicide Resistance,1.0,1.0134291303039422,0.16298794198552627,3,1
+SDN,Sudan,Sudan,Herbicide Resistance,1.0,1.0213253353485736,0.20781669045613832,10,1
+LKA,Sri Lanka,Sri Lanka,Herbicide Resistance,3.0,2.987202275151084,0.2649975564184094,10,1
+ESP,Spain,Spain,Herbicide Resistance,8.0,7.822035291538799,1.03213278867102,10,1
+KOR,South Korea,South Korea,Herbicide Resistance,3.0,2.9212874442319947,0.42528361875523685,10,1
+ZAF,South Africa,South Africa,Herbicide Resistance,3.0,2.966070869545773,0.3017709168330708,10,1
+SOM,Somalia,Somalia,Herbicide Resistance,1.0,1.0899655705803104,0.41949832797697206,10,1
+SOL,Somaliland,Somaliland,Herbicide Resistance,1.0,1.065092007690195,0.5299523990214828,10,1
+SLB,Solomon Islands,Solomon Islands,Herbicide Resistance,1.0,1.0326382592928378,0.5409982233481667,10,1
+SVK,Slovakia,Slovakia,Herbicide Resistance,1.0,1.2388637830858618,0.9501068768411536,6,1
+SVN,Slovenia,Slovenia,Herbicide Resistance,3.0,3.003968253968254,0.22204499735774252,10,1
+SGP,Singapore,Singapore,Herbicide Resistance,6.0,5.954545454545454,0.20829889522526546,6,5
+SLE,Sierra Leone,Sierra Leone,Herbicide Resistance,1.0,1.0029182879377432,0.16203726434126547,10,1
+SYC,Seychelles,Seychelles,Herbicide Resistance,10.0,10.0,0.0,10,10
+SRB,Republic of Serbia,Republic of Serbia,Herbicide Resistance,3.0,2.750158127767236,0.6581424324541164,3,1
+SEN,Senegal,Senegal,Herbicide Resistance,1.0,1.0010223787345223,0.09591852455299806,10,1
+SAU,Saudi Arabia,Saudi Arabia,Herbicide Resistance,3.0,2.9654747098909455,0.27405270823532696,10,1
+STP,São Tomé and Principe,São Tomé and Principe,Herbicide Resistance,1.0,1.0,0.0,1,1
+SMR,San Marino,San Marino,Herbicide Resistance,8.0,8.0,0.0,8,8
+WSM,Samoa,Samoa,Herbicide Resistance,10.0,10.0,0.0,10,10
+VCT,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,Herbicide Resistance,1.0,1.0,0.0,1,1
+LCA,Saint Lucia,Saint Lucia,Herbicide Resistance,1.0,1.0,0.0,1,1
+KNA,Saint Kitts and Nevis,Saint Kitts and Nevis,Herbicide Resistance,1.0,1.0,0.0,1,1
+RWA,Rwanda,Rwanda,Herbicide Resistance,1.0,1.0,0.0,1,1
+RUS,Russia,Russia,Herbicide Resistance,3.0,3.029772789567074,0.5134582011265344,10,1
+ROU,Romania,Romania,Herbicide Resistance,1.0,1.0475909827611611,0.30312650882893316,3,1
+QAT,Qatar,Qatar,Herbicide Resistance,1.0,1.0987654320987654,0.5450905395442587,10,1
+PRT,Portugal,Portugal,Herbicide Resistance,3.0,3.2678013741411616,1.3123709087551314,10,1
+POL,Poland,Poland,Herbicide Resistance,6.0,5.960902687940204,0.4222103025952982,10,1
+PHL,Philippines,Philippines,Herbicide Resistance,3.0,2.973411764705882,0.4311395377810556,10,1
+PER,Peru,Peru,Herbicide Resistance,1.0,1.2199368499919725,1.1302542580515258,10,1
+PRY,Paraguay,Paraguay,Herbicide Resistance,3.0,3.2131592164741334,1.067941882150249,10,3
+PNG,Papua New Guinea,Papua New Guinea,Herbicide Resistance,1.0,1.0558769792935445,0.46874931023350563,10,1
+PAN,Panama,Panama,Herbicide Resistance,3.0,2.9949590422180212,0.29908458565221985,10,1
+PLW,Palau,Palau,Herbicide Resistance,1.0,1.5625,2.178553132241672,10,1
+PAK,Pakistan,Pakistan,Herbicide Resistance,3.0,3.00535065147245,0.45233080356001265,10,1
+OMN,Oman,Oman,Herbicide Resistance,1.0,1.0561730048205678,0.37673637004111116,10,1
+NOR,Norway,Norway,Herbicide Resistance,3.0,3.149189803584547,1.1834565002558055,10,1
+PRK,North Korea,North Korea,Herbicide Resistance,1.0,1.3729102695325828,1.3620344572150294,10,1
+NGA,Nigeria,Nigeria,Herbicide Resistance,1.0,1.0,0.0,1,1
+NER,Niger,Niger,Herbicide Resistance,1.0,1.0,0.0,1,1
+NIC,Nicaragua,Nicaragua,Herbicide Resistance,3.0,2.9968371112282552,0.16868904848958427,10,1
+NZ1,New Zealand,New Zealand,Herbicide Resistance,6.0,6.012255386440008,0.37257224041927456,10,5
+NL1,Netherlands,Netherlands,Herbicide Resistance,3.0,3.64318566932946,1.8092299248535622,10,1
+NL1,Netherlands,Aruba,Herbicide Resistance,1.0,1.0,0.0,1,1
+NL1,Netherlands,Curaçao,Herbicide Resistance,1.0,1.0,0.0,1,1
+NPL,Nepal,Nepal,Herbicide Resistance,1.0,1.3827967806841046,1.2318484192945205,8,1
+NRU,Nauru,Nauru,Herbicide Resistance,1.0,1.0,0.0,1,1
+NAM,Namibia,Namibia,Herbicide Resistance,1.0,1.023974466821713,0.2372884799017659,10,1
+MOZ,Mozambique,Mozambique,Herbicide Resistance,1.0,1.0130616939127577,0.16554177509403678,10,1
+MAR,Morocco,Morocco,Herbicide Resistance,1.0,1.0022104875353064,0.1410301441629194,10,1
+SAH,Western Sahara,Western Sahara,Herbicide Resistance,1.0,1.0,0.0,1,1
+MNE,Montenegro,Montenegro,Herbicide Resistance,1.0,1.085606773283161,0.40366358909619876,3,1
+MNG,Mongolia,Mongolia,Herbicide Resistance,1.0,1.185501264050962,1.0575494786901039,8,1
+MDA,Moldova,Moldova,Herbicide Resistance,1.0,1.5147889664340313,0.8715418567346267,3,1
+MCO,Monaco,Monaco,Herbicide Resistance,10.0,10.0,0.0,10,10
+MEX,Mexico,Mexico,Herbicide Resistance,3.0,3.057172557172557,0.6577579760131811,10,1
+MUS,Mauritius,Mauritius,Herbicide Resistance,10.0,10.0,0.0,10,10
+MRT,Mauritania,Mauritania,Herbicide Resistance,1.0,1.0,0.0,1,1
+MLT,Malta,Malta,Herbicide Resistance,1.0,1.0,0.0,1,1
+MLI,Mali,Mali,Herbicide Resistance,1.0,1.0,0.0,1,1
+MDV,Maldives,Maldives,Herbicide Resistance,10.0,10.0,0.0,10,10
+MYS,Malaysia,Malaysia,Herbicide Resistance,6.0,5.937214529108968,0.4203918882187836,10,1
+MWI,Malawi,Malawi,Herbicide Resistance,1.0,1.0,0.0,1,1
+MDG,Madagascar,Madagascar,Herbicide Resistance,1.0,1.0105803142032703,0.3084005265572557,10,1
+MKD,North Macedonia,North Macedonia,Herbicide Resistance,1.0,1.0163243812532912,0.1842879700746722,4,1
+LUX,Luxembourg,Luxembourg,Herbicide Resistance,1.0,2.7279693486590038,3.3250966187412825,10,1
+LTU,Lithuania,Lithuania,Herbicide Resistance,3.0,3.0151968409716408,0.5867458320573841,10,1
+LIE,Liechtenstein,Liechtenstein,Herbicide Resistance,6.0,5.545454545454546,0.8907235428302466,6,3
+LBY,Libya,Libya,Herbicide Resistance,1.0,1.0218818635027251,0.2157014116992135,10,1
+LBR,Liberia,Liberia,Herbicide Resistance,1.0,1.0,0.0,1,1
+LSO,Lesotho,Lesotho,Herbicide Resistance,1.0,1.2818509615384615,0.6911232752799538,3,1
+LBN,Lebanon,Lebanon,Herbicide Resistance,1.0,2.200328407224959,2.09916706224228,8,1
+LVA,Latvia,Latvia,Herbicide Resistance,3.0,2.9601244029767857,0.3350535410021396,10,1
+LAO,Laos,Laos,Herbicide Resistance,1.0,1.104967197750703,0.5636968565333061,8,1
+KGZ,Kyrgyzstan,Kyrgyzstan,Herbicide Resistance,1.0,1.1172585753756992,0.7594218080236699,8,1
+KWT,Kuwait,Kuwait,Herbicide Resistance,1.0,1.4361370716510904,0.8182893979783444,3,1
+KIR,Kiribati,Kiribati,Herbicide Resistance,10.0,7.365853658536586,4.094946901356065,10,1
+KEN,Kenya,Kenya,Herbicide Resistance,3.0,2.906149646756583,0.421150149451456,3,1
+JOR,Jordan,Jordan,Herbicide Resistance,3.0,3.08012568735271,0.5937797364381633,8,1
+JPN,Japan,Japan,Herbicide Resistance,8.0,7.98797941625794,0.1996424645994648,10,5
+JAM,Jamaica,Jamaica,Herbicide Resistance,1.0,1.0,0.0,1,1
+ITA,Italy,Italy,Herbicide Resistance,8.0,7.957324351978172,0.4401550055403281,10,3
+IS1,Israel,Palestine,Herbicide Resistance,3.0,4.3297297297297295,2.841665372473709,8,1
+IRL,Ireland,Ireland,Herbicide Resistance,3.0,3.0741895261845387,0.5318833558492418,10,1
+IRQ,Iraq,Iraq,Herbicide Resistance,1.0,1.158674837227116,0.689129084450193,6,1
+IRN,Iran,Iran,Herbicide Resistance,6.0,5.909796949564892,0.6501285949610401,10,1
+IDN,Indonesia,Indonesia,Herbicide Resistance,3.0,2.9998984397811377,0.3728071206381937,10,1
+IND,India,India,Herbicide Resistance,3.0,2.9888340542291494,0.34474876810657046,10,1
+ISL,Iceland,Iceland,Herbicide Resistance,1.0,1.0606801230458052,0.7365046028908384,10,1
+HUN,Hungary,Hungary,Herbicide Resistance,3.0,2.713489144619765,0.6973566928989388,3,1
+HND,Honduras,Honduras,Herbicide Resistance,3.0,3.0162745098039214,0.47602298834056456,10,1
+HTI,Haiti,Haiti,Herbicide Resistance,1.0,1.0,0.0,1,1
+GUY,Guyana,Guyana,Herbicide Resistance,1.0,1.2881715626047134,1.515640096493097,10,1
+GNB,Guinea-Bissau,Guinea-Bissau,Herbicide Resistance,1.0,1.0,0.0,1,1
+GIN,Guinea,Guinea,Herbicide Resistance,1.0,1.000849296970841,0.08742397515683298,10,1
+GTM,Guatemala,Guatemala,Herbicide Resistance,3.0,2.953417412530513,0.30064095736614266,3,1
+GRD,Grenada,Grenada,Herbicide Resistance,1.0,1.0,0.0,1,1
+GRC,Greece,Greece,Herbicide Resistance,6.0,5.653081510934394,1.1457381110307712,10,1
+GHA,Ghana,Ghana,Herbicide Resistance,1.0,1.0008782201405153,0.0888999999663768,10,1
+DEU,Germany,Germany,Herbicide Resistance,8.0,7.887725498470303,0.7990896987412311,10,1
+GEO,Georgia,Georgia,Herbicide Resistance,3.0,2.9677969312369767,0.2927828857808356,10,1
+GMB,Gambia,Gambia,Herbicide Resistance,1.0,1.0,0.0,1,1
+GAB,Gabon,Gabon,Herbicide Resistance,1.0,1.0032967032967033,0.1722192248783602,10,1
+FR1,France,France,Herbicide Resistance,10.0,9.358311800172265,2.248723984366971,10,1
+FI1,Finland,Aland,Herbicide Resistance,3.0,2.953125,0.30257682392245444,3,1
+FI1,Finland,Finland,Herbicide Resistance,3.0,2.999960306434327,0.18508253726438822,10,1
+FJI,Fiji,Fiji,Herbicide Resistance,3.0,3.2158018867924527,1.404804867399077,10,1
+ETH,Ethiopia,Ethiopia,Herbicide Resistance,3.0,2.9508176488738043,0.3076522424130809,3,1
+EST,Estonia,Estonia,Herbicide Resistance,1.0,1.1901578722799033,0.7815573406059635,10,1
+ERI,Eritrea,Eritrea,Herbicide Resistance,1.0,1.1581495427649273,0.607246908753781,10,1
+GNQ,Equatorial Guinea,Equatorial Guinea,Herbicide Resistance,1.0,1.0,0.0,1,1
+SLV,El Salvador,El Salvador,Herbicide Resistance,3.0,3.0,0.0,3,3
+EGY,Egypt,Egypt,Herbicide Resistance,3.0,2.9307986663635677,0.38068783956568664,10,1
+ECU,Ecuador,Ecuador,Herbicide Resistance,3.0,2.8920104536120963,0.5453193243123434,10,1
+DOM,Dominican Republic,Dominican Republic,Herbicide Resistance,1.0,1.0277777777777777,0.49922779876698403,10,1
+DMA,Dominica,Dominica,Herbicide Resistance,1.0,1.0,0.0,1,1
+DJI,Djibouti,Djibouti,Herbicide Resistance,1.0,1.1856540084388185,0.5767332110651647,3,1
+DN1,Denmark,Greenland,Herbicide Resistance,1.0,1.1172293350209328,1.0204515168291648,10,1
+DN1,Denmark,Denmark,Herbicide Resistance,3.0,3.0234278668310726,0.7647192341527869,10,1
+CZE,Czechia,Czechia,Herbicide Resistance,6.0,5.9678362573099415,0.6254276516164643,8,1
+CYN,Northern Cyprus,Northern Cyprus,Herbicide Resistance,3.0,2.9461883408071747,0.32361647628105317,3,1
+CYP,Cyprus,Cyprus,Herbicide Resistance,3.0,2.99438202247191,0.10585080719897062,3,1
+HRV,Croatia,Croatia,Herbicide Resistance,1.0,1.2418930762489044,0.6810554724030827,10,1
+CIV,Ivory Coast,Ivory Coast,Herbicide Resistance,1.0,1.0,0.0,1,1
+CRI,Costa Rica,Costa Rica,Herbicide Resistance,3.0,2.983834755276156,0.1790786818990628,3,1
+COD,Democratic Republic of the Congo,Democratic Republic of the Congo,Herbicide Resistance,1.0,1.0,0.0,1,1
+COG,Republic of the Congo,Republic of the Congo,Herbicide Resistance,1.0,1.0,0.0,1,1
+COM,Comoros,Comoros,Herbicide Resistance,1.0,1.0,0.0,1,1
+COL,Colombia,Colombia,Herbicide Resistance,3.0,3.0840744742747903,0.7900742545331362,10,1
+CH1,China,China,Herbicide Resistance,8.0,7.905888655600342,0.7501687170557391,10,1
+CH1,China,Macao S.A.R,Herbicide Resistance,8.0,8.0,0.0,8,8
+CH1,China,Hong Kong S.A.R.,Herbicide Resistance,8.0,7.979591836734694,0.14139190265868387,8,7
+CHL,Chile,Chile,Herbicide Resistance,6.0,5.961906938651125,0.4175048547511533,10,1
+TCD,Chad,Chad,Herbicide Resistance,1.0,1.0,0.0,1,1
+CAF,Central African Republic,Central African Republic,Herbicide Resistance,1.0,1.0,0.0,1,1
+CPV,Cabo Verde,Cabo Verde,Herbicide Resistance,10.0,10.0,0.0,10,10
+CAN,Canada,Canada,Herbicide Resistance,10.0,9.984851105673279,0.12215271378203701,10,8
+CMR,Cameroon,Cameroon,Herbicide Resistance,1.0,1.0,0.0,1,1
+KHM,Cambodia,Cambodia,Herbicide Resistance,1.0,1.0177944862155388,0.18579679489203946,3,1
+MMR,Myanmar,Myanmar,Herbicide Resistance,1.0,1.1302693938638064,0.8056248392737981,10,1
+BDI,Burundi,Burundi,Herbicide Resistance,1.0,1.0,0.0,1,1
+BFA,Burkina Faso,Burkina Faso,Herbicide Resistance,1.0,1.0,0.0,1,1
+BGR,Bulgaria,Bulgaria,Herbicide Resistance,3.0,2.8523182598740697,0.6766605900449099,10,1
+BRN,Brunei,Brunei,Herbicide Resistance,1.0,2.364406779661017,2.1595874301422975,6,1
+BRA,Brazil,Brazil,Herbicide Resistance,10.0,9.943547487665368,0.5932466702487743,10,1
+BWA,Botswana,Botswana,Herbicide Resistance,1.0,1.0439831104855735,0.2922299611131081,3,1
+BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,Herbicide Resistance,1.0,1.0681872178664766,0.3626118488516509,3,1
+BOL,Bolivia,Bolivia,Herbicide Resistance,3.0,3.234889917262656,1.1944985755403283,10,1
+BTN,Bhutan,Bhutan,Herbicide Resistance,1.0,1.5143935818782444,1.2113415189305614,8,1
+BEN,Benin,Benin,Herbicide Resistance,1.0,1.0,0.0,1,1
+BLZ,Belize,Belize,Herbicide Resistance,1.0,1.1768642447418738,0.5653135940183839,3,1
+BEL,Belgium,Belgium,Herbicide Resistance,6.0,6.6043233082706765,1.9082380057134396,10,1
+BLR,Belarus,Belarus,Herbicide Resistance,1.0,1.2240521810028537,0.8258612772706322,6,1
+BRB,Barbados,Barbados,Herbicide Resistance,1.0,1.0,0.0,1,1
+BGD,Bangladesh,Bangladesh,Herbicide Resistance,1.0,1.1945914168136391,0.6262390380404556,10,1
+BHR,Bahrain,Bahrain,Herbicide Resistance,1.0,1.0,0.0,1,1
+BHS,The Bahamas,The Bahamas,Herbicide Resistance,1.0,1.0,0.0,1,1
+AZE,Azerbaijan,Azerbaijan,Herbicide Resistance,1.0,1.2001931123270035,0.9626898609146596,10,1
+AUT,Austria,Austria,Herbicide Resistance,3.0,3.3815500064691424,1.2934046012996172,8,1
+AU1,Australia,Australia,Herbicide Resistance,10.0,9.992181188261126,0.09046509420016426,10,5
+ARM,Armenia,Armenia,Herbicide Resistance,1.0,1.5018796992481203,1.132647872718102,6,1
+ARG,Argentina,Argentina,Herbicide Resistance,6.0,5.99120730470071,0.28919931536403404,10,3
+ATG,Antigua and Barbuda,Antigua and Barbuda,Herbicide Resistance,1.0,1.0,0.0,1,1
+AGO,Angola,Angola,Herbicide Resistance,1.0,1.001801670640048,0.12732552667606445,10,1
+AND,Andorra,Andorra,Herbicide Resistance,8.0,8.142857142857142,0.4237827706911807,10,8
+DZA,Algeria,Algeria,Herbicide Resistance,1.0,1.010098445965778,0.15962856894033303,10,1
+ALB,Albania,Albania,Herbicide Resistance,1.0,1.3420926899187768,1.2447811041070538,10,1
+AFG,Afghanistan,Afghanistan,Herbicide Resistance,1.0,1.1036266775945087,0.6472089142715397,7,1
+KAS,Kashmir,Siachen Glacier,Herbicide Resistance,3.0,3.121212121212121,0.6632142008557361,8,3
+NL1,Netherlands,Sint Maarten,Herbicide Resistance,1.0,1.0,0.0,1,1
+TUV,Tuvalu,Tuvalu,Herbicide Resistance,--,--,--,--,--

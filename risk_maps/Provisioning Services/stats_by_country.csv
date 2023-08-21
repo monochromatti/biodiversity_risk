@@ -1,0 +1,208 @@
+SOV_A3,SOVEREIGNTY,ADMIN,RISK_TYPE,RISK_MEDIAN,RISK_MEAN,RISK_STD,RISK_MAX,RISK_MIN
+ZWE,Zimbabwe,Zimbabwe,Provisioning Services,6.0,6.163515138266477,1.5660270916570511,9,4
+ZMB,Zambia,Zambia,Provisioning Services,6.0,6.020125823667969,1.5874050985956423,8,1
+YEM,Yemen,Yemen,Provisioning Services,9.0,8.570296933469407,0.764122531230398,10,6
+VNM,Vietnam,Vietnam,Provisioning Services,7.0,7.02243398848521,0.9196922428620014,10,4
+VEN,Venezuela,Venezuela,Provisioning Services,7.0,6.637376174100498,1.5500522393691747,10,3
+VAT,Vatican,Vatican,Provisioning Services,--,--,--,--,--
+VUT,Vanuatu,Vanuatu,Provisioning Services,8.0,7.858527131782946,0.6627878643576958,10,7
+UZB,Uzbekistan,Uzbekistan,Provisioning Services,8.0,8.532791263576474,0.7343893547080491,10,6
+URY,Uruguay,Uruguay,Provisioning Services,7.0,6.6305998481397115,1.3130201398739012,10,4
+FSM,Federated States of Micronesia,Federated States of Micronesia,Provisioning Services,8.0,8.423076923076923,0.49404740687173576,9,8
+MHL,Marshall Islands,Marshall Islands,Provisioning Services,9.0,9.25,0.4330127018922193,10,9
+US1,United States of America,United States of America,Provisioning Services,7.0,6.799896478389036,1.492653858670871,10,3
+GB1,United Kingdom,Jersey,Provisioning Services,8.5,8.5,0.5,9,8
+GB1,United Kingdom,Guernsey,Provisioning Services,8.0,8.0,0.0,8,8
+GB1,United Kingdom,Isle of Man,Provisioning Services,8.0,8.151515151515152,0.3585502898848252,9,8
+GB1,United Kingdom,United Kingdom,Provisioning Services,8.0,7.161265064342616,1.4722309584561566,10,4
+ARE,United Arab Emirates,United Arab Emirates,Provisioning Services,9.0,9.375383756628523,0.5056501432368692,10,7
+UKR,Ukraine,Ukraine,Provisioning Services,5.0,5.2826016958248365,1.1071002516560557,10,4
+UGA,Uganda,Uganda,Provisioning Services,7.0,6.775036855036855,1.2215131133602266,8,5
+TKM,Turkmenistan,Turkmenistan,Provisioning Services,8.0,8.504009268575262,0.815547995845691,10,5
+TUR,Turkey,Turkey,Provisioning Services,7.0,7.339613945170627,1.4972487660025557,10,4
+TUN,Tunisia,Tunisia,Provisioning Services,9.0,8.55290315855311,1.0156392849833704,10,6
+TTO,Trinidad and Tobago,Trinidad and Tobago,Provisioning Services,8.0,8.123853211009175,0.3430567082254722,10,8
+TON,Tonga,Tonga,Provisioning Services,5.0,5.0,0.0,5,5
+TGO,Togo,Togo,Provisioning Services,5.0,6.010191602119853,1.3185535457057453,9,5
+TLS,East Timor,East Timor,Provisioning Services,8.0,7.9498432601880875,0.21826827818845407,8,7
+THA,Thailand,Thailand,Provisioning Services,8.0,7.935184389237514,0.9834497824260591,10,4
+TZA,United Republic of Tanzania,United Republic of Tanzania,Provisioning Services,5.0,5.712411303373584,1.4853369625528958,8,4
+TJK,Tajikistan,Tajikistan,Provisioning Services,8.0,7.999383857054837,0.6017360643522685,10,7
+TWN,Taiwan,Taiwan,Provisioning Services,7.0,6.675570395102949,0.6949445958407541,10,6
+SYR,Syria,Syria,Provisioning Services,9.0,8.60234018755915,0.9542587086946276,10,7
+CHE,Switzerland,Switzerland,Provisioning Services,5.0,5.271498107084911,0.9522703366556667,8,4
+SWE,Sweden,Sweden,Provisioning Services,7.0,6.473265199915848,1.690539587046251,10,4
+SWZ,eSwatini,eSwatini,Provisioning Services,7.0,6.68135593220339,0.7003972826462531,7,5
+SUR,Suriname,Suriname,Provisioning Services,8.0,7.3707993474714515,1.27302116427724,10,4
+SDS,South Sudan,South Sudan,Provisioning Services,6.0,6.272381883839904,1.1113976511165728,9,4
+SDN,Sudan,Sudan,Provisioning Services,8.0,8.219121953523521,1.3456584764250437,10,5
+LKA,Sri Lanka,Sri Lanka,Provisioning Services,7.0,7.450764308567366,0.560721329885928,10,7
+ESP,Spain,Spain,Provisioning Services,8.0,7.833324199912319,1.4335255045922972,10,4
+KOR,South Korea,South Korea,Provisioning Services,7.0,6.328393881453155,1.6293877473511762,10,4
+ZAF,South Africa,South Africa,Provisioning Services,7.0,7.272476558190844,1.0715915105808416,10,4
+SOM,Somalia,Somalia,Provisioning Services,8.0,7.752058280524924,1.150016381430032,10,4
+SOL,Somaliland,Somaliland,Provisioning Services,9.0,8.485992859104641,0.651522130448154,10,5
+SLB,Solomon Islands,Solomon Islands,Provisioning Services,8.0,7.475067996373527,0.6163857820930982,10,5
+SVK,Slovakia,Slovakia,Provisioning Services,5.0,5.417258446309447,1.5053120110510598,8,4
+SVN,Slovenia,Slovenia,Provisioning Services,4.0,5.150226757369614,1.3479618252635879,10,3
+SGP,Singapore,Singapore,Provisioning Services,7.0,7.136363636363637,0.3431742925123068,8,7
+SLE,Sierra Leone,Sierra Leone,Provisioning Services,7.0,6.996757457846952,0.06729817928185645,8,5
+SYC,Seychelles,Seychelles,Provisioning Services,8.0,8.0,0.0,8,8
+SRB,Republic of Serbia,Republic of Serbia,Provisioning Services,5.0,5.444813409234661,1.4646228723121058,10,4
+SEN,Senegal,Senegal,Provisioning Services,7.0,7.191639213904351,1.1764523193774759,10,5
+SAU,Saudi Arabia,Saudi Arabia,Provisioning Services,9.0,8.60525639576117,0.6569007204192419,10,7
+STP,São Tomé and Principe,São Tomé and Principe,Provisioning Services,7.0,7.4,0.5333333333333333,9,7
+SMR,San Marino,San Marino,Provisioning Services,8.0,8.0,0.0,8,8
+WSM,Samoa,Samoa,Provisioning Services,10.0,10.0,0.0,10,10
+VCT,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,Provisioning Services,8.0,8.142857142857142,0.34992710611188255,9,8
+LCA,Saint Lucia,Saint Lucia,Provisioning Services,8.0,8.208333333333334,0.4061164310337068,9,8
+KNA,Saint Kitts and Nevis,Saint Kitts and Nevis,Provisioning Services,5.0,5.454545454545454,0.4979295977319692,6,5
+RWA,Rwanda,Rwanda,Provisioning Services,7.0,6.539906103286385,1.6406096400982797,8,4
+RUS,Russia,Russia,Provisioning Services,8.0,7.524312814668417,1.0962487603286442,10,3
+ROU,Romania,Romania,Provisioning Services,5.0,5.143951672314719,1.2575410299446619,9,4
+QAT,Qatar,Qatar,Provisioning Services,10.0,9.343915343915343,0.8482126741736189,10,8
+PRT,Portugal,Portugal,Provisioning Services,8.0,7.6152404747033104,1.2164262307170703,10,5
+POL,Poland,Poland,Provisioning Services,5.0,4.7949690958746585,0.8816028040720545,10,4
+PHL,Philippines,Philippines,Provisioning Services,7.0,6.9829019607843135,0.7229716793981916,10,4
+PER,Peru,Peru,Provisioning Services,8.0,8.009347628306902,0.9353879033261217,10,4
+PRY,Paraguay,Paraguay,Provisioning Services,7.0,6.368558513309894,1.625226756644719,10,4
+PNG,Papua New Guinea,Papua New Guinea,Provisioning Services,8.0,7.727618757612667,0.8637700823610723,10,3
+PAN,Panama,Panama,Provisioning Services,7.0,6.863579080025205,0.7902066246602041,10,4
+PLW,Palau,Palau,Provisioning Services,8.0,8.5,0.6123724356957945,10,8
+PAK,Pakistan,Pakistan,Provisioning Services,8.0,8.132867704121226,0.8436045045896424,10,5
+OMN,Oman,Oman,Provisioning Services,9.0,8.604914301017676,0.6975548047028948,10,5
+NOR,Norway,Norway,Provisioning Services,8.0,7.893198231290631,0.9199868705787403,10,4
+PRK,North Korea,North Korea,Provisioning Services,7.0,6.897873308313431,1.0471805403761818,10,4
+NGA,Nigeria,Nigeria,Provisioning Services,6.0,5.993287396069058,1.040610808810681,10,4
+NER,Niger,Niger,Provisioning Services,9.0,8.501939118981413,0.7592518584477379,10,5
+NIC,Nicaragua,Nicaragua,Provisioning Services,7.0,6.994552802670884,1.022401617322143,10,4
+NZ1,New Zealand,New Zealand,Provisioning Services,7.0,6.4050701719707455,1.2003046946380498,10,4
+NL1,Netherlands,Netherlands,Provisioning Services,8.0,7.550714112805616,1.5051051182349742,10,5
+NL1,Netherlands,Aruba,Provisioning Services,9.0,9.0,0.0,9,9
+NL1,Netherlands,Curaçao,Provisioning Services,9.0,9.0,0.0,9,9
+NPL,Nepal,Nepal,Provisioning Services,8.0,7.992077464788732,1.0323307857184458,10,5
+NRU,Nauru,Nauru,Provisioning Services,9.0,9.0,0.0,9,9
+NAM,Namibia,Namibia,Provisioning Services,8.0,7.648201296452076,0.9072856540307999,10,5
+MOZ,Mozambique,Mozambique,Provisioning Services,5.0,5.225444289274076,1.3058196295888203,9,4
+MAR,Morocco,Morocco,Provisioning Services,9.0,8.77548200908756,0.7968280312268948,10,6
+SAH,Western Sahara,Western Sahara,Provisioning Services,9.0,9.013498802525582,0.12792459323868416,10,8
+MNE,Montenegro,Montenegro,Provisioning Services,5.0,5.556914393226717,1.5950023899367178,9,4
+MNG,Mongolia,Mongolia,Provisioning Services,8.0,7.939339836887435,0.6904985573576599,9,5
+MDA,Moldova,Moldova,Provisioning Services,5.0,5.975407111997341,1.4421583062739227,9,5
+MCO,Monaco,Monaco,Provisioning Services,8.0,8.0,0.0,8,8
+MEX,Mexico,Mexico,Provisioning Services,8.0,7.827452919685929,1.0782279751310435,10,4
+MUS,Mauritius,Mauritius,Provisioning Services,10.0,10.0,0.0,10,10
+MRT,Mauritania,Mauritania,Provisioning Services,9.0,8.922458867467448,0.42556737515136933,10,6
+MLT,Malta,Malta,Provisioning Services,9.0,9.0,0.0,9,9
+MLI,Mali,Mali,Provisioning Services,8.0,7.7870673325297055,1.4383016670098798,9,4
+MDV,Maldives,Maldives,Provisioning Services,10.0,10.0,0.0,10,10
+MYS,Malaysia,Malaysia,Provisioning Services,7.0,6.901544261581962,0.955786791987099,10,3
+MWI,Malawi,Malawi,Provisioning Services,5.0,5.381842204605512,1.3578715899630613,8,4
+MDG,Madagascar,Madagascar,Provisioning Services,7.0,7.048519824730149,1.1506815862581161,10,4
+MKD,North Macedonia,North Macedonia,Provisioning Services,5.0,5.487098472880463,0.9617305778455437,8,4
+LUX,Luxembourg,Luxembourg,Provisioning Services,4.0,4.233716475095785,0.4231939087044928,5,4
+LTU,Lithuania,Lithuania,Provisioning Services,4.0,4.212157472777313,0.5776795213476476,10,4
+LIE,Liechtenstein,Liechtenstein,Provisioning Services,5.0,5.0,0.0,5,5
+LBY,Libya,Libya,Provisioning Services,9.0,9.135160889219435,0.7347545934948849,10,7
+LBR,Liberia,Liberia,Provisioning Services,6.0,6.484848484848484,1.0176828045453081,8,4
+LSO,Lesotho,Lesotho,Provisioning Services,7.0,6.967548076923077,1.034921377353852,9,5
+LBN,Lebanon,Lebanon,Provisioning Services,10.0,9.995073891625616,0.07001315469729998,10,9
+LVA,Latvia,Latvia,Provisioning Services,4.0,4.474952793513274,0.9866993872893501,10,4
+LAO,Laos,Laos,Provisioning Services,7.0,6.641330834114339,1.1180705826359585,9,4
+KGZ,Kyrgyzstan,Kyrgyzstan,Provisioning Services,7.0,7.380753420041782,0.785110752211657,10,5
+KWT,Kuwait,Kuwait,Provisioning Services,9.0,8.992731048805815,0.7672888693820004,10,8
+KIR,Kiribati,Kiribati,Provisioning Services,8.0,8.585365853658537,0.7317073170731707,10,8
+KEN,Kenya,Kenya,Provisioning Services,8.0,7.398522800256904,0.9329105849778114,9,5
+JOR,Jordan,Jordan,Provisioning Services,10.0,9.536920659858602,0.5640546798346754,10,8
+JPN,Japan,Japan,Provisioning Services,7.0,6.619361582375171,0.8002199650842402,10,4
+JAM,Jamaica,Jamaica,Provisioning Services,7.0,7.092702169625246,0.30331175994857723,9,7
+ITA,Italy,Italy,Provisioning Services,8.0,7.976210777626194,1.0836186757466009,10,4
+IS1,Israel,Palestine,Provisioning Services,10.0,9.91081081081081,0.28501662709562087,10,9
+IRL,Ireland,Ireland,Provisioning Services,7.0,6.389900249376558,1.6837118299190672,10,4
+IRQ,Iraq,Iraq,Provisioning Services,8.0,8.196284948295672,0.9974505924663717,10,5
+IRN,Iran,Iran,Provisioning Services,9.0,8.741024921243879,0.8238248573086525,10,5
+IDN,Indonesia,Indonesia,Provisioning Services,8.0,7.225628721229894,1.0328232199429814,10,3
+IND,India,India,Provisioning Services,8.0,7.666520582051917,1.4533713342988812,10,4
+ISL,Iceland,Iceland,Provisioning Services,8.0,8.274956807551304,0.6305373080282105,10,7
+HUN,Hungary,Hungary,Provisioning Services,5.0,5.321271799738996,1.2452303576162531,8,4
+HND,Honduras,Honduras,Provisioning Services,7.0,6.775294117647059,0.864380891308638,10,4
+HTI,Haiti,Haiti,Provisioning Services,7.0,7.100318471337579,0.3307007044154093,9,7
+GUY,Guyana,Guyana,Provisioning Services,8.0,7.167876689377862,1.3786471926295114,10,4
+GNB,Guinea-Bissau,Guinea-Bissau,Provisioning Services,7.0,6.960854092526691,0.6858233875601883,8,5
+GIN,Guinea,Guinea,Provisioning Services,6.0,5.7904123808625085,1.3007465825335802,8,4
+GTM,Guatemala,Guatemala,Provisioning Services,7.0,6.71013018714402,0.7557664833502608,8,4
+GRD,Grenada,Grenada,Provisioning Services,8.0,8.307692307692308,0.46153846153846156,9,8
+GRC,Greece,Greece,Provisioning Services,9.0,8.260547824166114,1.0694033648476753,10,5
+GHA,Ghana,Ghana,Provisioning Services,6.0,6.458040593286495,1.332062630799499,10,5
+DEU,Germany,Germany,Provisioning Services,5.0,5.110692056124064,0.7929166288222733,10,4
+GEO,Georgia,Georgia,Provisioning Services,8.0,7.44061375260466,0.9558478364591515,10,4
+GMB,Gambia,Gambia,Provisioning Services,7.0,6.657836644591612,1.2780751599946554,9,5
+GAB,Gabon,Gabon,Provisioning Services,8.0,7.418223443223443,1.1143820679177179,10,4
+FR1,France,France,Provisioning Services,5.0,5.810737869652598,1.4824883059513534,10,4
+FI1,Finland,Aland,Provisioning Services,5.0,5.4375,0.6702378309227255,8,5
+FI1,Finland,Finland,Provisioning Services,8.0,7.29408962807129,1.29406171370421,10,4
+FJI,Fiji,Fiji,Provisioning Services,7.0,7.352594339622642,0.8152253222304223,10,7
+ETH,Ethiopia,Ethiopia,Provisioning Services,8.0,7.284274400905071,1.367428873975881,10,4
+EST,Estonia,Estonia,Provisioning Services,4.0,4.541317024605319,0.755743889981217,10,4
+ERI,Eritrea,Eritrea,Provisioning Services,8.0,8.400035861574324,0.8405749538098963,10,6
+GNQ,Equatorial Guinea,Equatorial Guinea,Provisioning Services,6.0,6.4704813805631245,0.5477148008401007,9,6
+SLV,El Salvador,El Salvador,Provisioning Services,7.0,7.1827242524916945,0.5596733131296644,9,4
+EGY,Egypt,Egypt,Provisioning Services,10.0,9.38665984693491,0.9550486985879114,10,7
+ECU,Ecuador,Ecuador,Provisioning Services,8.0,7.497853276087362,0.7840610850439331,10,4
+DOM,Dominican Republic,Dominican Republic,Provisioning Services,8.0,7.545414462081129,0.5468856472002164,10,7
+DMA,Dominica,Dominica,Provisioning Services,8.0,8.125,0.33071891388307384,9,8
+DJI,Djibouti,Djibouti,Provisioning Services,9.0,8.513713080168776,0.8524114032422561,9,6
+DN1,Denmark,Greenland,Provisioning Services,8.0,8.0,0.0,8,8
+DN1,Denmark,Denmark,Provisioning Services,6.0,6.520345252774352,1.5806039945929504,10,4
+CZE,Czechia,Czechia,Provisioning Services,5.0,4.769132977370964,0.5417651423605505,7,4
+CYN,Northern Cyprus,Northern Cyprus,Provisioning Services,9.0,8.887892376681615,0.5365447896375255,10,7
+CYP,Cyprus,Cyprus,Provisioning Services,9.0,8.752808988764045,0.6276565810532275,10,7
+HRV,Croatia,Croatia,Provisioning Services,5.0,5.494084136722173,1.5757835628402481,10,4
+CIV,Ivory Coast,Ivory Coast,Provisioning Services,7.0,6.09395680314159,1.2812200516558867,8,4
+CRI,Costa Rica,Costa Rica,Provisioning Services,7.0,6.809160305343512,0.8782900503591867,9,4
+COD,Democratic Republic of the Congo,Democratic Republic of the Congo,Provisioning Services,5.0,5.292111241835369,1.5441555120269896,8,4
+COG,Republic of the Congo,Republic of the Congo,Provisioning Services,8.0,6.703291417577132,1.6885354048545342,9,4
+COM,Comoros,Comoros,Provisioning Services,8.0,8.246153846153845,0.4307692307692308,9,8
+COL,Colombia,Colombia,Provisioning Services,8.0,7.249272712160253,0.947172104712983,10,3
+CH1,China,China,Provisioning Services,8.0,7.454945280558438,1.22383052549951,10,3
+CH1,China,Macao S.A.R,Provisioning Services,8.0,8.0,0.0,8,8
+CH1,China,Hong Kong S.A.R.,Provisioning Services,8.0,8.224489795918368,0.4172458836787934,9,8
+CHL,Chile,Chile,Provisioning Services,8.0,8.46894463173533,1.0045808097503919,10,4
+TCD,Chad,Chad,Provisioning Services,9.0,7.922723954531234,1.4807159550920967,10,4
+CAF,Central African Republic,Central African Republic,Provisioning Services,7.0,6.171289980294073,1.8563274339279616,9,4
+CPV,Cabo Verde,Cabo Verde,Provisioning Services,8.0,8.0,0.0,8,8
+CAN,Canada,Canada,Provisioning Services,8.0,7.730087493102174,0.8775344487136117,10,3
+CMR,Cameroon,Cameroon,Provisioning Services,6.0,5.995244599585167,1.225055721729294,9,4
+KHM,Cambodia,Cambodia,Provisioning Services,7.0,7.161403508771929,0.8824459258889547,9,5
+MMR,Myanmar,Myanmar,Provisioning Services,7.0,6.913943626839611,0.9707059442729611,10,4
+BDI,Burundi,Burundi,Provisioning Services,7.0,6.610526315789474,1.2728865125646052,8,4
+BFA,Burkina Faso,Burkina Faso,Provisioning Services,6.0,6.37047539616347,0.827203670474929,9,4
+BGR,Bulgaria,Bulgaria,Provisioning Services,6.0,6.1887807670291926,1.4795573416813834,10,4
+BRN,Brunei,Brunei,Provisioning Services,6.0,6.288135593220339,0.6457382441202962,9,3
+BRA,Brazil,Brazil,Provisioning Services,7.0,6.490628867019667,1.4821149802762834,10,3
+BWA,Botswana,Botswana,Provisioning Services,8.0,7.151055594651654,1.0148530698671285,9,5
+BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,Provisioning Services,4.0,5.138987883107626,1.3539355172026117,8,4
+BOL,Bolivia,Bolivia,Provisioning Services,7.0,6.308772562453673,1.7320675119508238,9,4
+BTN,Bhutan,Bhutan,Provisioning Services,7.0,7.18546484190656,1.2918067429854263,9,4
+BEN,Benin,Benin,Provisioning Services,6.0,6.0628730600875445,1.2148874330294213,9,5
+BLZ,Belize,Belize,Provisioning Services,6.0,6.239961759082218,0.49352363845273756,9,6
+BEL,Belgium,Belgium,Provisioning Services,6.0,6.091478696741855,1.3518399487512955,10,4
+BLR,Belarus,Belarus,Provisioning Services,4.0,4.396127191194456,0.913856552607085,8,4
+BRB,Barbados,Barbados,Provisioning Services,8.0,8.1875,0.3903123748998999,9,8
+BGD,Bangladesh,Bangladesh,Provisioning Services,7.0,6.8940329218107,1.1309471285163337,10,4
+BHR,Bahrain,Bahrain,Provisioning Services,9.0,9.0,0.0,9,9
+BHS,The Bahamas,The Bahamas,Provisioning Services,8.0,8.36448598130841,0.743308969999258,10,7
+AZE,Azerbaijan,Azerbaijan,Provisioning Services,9.0,8.031058899259737,1.235733236662463,10,5
+AUT,Austria,Austria,Provisioning Services,4.0,4.340665027817312,0.5261967650497715,8,3
+AU1,Australia,Australia,Provisioning Services,8.0,7.62027091996808,1.005178027254667,10,4
+ARM,Armenia,Armenia,Provisioning Services,9.0,8.381578947368421,1.1096293102533514,9,5
+ARG,Argentina,Argentina,Provisioning Services,7.0,6.750677747162887,1.4575560872581668,10,3
+ATG,Antigua and Barbuda,Antigua and Barbuda,Provisioning Services,8.0,8.3,0.45825756949558405,9,8
+AGO,Angola,Angola,Provisioning Services,8.0,7.09936486560265,1.3920703919806068,10,4
+AND,Andorra,Andorra,Provisioning Services,7.0,6.9714285714285715,0.16659862556700858,7,6
+DZA,Algeria,Algeria,Provisioning Services,9.0,8.646038759628428,0.6635538729688251,10,6
+ALB,Albania,Albania,Provisioning Services,8.0,7.3989488772097465,1.411825980055545,10,4
+AFG,Afghanistan,Afghanistan,Provisioning Services,8.0,7.9762575555783215,0.9693990001671007,10,5
+KAS,Kashmir,Siachen Glacier,Provisioning Services,8.0,8.0,0.0,8,8
+NL1,Netherlands,Sint Maarten,Provisioning Services,5.0,5.0,0.0,5,5
+TUV,Tuvalu,Tuvalu,Provisioning Services,--,--,--,--,--

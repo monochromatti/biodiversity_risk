@@ -1,0 +1,208 @@
+SOV_A3,SOVEREIGNTY,ADMIN,RISK_TYPE,RISK_MEDIAN,RISK_MEAN,RISK_STD,RISK_MAX,RISK_MIN
+ZWE,Zimbabwe,Zimbabwe,Resource Scarcity: Food - Water - Air,10.0,9.904087878456663,0.5356803617111805,10,5
+ZMB,Zambia,Zambia,Resource Scarcity: Food - Water - Air,8.0,8.094874623572558,0.4068683756015144,10,6
+YEM,Yemen,Yemen,Resource Scarcity: Food - Water - Air,7.0,7.373135053700734,0.8439231606595603,10,5
+VNM,Vietnam,Vietnam,Resource Scarcity: Food - Water - Air,4.0,4.053206273575541,1.4240348312402167,10,1
+VEN,Venezuela,Venezuela,Resource Scarcity: Food - Water - Air,3.0,3.387850946979418,0.8471643501604795,10,1
+VAT,Vatican,Vatican,Resource Scarcity: Food - Water - Air,--,--,--,--,--
+VUT,Vanuatu,Vanuatu,Resource Scarcity: Food - Water - Air,5.0,5.01937984496124,0.31068254926126737,10,5
+UZB,Uzbekistan,Uzbekistan,Resource Scarcity: Food - Water - Air,8.0,7.667725087542287,1.4229005263628394,10,4
+URY,Uruguay,Uruguay,Resource Scarcity: Food - Water - Air,5.0,5.001423690205011,0.0843589007233801,10,5
+FSM,Federated States of Micronesia,Federated States of Micronesia,Resource Scarcity: Food - Water - Air,5.0,5.0,0.0,5,5
+MHL,Marshall Islands,Marshall Islands,Resource Scarcity: Food - Water - Air,6.0,6.583333333333333,2.0190069065976193,10,5
+US1,United States of America,United States of America,Resource Scarcity: Food - Water - Air,3.0,3.9873809584247057,1.616870841840097,10,1
+GB1,United Kingdom,Jersey,Resource Scarcity: Food - Water - Air,3.0,3.2142857142857144,0.7726181304565691,4,1
+GB1,United Kingdom,Guernsey,Resource Scarcity: Food - Water - Air,3.5,3.5,0.5,4,3
+GB1,United Kingdom,Isle of Man,Resource Scarcity: Food - Water - Air,3.0,2.9696969696969697,0.2443108408575318,3,1
+GB1,United Kingdom,United Kingdom,Resource Scarcity: Food - Water - Air,2.0,1.949887655749983,0.9978228262066087,10,1
+ARE,United Arab Emirates,United Arab Emirates,Resource Scarcity: Food - Water - Air,8.0,8.19257605358638,0.6630308968244581,10,5
+UKR,Ukraine,Ukraine,Resource Scarcity: Food - Water - Air,4.0,4.3315623770169225,1.2231700146157667,10,1
+UGA,Uganda,Uganda,Resource Scarcity: Food - Water - Air,10.0,9.942702702702702,0.32239821175994815,10,5
+TKM,Turkmenistan,Turkmenistan,Resource Scarcity: Food - Water - Air,8.0,8.069392359523157,1.013191792382079,10,5
+TUR,Turkey,Turkey,Resource Scarcity: Food - Water - Air,6.0,6.30299957596652,1.4987639676068412,10,1
+TUN,Tunisia,Tunisia,Resource Scarcity: Food - Water - Air,8.0,7.667987073908058,0.8272903621537826,10,5
+TTO,Trinidad and Tobago,Trinidad and Tobago,Resource Scarcity: Food - Water - Air,5.0,5.022935779816514,0.33786513446459254,10,5
+TON,Tonga,Tonga,Resource Scarcity: Food - Water - Air,10.0,10.0,0.0,10,10
+TGO,Togo,Togo,Resource Scarcity: Food - Water - Air,8.0,7.999592335915206,0.020186577094398608,8,7
+TLS,East Timor,East Timor,Resource Scarcity: Food - Water - Air,3.0,2.959247648902821,0.29874460127196134,4,1
+THA,Thailand,Thailand,Resource Scarcity: Food - Water - Air,6.0,5.968881629846128,0.9399001480572743,10,3
+TZA,United Republic of Tanzania,United Republic of Tanzania,Resource Scarcity: Food - Water - Air,8.0,8.015635503547864,0.3532559480241471,10,5
+TJK,Tajikistan,Tajikistan,Resource Scarcity: Food - Water - Air,6.0,6.721092626822756,1.4881778103298697,10,5
+TWN,Taiwan,Taiwan,Resource Scarcity: Food - Water - Air,8.0,7.985531441291041,0.17907170739793082,10,5
+SYR,Syria,Syria,Resource Scarcity: Food - Water - Air,8.0,7.980297685623333,1.1391407232517572,10,5
+CHE,Switzerland,Switzerland,Resource Scarcity: Food - Water - Air,3.0,2.8777717685235262,0.6737672956432182,4,2
+SWE,Sweden,Sweden,Resource Scarcity: Food - Water - Air,1.0,1.4779932014217223,0.7125664525789231,10,1
+SWZ,eSwatini,eSwatini,Resource Scarcity: Food - Water - Air,10.0,7.922033898305084,2.771448526800383,10,4
+SUR,Suriname,Suriname,Resource Scarcity: Food - Water - Air,3.0,2.9862969004893962,0.24728507554532414,10,1
+SDS,South Sudan,South Sudan,Resource Scarcity: Food - Water - Air,10.0,9.884705085765875,0.44800444813686996,10,8
+SDN,Sudan,Sudan,Resource Scarcity: Food - Water - Air,8.0,8.296063196674854,0.5073124764619799,10,6
+LKA,Sri Lanka,Sri Lanka,Resource Scarcity: Food - Water - Air,4.0,4.627444009953786,1.1128249749923775,10,1
+ESP,Spain,Spain,Resource Scarcity: Food - Water - Air,8.0,7.2190925032880315,1.7826473131271585,10,1
+KOR,South Korea,South Korea,Resource Scarcity: Food - Water - Air,4.0,3.825525812619503,0.5664778813513253,10,1
+ZAF,South Africa,South Africa,Resource Scarcity: Food - Water - Air,7.0,6.377170882962389,1.4299492442096038,10,1
+SOM,Somalia,Somalia,Resource Scarcity: Food - Water - Air,10.0,9.941919065914874,0.305006524892142,10,8
+SOL,Somaliland,Somaliland,Resource Scarcity: Food - Water - Air,10.0,9.936830541060148,0.31289727263982653,10,8
+SLB,Solomon Islands,Solomon Islands,Resource Scarcity: Food - Water - Air,2.0,1.9501359927470534,0.9311071601106541,10,1
+SVK,Slovakia,Slovakia,Resource Scarcity: Food - Water - Air,3.0,3.248547449967721,0.4321708170182992,4,3
+SVN,Slovenia,Slovenia,Resource Scarcity: Food - Water - Air,3.0,2.9682539682539684,0.2566819306158131,10,1
+SGP,Singapore,Singapore,Resource Scarcity: Food - Water - Air,3.0,3.0,0.0,3,3
+SLE,Sierra Leone,Sierra Leone,Resource Scarcity: Food - Water - Air,10.0,9.986381322957198,0.11590171991133448,10,9
+SYC,Seychelles,Seychelles,Resource Scarcity: Food - Water - Air,10.0,10.0,0.0,10,10
+SRB,Republic of Serbia,Republic of Serbia,Resource Scarcity: Food - Water - Air,3.0,3.1347248576850095,0.4203125289072591,6,3
+SEN,Senegal,Senegal,Resource Scarcity: Food - Water - Air,8.0,8.036464841531297,0.27032714935405333,10,5
+SAU,Saudi Arabia,Saudi Arabia,Resource Scarcity: Food - Water - Air,8.0,8.078167559178135,0.3190661467068355,10,5
+STP,São Tomé and Principe,São Tomé and Principe,Resource Scarcity: Food - Water - Air,8.0,7.977777777777778,0.14740554623801777,8,7
+SMR,San Marino,San Marino,Resource Scarcity: Food - Water - Air,5.0,5.0,0.0,5,5
+WSM,Samoa,Samoa,Resource Scarcity: Food - Water - Air,10.0,10.0,0.0,10,10
+VCT,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,Resource Scarcity: Food - Water - Air,4.0,3.857142857142857,0.3499271061118826,4,3
+LCA,Saint Lucia,Saint Lucia,Resource Scarcity: Food - Water - Air,4.0,3.7916666666666665,0.4061164310337068,4,3
+KNA,Saint Kitts and Nevis,Saint Kitts and Nevis,Resource Scarcity: Food - Water - Air,5.0,5.0,0.0,5,5
+RWA,Rwanda,Rwanda,Resource Scarcity: Food - Water - Air,5.0,5.377464788732395,1.24857069642509,10,5
+RUS,Russia,Russia,Resource Scarcity: Food - Water - Air,3.0,3.2631298778112785,0.7398923127609538,10,1
+ROU,Romania,Romania,Resource Scarcity: Food - Water - Air,3.0,3.4681498944059723,0.5490344161923363,5,1
+QAT,Qatar,Qatar,Resource Scarcity: Food - Water - Air,10.0,9.843033509700176,0.43039291831166543,10,8
+PRT,Portugal,Portugal,Resource Scarcity: Food - Water - Air,6.0,6.4184884447220485,1.0771642340101848,10,4
+POL,Poland,Poland,Resource Scarcity: Food - Water - Air,3.0,3.3077475923530257,0.5302021610439775,10,1
+PHL,Philippines,Philippines,Resource Scarcity: Food - Water - Air,8.0,7.973333333333334,0.25528658764233064,10,5
+PER,Peru,Peru,Resource Scarcity: Food - Water - Air,8.0,7.823554596214567,0.9350891686016578,10,3
+PRY,Paraguay,Paraguay,Resource Scarcity: Food - Water - Air,2.0,2.9458563535911604,1.6851291131645432,7,1
+PNG,Papua New Guinea,Papua New Guinea,Resource Scarcity: Food - Water - Air,3.0,3.017661388550548,0.373031022254138,10,1
+PAN,Panama,Panama,Resource Scarcity: Food - Water - Air,3.0,2.65059861373661,0.8526458805853915,10,1
+PLW,Palau,Palau,Resource Scarcity: Food - Water - Air,5.0,5.3125,1.2103072956898178,10,5
+PAK,Pakistan,Pakistan,Resource Scarcity: Food - Water - Air,8.0,8.13813666625822,0.4283304433510786,10,5
+OMN,Oman,Oman,Resource Scarcity: Food - Water - Air,7.0,6.982927155865024,1.079482111911744,10,5
+NOR,Norway,Norway,Resource Scarcity: Food - Water - Air,2.0,2.0844295357830975,1.6667603008771326,10,1
+PRK,North Korea,North Korea,Resource Scarcity: Food - Water - Air,5.0,5.066985101785511,0.6328461354959343,10,1
+NGA,Nigeria,Nigeria,Resource Scarcity: Food - Water - Air,8.0,8.02868112588675,0.21780024572192627,10,7
+NER,Niger,Niger,Resource Scarcity: Food - Water - Air,10.0,9.900318308210156,0.40737732729789566,10,7
+NIC,Nicaragua,Nicaragua,Resource Scarcity: Food - Water - Air,3.0,3.3264804076612196,0.7033568384046869,10,1
+NZ1,New Zealand,New Zealand,Resource Scarcity: Food - Water - Air,3.0,3.106196876853133,0.7060151194312468,10,1
+NL1,Netherlands,Netherlands,Resource Scarcity: Food - Water - Air,3.0,3.7564754296780443,1.7299541303778418,10,1
+NL1,Netherlands,Aruba,Resource Scarcity: Food - Water - Air,5.0,5.0,0.0,5,5
+NL1,Netherlands,Curaçao,Resource Scarcity: Food - Water - Air,5.0,5.0,0.0,5,5
+NPL,Nepal,Nepal,Resource Scarcity: Food - Water - Air,10.0,9.939889336016096,0.32603092616476875,10,8
+NRU,Nauru,Nauru,Resource Scarcity: Food - Water - Air,7.0,7.0,0.0,7,7
+NAM,Namibia,Namibia,Resource Scarcity: Food - Water - Air,8.0,8.005740016824188,0.373442576061353,10,5
+MOZ,Mozambique,Mozambique,Resource Scarcity: Food - Water - Air,10.0,9.93523919055834,0.4665144906950815,10,4
+MAR,Morocco,Morocco,Resource Scarcity: Food - Water - Air,8.0,7.485202013999754,0.9280890246693866,10,5
+SAH,Western Sahara,Western Sahara,Resource Scarcity: Food - Water - Air,8.0,7.520574787720444,0.5090741335512879,8,5
+MNE,Montenegro,Montenegro,Resource Scarcity: Food - Water - Air,3.0,3.022577610536218,0.22001910749814677,5,1
+MNG,Mongolia,Mongolia,Resource Scarcity: Food - Water - Air,5.0,5.812813334666419,1.0303919015899419,8,3
+MDA,Moldova,Moldova,Resource Scarcity: Food - Water - Air,5.0,4.81621801262878,0.39997032167388635,5,3
+MCO,Monaco,Monaco,Resource Scarcity: Food - Water - Air,4.0,4.0,0.0,4,4
+MEX,Mexico,Mexico,Resource Scarcity: Food - Water - Air,6.0,6.30594634963567,1.3272616938068806,10,3
+MUS,Mauritius,Mauritius,Resource Scarcity: Food - Water - Air,10.0,10.0,0.0,10,10
+MRT,Mauritania,Mauritania,Resource Scarcity: Food - Water - Air,8.0,7.98643383466236,0.118269847707759,8,5
+MLT,Malta,Malta,Resource Scarcity: Food - Water - Air,8.0,8.0,0.0,8,8
+MLI,Mali,Mali,Resource Scarcity: Food - Water - Air,8.0,8.014052006199414,0.20957506446362678,10,6
+MDV,Maldives,Maldives,Resource Scarcity: Food - Water - Air,10.0,10.0,0.0,10,10
+MYS,Malaysia,Malaysia,Resource Scarcity: Food - Water - Air,3.0,3.050750380627855,0.34486999028324117,10,1
+MWI,Malawi,Malawi,Resource Scarcity: Food - Water - Air,10.0,9.9199697999245,0.3609023534340411,10,8
+MDG,Madagascar,Madagascar,Resource Scarcity: Food - Water - Air,3.0,3.491111823590182,0.900514864268357,10,1
+MKD,North Macedonia,North Macedonia,Resource Scarcity: Food - Water - Air,5.0,5.3364928909952605,0.5814315841280084,7,4
+LUX,Luxembourg,Luxembourg,Resource Scarcity: Food - Water - Air,4.0,3.8620689655172415,0.3448275862068966,4,3
+LTU,Lithuania,Lithuania,Resource Scarcity: Food - Water - Air,3.0,3.189422041402417,0.4360703408435991,10,1
+LIE,Liechtenstein,Liechtenstein,Resource Scarcity: Food - Water - Air,2.0,2.090909090909091,0.28747978728803447,3,2
+LBY,Libya,Libya,Resource Scarcity: Food - Water - Air,8.0,8.022462900770455,0.9650654730791902,10,5
+LBR,Liberia,Liberia,Resource Scarcity: Food - Water - Air,10.0,9.944074895294408,0.3004082798010164,10,8
+LSO,Lesotho,Lesotho,Resource Scarcity: Food - Water - Air,8.0,7.616586538461538,0.9561862760122484,8,4
+LBN,Lebanon,Lebanon,Resource Scarcity: Food - Water - Air,9.0,9.105090311986864,0.30666975448088674,10,9
+LVA,Latvia,Latvia,Resource Scarcity: Food - Water - Air,3.0,3.0855270465400424,0.3447684534267943,10,1
+LAO,Laos,Laos,Resource Scarcity: Food - Water - Air,5.0,4.994376757263355,0.3655326453939732,8,3
+KGZ,Kyrgyzstan,Kyrgyzstan,Resource Scarcity: Food - Water - Air,6.0,5.945211941505493,1.4786131133240108,10,3
+KWT,Kuwait,Kuwait,Resource Scarcity: Food - Water - Air,9.0,8.517133956386292,0.4997063413031223,9,8
+KIR,Kiribati,Kiribati,Resource Scarcity: Food - Water - Air,10.0,8.951219512195122,1.7101022578495713,10,5
+KEN,Kenya,Kenya,Resource Scarcity: Food - Water - Air,10.0,9.944203596660245,0.3163066480598308,10,8
+JOR,Jordan,Jordan,Resource Scarcity: Food - Water - Air,9.0,8.810094265514532,0.6878706106341407,10,7
+JPN,Japan,Japan,Resource Scarcity: Food - Water - Air,2.0,1.7882125914609632,0.7885340566541891,10,1
+JAM,Jamaica,Jamaica,Resource Scarcity: Food - Water - Air,4.0,3.899408284023669,0.3549309527684929,4,1
+ITA,Italy,Italy,Resource Scarcity: Food - Water - Air,5.0,5.196921896316508,1.8078696412837012,10,1
+IS1,Israel,Palestine,Resource Scarcity: Food - Water - Air,10.0,9.740540540540541,0.5860815640402075,10,8
+IRL,Ireland,Ireland,Resource Scarcity: Food - Water - Air,3.0,2.967082294264339,0.2931703320626405,10,1
+IRQ,Iraq,Iraq,Resource Scarcity: Food - Water - Air,8.0,8.100995787054769,0.4011031374930905,10,6
+IRN,Iran,Iran,Resource Scarcity: Food - Water - Air,8.0,8.269798197186613,0.49706976209385906,10,5
+IDN,Indonesia,Indonesia,Resource Scarcity: Food - Water - Air,3.0,3.190920516433713,0.7749665374652801,10,1
+IND,India,India,Resource Scarcity: Food - Water - Air,10.0,9.950820296869344,0.35133520768510945,10,5
+ISL,Iceland,Iceland,Resource Scarcity: Food - Water - Air,3.0,3.021238043066032,0.6179269541906205,10,1
+HUN,Hungary,Hungary,Resource Scarcity: Food - Water - Air,3.0,3.087317594020643,0.3944890041835581,4,2
+HND,Honduras,Honduras,Resource Scarcity: Food - Water - Air,8.0,7.7998039215686275,0.9316441090174801,10,3
+HTI,Haiti,Haiti,Resource Scarcity: Food - Water - Air,4.0,3.875796178343949,0.45726983683560685,4,1
+GUY,Guyana,Guyana,Resource Scarcity: Food - Water - Air,3.0,3.0789679437060204,0.38588546380516153,10,1
+GNB,Guinea-Bissau,Guinea-Bissau,Resource Scarcity: Food - Water - Air,8.0,8.183629893238434,0.5663289334704292,10,6
+GIN,Guinea,Guinea,Resource Scarcity: Food - Water - Air,10.0,9.9239407379447,0.36356369902973995,10,8
+GTM,Guatemala,Guatemala,Resource Scarcity: Food - Water - Air,8.0,7.672091131000814,1.0082461977489858,8,3
+GRD,Grenada,Grenada,Resource Scarcity: Food - Water - Air,4.0,3.6153846153846154,0.48650425541051995,4,3
+GRC,Greece,Greece,Resource Scarcity: Food - Water - Air,7.0,6.58968411751712,1.3041317027762214,10,1
+GHA,Ghana,Ghana,Resource Scarcity: Food - Water - Air,8.0,7.9973653395784545,0.07836197769371124,10,5
+DEU,Germany,Germany,Resource Scarcity: Food - Water - Air,4.0,3.5576010127650597,1.024404182647713,10,1
+GEO,Georgia,Georgia,Resource Scarcity: Food - Water - Air,8.0,7.804887289259329,0.83776123829642,10,1
+GMB,Gambia,Gambia,Resource Scarcity: Food - Water - Air,8.0,7.986754966887418,0.1479852164423344,8,6
+GAB,Gabon,Gabon,Resource Scarcity: Food - Water - Air,5.0,5.208424908424909,0.8602764329356883,10,5
+FR1,France,France,Resource Scarcity: Food - Water - Air,4.0,4.0912431811656615,1.141983202212276,10,1
+FI1,Finland,Aland,Resource Scarcity: Food - Water - Air,4.0,3.59375,0.6179287479151622,4,1
+FI1,Finland,Finland,Resource Scarcity: Food - Water - Air,3.0,2.965506291430159,0.4526432876501982,10,1
+FJI,Fiji,Fiji,Resource Scarcity: Food - Water - Air,3.0,3.231132075471698,1.4078193499802136,10,1
+ETH,Ethiopia,Ethiopia,Resource Scarcity: Food - Water - Air,8.0,8.04519181322637,0.31434272062726,10,5
+EST,Estonia,Estonia,Resource Scarcity: Food - Water - Air,4.0,3.764471625657801,0.7829397148457993,10,1
+ERI,Eritrea,Eritrea,Resource Scarcity: Food - Water - Air,8.0,7.74251389636005,1.0389794059825106,10,5
+GNQ,Equatorial Guinea,Equatorial Guinea,Resource Scarcity: Food - Water - Air,8.0,7.633969118982743,0.9393456062513375,8,5
+SLV,El Salvador,El Salvador,Resource Scarcity: Food - Water - Air,8.0,8.0,0.0,8,8
+EGY,Egypt,Egypt,Resource Scarcity: Food - Water - Air,9.0,8.813575054936727,0.5065381444537268,10,5
+ECU,Ecuador,Ecuador,Resource Scarcity: Food - Water - Air,5.0,5.274313981706179,0.827179197878425,10,3
+DOM,Dominican Republic,Dominican Republic,Resource Scarcity: Food - Water - Air,4.0,4.4836860670194,0.6411782255865883,10,1
+DMA,Dominica,Dominica,Resource Scarcity: Food - Water - Air,5.0,5.0,0.0,5,5
+DJI,Djibouti,Djibouti,Resource Scarcity: Food - Water - Air,8.0,7.6234177215189876,0.5778617344646741,10,5
+DN1,Denmark,Greenland,Resource Scarcity: Food - Water - Air,5.0,4.847340543493547,0.8590081744791443,10,1
+DN1,Denmark,Denmark,Resource Scarcity: Food - Water - Air,2.0,2.5640302976924434,1.103900796223832,10,1
+CZE,Czechia,Czechia,Resource Scarcity: Food - Water - Air,3.0,3.4396135265700485,0.5089856732771763,5,2
+CYN,Northern Cyprus,Northern Cyprus,Resource Scarcity: Food - Water - Air,8.0,7.901345291479821,0.3894896995624837,8,5
+CYP,Cyprus,Cyprus,Resource Scarcity: Food - Water - Air,8.0,7.49438202247191,0.5273123609104411,8,5
+HRV,Croatia,Croatia,Resource Scarcity: Food - Water - Air,3.0,2.990578439964943,0.23525531700731672,10,1
+CIV,Ivory Coast,Ivory Coast,Resource Scarcity: Food - Water - Air,8.0,8.047778343393208,0.29288829329947136,10,8
+CRI,Costa Rica,Costa Rica,Resource Scarcity: Food - Water - Air,3.0,3.3753929052537046,0.5436375393853556,4,1
+COD,Democratic Republic of the Congo,Democratic Republic of the Congo,Resource Scarcity: Food - Water - Air,10.0,9.977808430362286,0.2672398644936378,10,5
+COG,Republic of the Congo,Republic of the Congo,Resource Scarcity: Food - Water - Air,10.0,9.877894592180306,0.689369102528302,10,5
+COM,Comoros,Comoros,Resource Scarcity: Food - Water - Air,4.0,3.476923076923077,0.9463727076449044,4,1
+COL,Colombia,Colombia,Resource Scarcity: Food - Water - Air,3.0,3.118132324827529,0.4928509299748071,10,1
+CH1,China,China,Resource Scarcity: Food - Water - Air,8.0,7.975184977857192,0.39632730378940767,10,3
+CH1,China,Macao S.A.R,Resource Scarcity: Food - Water - Air,8.0,8.0,0.0,8,8
+CH1,China,Hong Kong S.A.R.,Resource Scarcity: Food - Water - Air,8.0,7.979591836734694,0.14139190265868387,8,7
+CHL,Chile,Chile,Resource Scarcity: Food - Water - Air,4.0,5.035369407462431,2.3454548367312626,10,1
+TCD,Chad,Chad,Resource Scarcity: Food - Water - Air,8.0,8.062797650085168,0.2919563392345309,10,7
+CAF,Central African Republic,Central African Republic,Resource Scarcity: Food - Water - Air,10.0,9.966462028194634,0.24230767530164996,10,8
+CPV,Cabo Verde,Cabo Verde,Resource Scarcity: Food - Water - Air,10.0,10.0,0.0,10,10
+CAN,Canada,Canada,Resource Scarcity: Food - Water - Air,3.0,3.3494802776239707,0.7773693164732567,10,1
+CMR,Cameroon,Cameroon,Resource Scarcity: Food - Water - Air,8.0,8.020488693276674,0.22834746515245455,10,5
+KHM,Cambodia,Cambodia,Resource Scarcity: Food - Water - Air,8.0,7.833208020050125,0.7943251004777337,8,3
+MMR,Myanmar,Myanmar,Resource Scarcity: Food - Water - Air,5.0,5.117890995260663,0.6665972549564858,10,5
+BDI,Burundi,Burundi,Resource Scarcity: Food - Water - Air,5.0,5.628947368421053,1.554857904277132,10,5
+BFA,Burkina Faso,Burkina Faso,Resource Scarcity: Food - Water - Air,8.0,8.042952460383653,0.24757025824839274,10,8
+BGR,Bulgaria,Bulgaria,Resource Scarcity: Food - Water - Air,5.0,5.133714939896966,1.8177343298453024,10,3
+BRN,Brunei,Brunei,Resource Scarcity: Food - Water - Air,2.0,2.2542372881355934,0.4816363470638245,3,1
+BRA,Brazil,Brazil,Resource Scarcity: Food - Water - Air,5.0,5.034303285871338,0.2988759168790332,10,1
+BWA,Botswana,Botswana,Resource Scarcity: Food - Water - Air,8.0,7.990042223786066,0.24154833865316344,10,4
+BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,Resource Scarcity: Food - Water - Air,3.0,3.0,0.0,3,3
+BOL,Bolivia,Bolivia,Resource Scarcity: Food - Water - Air,3.0,3.7314742472504356,1.0240480534296297,8,3
+BTN,Bhutan,Bhutan,Resource Scarcity: Food - Water - Air,5.0,5.912222746578575,1.8275942444772186,10,5
+BEN,Benin,Benin,Resource Scarcity: Food - Water - Air,8.0,8.01591723040191,0.1696926258262815,10,7
+BLZ,Belize,Belize,Resource Scarcity: Food - Water - Air,3.0,3.395793499043977,1.3313909298991697,8,1
+BEL,Belgium,Belgium,Resource Scarcity: Food - Water - Air,4.0,4.661654135338346,0.8733355931842569,10,1
+BLR,Belarus,Belarus,Resource Scarcity: Food - Water - Air,3.0,3.130289441500204,0.35432192350684805,4,2
+BRB,Barbados,Barbados,Resource Scarcity: Food - Water - Air,4.0,3.8125,0.3903123748998999,4,3
+BGD,Bangladesh,Bangladesh,Resource Scarcity: Food - Water - Air,8.0,8.15461493239271,0.5923459834652429,10,5
+BHR,Bahrain,Bahrain,Resource Scarcity: Food - Water - Air,8.0,8.0,0.0,8,8
+BHS,The Bahamas,The Bahamas,Resource Scarcity: Food - Water - Air,5.0,4.841121495327103,0.6212669104530937,5,1
+AZE,Azerbaijan,Azerbaijan,Resource Scarcity: Food - Water - Air,7.0,6.789185709687802,0.7619695313691727,10,4
+AUT,Austria,Austria,Resource Scarcity: Food - Water - Air,2.0,1.9432009315564756,0.7210192115668479,4,1
+AU1,Australia,Australia,Resource Scarcity: Food - Water - Air,5.0,5.3291558657196525,1.3216624205434029,10,1
+ARM,Armenia,Armenia,Resource Scarcity: Food - Water - Air,7.0,7.134868421052632,0.5194943876282074,8,5
+ARG,Argentina,Argentina,Resource Scarcity: Food - Water - Air,5.0,5.199421212238811,0.7105369109809933,10,1
+ATG,Antigua and Barbuda,Antigua and Barbuda,Resource Scarcity: Food - Water - Air,4.0,3.5,0.7416198487095663,4,1
+AGO,Angola,Angola,Resource Scarcity: Food - Water - Air,10.0,9.967315146772462,0.23409760550744102,10,8
+AND,Andorra,Andorra,Resource Scarcity: Food - Water - Air,9.0,8.942857142857143,0.33319725113401716,9,7
+DZA,Algeria,Algeria,Resource Scarcity: Food - Water - Air,8.0,7.593610928216153,0.7975685442116639,10,5
+ALB,Albania,Albania,Resource Scarcity: Food - Water - Air,6.0,5.830864787386527,1.107272172931011,10,3
+AFG,Afghanistan,Afghanistan,Resource Scarcity: Food - Water - Air,10.0,9.907950005122427,0.43326171480205333,10,5
+KAS,Kashmir,Siachen Glacier,Resource Scarcity: Food - Water - Air,10.0,9.795454545454545,0.5328402507153238,10,8
+NL1,Netherlands,Sint Maarten,Resource Scarcity: Food - Water - Air,5.0,5.0,0.0,5,5
+TUV,Tuvalu,Tuvalu,Resource Scarcity: Food - Water - Air,--,--,--,--,--

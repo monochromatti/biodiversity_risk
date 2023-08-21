@@ -1,0 +1,208 @@
+SOV_A3,SOVEREIGNTY,ADMIN,RISK_TYPE,RISK_MEDIAN,RISK_MEAN,RISK_STD,RISK_MAX,RISK_MIN
+ZWE,Zimbabwe,Zimbabwe,Political Situation,10.0,9.78964914198273,0.8773687406477867,10,4
+ZMB,Zambia,Zambia,Political Situation,7.0,7.094695727362176,0.4648485257369689,10,4
+YEM,Yemen,Yemen,Political Situation,10.0,9.869806094182826,0.5589256197292671,10,6
+VNM,Vietnam,Vietnam,Political Situation,7.0,7.103037522334723,0.4450159716130696,10,5
+VEN,Venezuela,Venezuela,Political Situation,10.0,9.890032335882564,0.5779083374402946,10,5
+VAT,Vatican,Vatican,Political Situation,--,--,--,--,--
+VUT,Vanuatu,Vanuatu,Political Situation,5.0,5.01937984496124,0.31068254926126737,10,5
+UZB,Uzbekistan,Uzbekistan,Political Situation,8.0,8.020386966585553,0.1948194068378746,9,7
+URY,Uruguay,Uruguay,Political Situation,2.0,2.2065299924069857,0.9097772479568831,10,1
+FSM,Federated States of Micronesia,Federated States of Micronesia,Political Situation,4.0,3.3076923076923075,0.9514859136040755,4,1
+MHL,Marshall Islands,Marshall Islands,Political Situation,1.0,3.25,3.897114317029974,10,1
+US1,United States of America,United States of America,Political Situation,3.0,3.0044322259022547,0.3189575708476984,10,1
+GB1,United Kingdom,Jersey,Political Situation,2.0,2.357142857142857,0.6102859818083951,3,1
+GB1,United Kingdom,Guernsey,Political Situation,2.0,2.0,0.0,2,2
+GB1,United Kingdom,Isle of Man,Political Situation,5.0,5.0,0.0,5,5
+GB1,United Kingdom,United Kingdom,Political Situation,2.0,2.0014979233335604,0.36558633731830903,10,1
+ARE,United Arab Emirates,United Arab Emirates,Political Situation,6.0,6.13815238626849,0.4018567597686801,10,5
+UKR,Ukraine,Ukraine,Political Situation,7.0,6.972111910128439,0.4653867012745405,10,2
+UGA,Uganda,Uganda,Political Situation,8.0,7.989287469287469,0.3355778812928615,10,6
+TKM,Turkmenistan,Turkmenistan,Political Situation,9.0,8.994024208055123,0.22878797090655284,10,5
+TUR,Turkey,Turkey,Political Situation,8.0,8.003705683892258,0.3545981516395349,10,4
+TUN,Tunisia,Tunisia,Political Situation,5.0,5.403419159804024,1.2065342033522712,10,5
+TTO,Trinidad and Tobago,Trinidad and Tobago,Political Situation,4.0,3.86697247706422,0.6249484449740759,10,1
+TON,Tonga,Tonga,Political Situation,10.0,10.0,0.0,10,10
+TGO,Togo,Togo,Political Situation,7.0,6.476966979209132,1.0163660024457553,7,3
+TLS,East Timor,East Timor,Political Situation,7.0,6.822884012539185,0.5442574150917304,7,5
+THA,Thailand,Thailand,Political Situation,7.0,7.06726553769449,0.38124887151748876,10,3
+TZA,United Republic of Tanzania,United Republic of Tanzania,Political Situation,7.0,7.027636001493838,0.3120599344236966,10,5
+TJK,Tajikistan,Tajikistan,Political Situation,8.0,8.158040665434381,0.5603610072084972,10,7
+TWN,Taiwan,Taiwan,Political Situation,7.0,6.975514746800223,0.20956887783532235,10,5
+SYR,Syria,Syria,Political Situation,10.0,9.840832831454874,0.5138987743588145,10,4
+CHE,Switzerland,Switzerland,Political Situation,1.0,1.123580313683072,0.32910214182388037,2,1
+SWE,Sweden,Sweden,Political Situation,1.0,1.003986137100971,0.18936563737846385,10,1
+SWZ,eSwatini,eSwatini,Political Situation,9.0,7.245197740112994,2.284754703889248,9,4
+SUR,Suriname,Suriname,Political Situation,5.0,4.994616639477977,0.16297716946106938,10,4
+SDS,South Sudan,South Sudan,Political Situation,10.0,9.983147758049954,0.15785794767237277,10,8
+SDN,Sudan,Sudan,Political Situation,10.0,9.984767617608162,0.12247594424419472,10,9
+LKA,Sri Lanka,Sri Lanka,Political Situation,6.0,5.985780305723427,0.16803924793876848,10,5
+ESP,Spain,Spain,Political Situation,2.0,2.0297840859272247,0.33756097321328904,10,1
+KOR,South Korea,South Korea,Political Situation,4.0,4.105799872530274,0.9499713930683215,10,1
+ZAF,South Africa,South Africa,Political Situation,4.0,4.024835646457268,0.3389474070962076,10,1
+SOM,Somalia,Somalia,Political Situation,10.0,9.924005788134325,0.3595802829795013,10,7
+SOL,Somaliland,Somaliland,Political Situation,10.0,9.95276023070585,0.21215129858472573,10,9
+SLB,Solomon Islands,Solomon Islands,Political Situation,5.0,5.018132366273798,0.3005545685267593,10,5
+SVK,Slovakia,Slovakia,Political Situation,2.0,2.0983430170002153,0.402824448500387,4,2
+SVN,Slovenia,Slovenia,Political Situation,2.0,2.0532879818594103,0.46473783218859605,10,1
+SGP,Singapore,Singapore,Political Situation,4.0,3.8181818181818183,0.385694607919935,4,3
+SLE,Sierra Leone,Sierra Leone,Political Situation,7.0,6.997730220492866,0.0824874937332307,10,5
+SYC,Seychelles,Seychelles,Political Situation,10.0,10.0,0.0,10,10
+SRB,Republic of Serbia,Republic of Serbia,Political Situation,6.0,5.855787476280835,0.4736040405425565,7,3
+SEN,Senegal,Senegal,Political Situation,5.0,5.176644325798024,0.6448282596350402,10,5
+SAU,Saudi Arabia,Saudi Arabia,Political Situation,7.0,7.032377095517571,0.29603062354244075,10,5
+STP,São Tomé and Principe,São Tomé and Principe,Political Situation,9.0,9.0,0.0,9,9
+SMR,San Marino,San Marino,Political Situation,2.0,2.0,0.0,2,2
+WSM,Samoa,Samoa,Political Situation,10.0,10.0,0.0,10,10
+VCT,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,Political Situation,4.0,3.857142857142857,0.3499271061118826,4,3
+LCA,Saint Lucia,Saint Lucia,Political Situation,4.0,3.7916666666666665,0.4061164310337068,4,3
+KNA,Saint Kitts and Nevis,Saint Kitts and Nevis,Political Situation,5.0,5.0,0.0,5,5
+RWA,Rwanda,Rwanda,Political Situation,6.0,6.208450704225352,0.6512710170971618,10,6
+RUS,Russia,Russia,Political Situation,7.0,7.004637401001169,0.27702269824179454,10,1
+ROU,Romania,Romania,Political Situation,5.0,5.010903197288934,0.20185032418040116,7,4
+QAT,Qatar,Qatar,Political Situation,6.0,6.038800705467372,0.3003419112156332,10,5
+PRT,Portugal,Portugal,Political Situation,2.0,2.2050281074328546,1.2342574013355192,10,1
+POL,Poland,Poland,Political Situation,4.0,4.005347132384649,0.3877899786110798,10,1
+PHL,Philippines,Philippines,Political Situation,7.0,6.95678431372549,0.30230333511327234,10,5
+PER,Peru,Peru,Political Situation,6.0,6.06018873646467,0.25956979325506374,10,3
+PRY,Paraguay,Paraguay,Political Situation,6.0,6.012154696132597,0.3223671365774569,7,4
+PNG,Papua New Guinea,Papua New Guinea,Political Situation,7.0,6.9538164839626475,0.31166691638426086,10,5
+PAN,Panama,Panama,Political Situation,5.0,5.027410207939509,0.4080998246631906,10,1
+PLW,Palau,Palau,Political Situation,3.5,3.75,1.7853571071357126,10,1
+PAK,Pakistan,Pakistan,Political Situation,9.0,8.75303271657885,0.8069919791655485,10,5
+OMN,Oman,Oman,Political Situation,7.0,7.005356186395287,0.3166479141239363,10,5
+NOR,Norway,Norway,Political Situation,1.0,1.2614598782972708,1.4873138650273374,10,1
+PRK,North Korea,North Korea,Political Situation,9.0,8.670192198339588,1.151917658793434,10,1
+NGA,Nigeria,Nigeria,Political Situation,8.0,7.992321187927484,0.20702902829099729,9,5
+NER,Niger,Niger,Political Situation,7.0,7.071015659300453,0.3965569015455305,10,5
+NIC,Nicaragua,Nicaragua,Political Situation,7.0,6.9859427165700225,0.339222813071854,10,3
+NZ1,New Zealand,New Zealand,Political Situation,1.0,1.0680470448705277,0.7796108025926385,10,1
+NL1,Netherlands,Netherlands,Political Situation,1.0,1.4350036310820624,1.8125212358589042,10,1
+NL1,Netherlands,Aruba,Political Situation,5.0,5.0,0.0,5,5
+NL1,Netherlands,Curaçao,Political Situation,5.0,5.0,0.0,5,5
+NPL,Nepal,Nepal,Political Situation,7.0,6.831237424547283,0.5386846618918643,7,5
+NRU,Nauru,Nauru,Political Situation,1.0,1.0,0.0,1,1
+NAM,Namibia,Namibia,Political Situation,4.0,4.084591023801277,0.6423648276988715,10,1
+MOZ,Mozambique,Mozambique,Political Situation,7.0,7.013828418083738,0.41336474692461006,10,1
+MAR,Morocco,Morocco,Political Situation,6.0,6.0899545622006634,0.518550427055543,10,5
+SAH,Western Sahara,Western Sahara,Political Situation,6.0,6.323971260613978,0.732429836150013,9,5
+MNE,Montenegro,Montenegro,Political Situation,4.0,4.689557855126999,1.2197628242044836,7,1
+MNG,Mongolia,Mongolia,Political Situation,5.0,5.071129647351206,0.3609527200327272,7,5
+MDA,Moldova,Moldova,Political Situation,5.0,5.519109338650715,0.8572315129195269,7,5
+MCO,Monaco,Monaco,Political Situation,2.0,2.0,0.0,2,2
+MEX,Mexico,Mexico,Political Situation,6.0,5.974194134388309,0.3035994097406752,10,3
+MUS,Mauritius,Mauritius,Political Situation,10.0,10.0,0.0,10,10
+MRT,Mauritania,Mauritania,Political Situation,8.0,7.9653982032906026,0.27546239314679005,9,5
+MLT,Malta,Malta,Political Situation,3.0,3.0,0.0,3,3
+MLI,Mali,Mali,Political Situation,8.0,7.971258825555364,0.32461262974703353,9,5
+MDV,Maldives,Maldives,Political Situation,10.0,10.0,0.0,10,10
+MYS,Malaysia,Malaysia,Political Situation,4.0,4.008410063075473,0.39380253233415574,10,1
+MWI,Malawi,Malawi,Political Situation,6.0,6.128539071347678,0.3346890773311176,7,6
+MDG,Madagascar,Madagascar,Political Situation,7.0,6.992875209290727,0.166541049364754,10,5
+MKD,North Macedonia,North Macedonia,Political Situation,6.0,5.989994734070564,0.12317097880451933,6,4
+LUX,Luxembourg,Luxembourg,Political Situation,2.0,2.0,0.0,2,2
+LTU,Lithuania,Lithuania,Political Situation,2.0,2.308842886203183,1.1964946464062154,10,1
+LIE,Liechtenstein,Liechtenstein,Political Situation,1.0,1.0,0.0,1,1
+LBY,Libya,Libya,Political Situation,10.0,9.956445446410934,0.31976260057993866,10,5
+LBR,Liberia,Liberia,Political Situation,7.0,6.99679724069968,0.07185701380785024,7,5
+LSO,Lesotho,Lesotho,Political Situation,6.0,5.730168269230769,0.6631825008078649,6,4
+LBN,Lebanon,Lebanon,Political Situation,8.0,7.835796387520525,1.8822390148311312,10,1
+LVA,Latvia,Latvia,Political Situation,3.0,3.076974341886038,0.7669486546884775,10,1
+LAO,Laos,Laos,Political Situation,9.0,8.891002811621368,0.42752489088442613,9,7
+KGZ,Kyrgyzstan,Kyrgyzstan,Political Situation,7.0,7.083361412494104,0.27642772545656724,8,7
+KWT,Kuwait,Kuwait,Political Situation,7.0,7.150571131879543,0.5573703145825463,9,5
+KIR,Kiribati,Kiribati,Political Situation,10.0,7.463414634146342,3.9638461303576986,10,1
+KEN,Kenya,Kenya,Political Situation,7.0,7.127127488760436,0.5503832976840857,10,5
+JOR,Jordan,Jordan,Political Situation,7.0,7.0681461115475255,0.8644767043518571,10,2
+JPN,Japan,Japan,Political Situation,2.0,2.0344938489989546,0.43164244428564785,10,1
+JAM,Jamaica,Jamaica,Political Situation,3.0,2.9881656804733727,0.1533903123883517,3,1
+ITA,Italy,Italy,Political Situation,2.0,2.009080832196453,0.19048228339517148,10,1
+IS1,Israel,Palestine,Political Situation,6.0,5.0027027027027025,2.2962938985180172,9,2
+IRL,Ireland,Ireland,Political Situation,1.0,1.0329177057356609,0.29317033206264054,10,1
+IRQ,Iraq,Iraq,Political Situation,9.0,8.965721945614707,0.33853273084803137,10,7
+IRN,Iran,Iran,Political Situation,10.0,9.968071280787665,0.24727173138670064,10,6
+IDN,Indonesia,Indonesia,Political Situation,5.0,5.011527084840868,0.22746210255551735,10,1
+IND,India,India,Political Situation,5.0,5.041811957343293,0.475418847583365,10,4
+ISL,Iceland,Iceland,Political Situation,1.0,1.0606801230458052,0.7365046028908384,10,1
+HUN,Hungary,Hungary,Political Situation,4.0,3.881599240716574,0.8256359364258277,7,1
+HND,Honduras,Honduras,Political Situation,8.0,7.9101960784313725,0.3707093898855642,10,5
+HTI,Haiti,Haiti,Political Situation,9.0,8.978503184713375,0.2623078398677776,9,5
+GUY,Guyana,Guyana,Political Situation,5.0,5.095163632302022,0.472276248427127,10,5
+GNB,Guinea-Bissau,Guinea-Bissau,Political Situation,8.0,7.7644128113879,0.6474810982934222,8,5
+GIN,Guinea,Guinea,Political Situation,7.0,7.004907049164858,0.1601360754293193,10,5
+GTM,Guatemala,Guatemala,Political Situation,7.0,6.895240032546786,0.36503190915772693,7,5
+GRD,Grenada,Grenada,Political Situation,4.0,3.6153846153846154,0.48650425541051995,4,3
+GRC,Greece,Greece,Political Situation,5.0,5.018997128341065,0.33773313850365916,10,4
+GHA,Ghana,Ghana,Political Situation,4.0,4.1000195160031225,0.5120026952688894,10,1
+DEU,Germany,Germany,Political Situation,1.0,1.0555965819179238,0.40661278806579165,10,1
+GEO,Georgia,Georgia,Political Situation,4.0,4.169729115362758,0.7313926172496795,10,1
+GMB,Gambia,Gambia,Political Situation,5.0,5.735099337748345,0.9185504471213577,7,5
+GAB,Gabon,Gabon,Political Situation,9.0,8.993589743589743,0.08427197491225602,10,8
+FR1,France,France,Political Situation,2.0,2.179289884199445,0.7487711776505014,10,1
+FI1,Finland,Aland,Political Situation,3.0,2.953125,0.30257682392245444,3,1
+FI1,Finland,Finland,Political Situation,1.0,1.2430172402386905,1.167370083634676,10,1
+FJI,Fiji,Fiji,Political Situation,5.0,5.194575471698113,0.9669631556083317,10,5
+ETH,Ethiopia,Ethiopia,Political Situation,9.0,9.011251671294868,0.21688686517713907,10,7
+EST,Estonia,Estonia,Political Situation,2.0,2.3218603328118332,1.2072076521030224,10,1
+ERI,Eritrea,Eritrea,Political Situation,10.0,9.897615205307513,0.30315367144117567,10,9
+GNQ,Equatorial Guinea,Equatorial Guinea,Political Situation,9.0,9.0,0.0,9,9
+SLV,El Salvador,El Salvador,Political Situation,6.0,6.217054263565892,0.43574679006394956,8,5
+EGY,Egypt,Egypt,Political Situation,9.0,9.034269152080018,0.18295805880651134,10,6
+ECU,Ecuador,Ecuador,Political Situation,7.0,6.941945118536494,0.2819784405420565,10,5
+DOM,Dominican Republic,Dominican Republic,Political Situation,5.0,5.532627865961199,1.3334301449507384,10,5
+DMA,Dominica,Dominica,Political Situation,5.0,5.0,0.0,5,5
+DJI,Djibouti,Djibouti,Political Situation,9.0,9.0,0.0,9,9
+DN1,Denmark,Greenland,Political Situation,5.0,5.065127408344963,0.5669175093495362,10,5
+DN1,Denmark,Denmark,Political Situation,1.0,1.0871939404615114,0.8815569640700462,10,1
+CZE,Czechia,Czechia,Political Situation,3.0,2.9346554792779047,0.4473859601610276,4,1
+CYN,Northern Cyprus,Northern Cyprus,Political Situation,4.0,3.780269058295964,0.5769612054032478,4,1
+CYP,Cyprus,Cyprus,Political Situation,4.0,3.9297752808988764,0.28661322459468186,4,1
+HRV,Croatia,Croatia,Political Situation,3.0,3.315293602103418,1.1397999142657864,10,1
+CIV,Ivory Coast,Ivory Coast,Political Situation,7.0,6.917460548323758,0.513175807049576,8,3
+CRI,Costa Rica,Costa Rica,Political Situation,3.0,3.4153569824876517,1.1754093939840975,7,1
+COD,Democratic Republic of the Congo,Democratic Republic of the Congo,Political Situation,10.0,9.962615116231897,0.2730731424318378,10,6
+COG,Republic of the Congo,Republic of the Congo,Political Situation,9.0,9.013880299594586,0.18296822388928144,10,8
+COM,Comoros,Comoros,Political Situation,7.0,6.815384615384615,0.4927882270168298,7,5
+COL,Colombia,Colombia,Political Situation,7.0,7.013485994514172,0.28322182776560295,10,5
+CH1,China,China,Political Situation,7.0,6.982282545757259,0.23639541002780054,10,4
+CH1,China,Macao S.A.R,Political Situation,7.0,7.0,0.0,7,7
+CH1,China,Hong Kong S.A.R.,Political Situation,7.0,6.877551020408164,0.3850604543696573,7,5
+CHL,Chile,Chile,Political Situation,3.0,3.05214940098661,0.6392851496355839,10,1
+TCD,Chad,Chad,Political Situation,9.0,9.017885076650328,0.2661215267814525,10,7
+CAF,Central African Republic,Central African Republic,Political Situation,10.0,9.982908897983933,0.1296109418527011,10,9
+CPV,Cabo Verde,Cabo Verde,Political Situation,10.0,10.0,0.0,10,10
+CAN,Canada,Canada,Political Situation,2.0,2.0497475419298494,0.6005662669179553,10,1
+CMR,Cameroon,Cameroon,Political Situation,9.0,8.9917033439571,0.12535967344589524,10,8
+KHM,Cambodia,Cambodia,Political Situation,9.0,8.906766917293233,0.40650022064166835,9,7
+MMR,Myanmar,Myanmar,Political Situation,9.0,8.906273384884011,0.5323255324792817,10,4
+BDI,Burundi,Burundi,Political Situation,10.0,9.378947368421052,1.3804063528484296,10,6
+BFA,Burkina Faso,Burkina Faso,Political Situation,5.0,5.127105921601334,0.5567307897600535,8,4
+BGR,Bulgaria,Bulgaria,Political Situation,4.0,4.213737836290784,0.6357010255551164,10,3
+BRN,Brunei,Brunei,Political Situation,5.0,4.711864406779661,0.5383857686192742,5,1
+BRA,Brazil,Brazil,Political Situation,7.0,6.989957034590076,0.18010884631926427,10,2
+BWA,Botswana,Botswana,Political Situation,4.0,4.03631245601689,0.4276066951805303,10,4
+BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,Political Situation,7.0,6.651223568543597,0.9499216807098032,7,3
+BOL,Bolivia,Bolivia,Political Situation,7.0,6.934972053608991,0.3814445117971404,7,3
+BTN,Bhutan,Bhutan,Political Situation,4.0,4.245398773006135,0.5540160289031779,7,4
+BEN,Benin,Benin,Political Situation,5.0,5.178471945881417,0.6315914916185872,8,5
+BLZ,Belize,Belize,Political Situation,5.0,5.184512428298279,0.5491076555109728,7,5
+BEL,Belgium,Belgium,Political Situation,2.0,1.9589598997493733,0.25748430303956277,10,1
+BLR,Belarus,Belarus,Political Situation,9.0,8.76665307786384,0.9058023364480475,9,2
+BRB,Barbados,Barbados,Political Situation,4.0,3.8125,0.3903123748998999,4,3
+BGD,Bangladesh,Bangladesh,Political Situation,9.0,8.608024691358025,1.1472689404538663,10,4
+BHR,Bahrain,Bahrain,Political Situation,7.0,6.9655172413793105,0.18246560765962694,7,6
+BHS,The Bahamas,The Bahamas,Political Situation,3.0,2.8286604361370715,0.5597516249026153,3,1
+AZE,Azerbaijan,Azerbaijan,Political Situation,7.0,6.999678146121661,0.6133898272621136,10,4
+AUT,Austria,Austria,Political Situation,1.0,1.078406003363954,0.35544413164861355,4,1
+AU1,Australia,Australia,Political Situation,2.0,2.005424842756385,0.17851569526349748,10,1
+ARM,Armenia,Armenia,Political Situation,5.0,5.37077067669173,1.188221869251999,10,4
+ARG,Argentina,Argentina,Political Situation,4.0,4.002572390049729,0.25545389492658854,10,1
+ATG,Antigua and Barbuda,Antigua and Barbuda,Political Situation,4.0,3.5,0.7416198487095663,4,1
+AGO,Angola,Angola,Political Situation,9.0,8.962437896958999,0.5141976305360538,10,4
+AND,Andorra,Andorra,Political Situation,2.0,2.0,0.0,2,2
+DZA,Algeria,Algeria,Political Situation,9.0,8.94766736210822,0.40115178563884807,10,5
+ALB,Albania,Albania,Political Situation,5.0,5.00382226469183,0.3604752277408844,10,4
+AFG,Afghanistan,Afghanistan,Political Situation,10.0,9.965474848888434,0.20887613859411644,10,7
+KAS,Kashmir,Siachen Glacier,Political Situation,5.0,5.174242424242424,0.5148729193195818,7,4
+NL1,Netherlands,Sint Maarten,Political Situation,5.0,5.0,0.0,5,5
+TUV,Tuvalu,Tuvalu,Political Situation,--,--,--,--,--

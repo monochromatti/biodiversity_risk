@@ -1,0 +1,208 @@
+SOV_A3,SOVEREIGNTY,ADMIN,RISK_TYPE,RISK_MEDIAN,RISK_MEAN,RISK_STD,RISK_MAX,RISK_MIN
+ZWE,Zimbabwe,Zimbabwe,Environmental Factors,5.0,4.61318176849929,1.5963961722387552,10,3
+ZMB,Zambia,Zambia,Environmental Factors,5.0,5.9562300605265515,1.681288624504327,10,3
+YEM,Yemen,Yemen,Environmental Factors,5.0,3.641978908490062,2.0794289636890064,8,1
+VNM,Vietnam,Vietnam,Environmental Factors,7.0,6.909403745615776,1.7880361405393328,10,3
+VEN,Venezuela,Venezuela,Environmental Factors,9.0,7.990170918236411,2.1997538244311534,10,3
+VAT,Vatican,Vatican,Environmental Factors,--,--,--,--,--
+VUT,Vanuatu,Vanuatu,Environmental Factors,8.0,8.436046511627907,1.238035402059003,10,5
+UZB,Uzbekistan,Uzbekistan,Environmental Factors,5.0,5.247581458840287,1.2357734295428948,10,1
+URY,Uruguay,Uruguay,Environmental Factors,5.0,4.714217919514047,2.218564895829317,10,1
+FSM,Federated States of Micronesia,Federated States of Micronesia,Environmental Factors,8.0,8.153846153846153,0.455083060238432,9,7
+MHL,Marshall Islands,Marshall Islands,Environmental Factors,6.0,5.75,0.4330127018922193,6,5
+US1,United States of America,United States of America,Environmental Factors,5.0,5.9560397355232535,2.6986089679992555,10,1
+GB1,United Kingdom,Jersey,Environmental Factors,6.0,5.714285714285714,0.5890150893739515,7,5
+GB1,United Kingdom,Guernsey,Environmental Factors,5.5,5.5,0.5,6,5
+GB1,United Kingdom,Isle of Man,Environmental Factors,4.0,4.166666666666667,0.41132945334843113,6,4
+GB1,United Kingdom,United Kingdom,Environmental Factors,5.0,5.210798665486485,1.6421618481806832,8,2
+ARE,United Arab Emirates,United Arab Emirates,Environmental Factors,6.0,5.621825286073123,1.8106403391611705,8,1
+UKR,Ukraine,Ukraine,Environmental Factors,5.0,4.131193874995528,1.5258134749752785,10,1
+UGA,Uganda,Uganda,Environmental Factors,7.0,6.748402948402949,2.025389495660367,10,1
+TKM,Turkmenistan,Turkmenistan,Environmental Factors,5.0,4.777676148663069,1.7303408707920944,10,1
+TUR,Turkey,Turkey,Environmental Factors,5.0,5.036780295348537,1.2959969547081134,10,2
+TUN,Tunisia,Tunisia,Environmental Factors,5.0,5.151673094965079,1.6591157378143124,8,1
+TTO,Trinidad and Tobago,Trinidad and Tobago,Environmental Factors,8.0,7.967889908256881,0.2223233177257364,8,6
+TON,Tonga,Tonga,Environmental Factors,8.0,8.0,0.0,8,8
+TGO,Togo,Togo,Environmental Factors,5.0,5.864247859763555,1.7580743246933708,10,3
+TLS,East Timor,East Timor,Environmental Factors,8.0,8.0,0.0,8,8
+THA,Thailand,Thailand,Environmental Factors,8.0,7.3897103068855845,2.055068988306156,10,3
+TZA,United Republic of Tanzania,United Republic of Tanzania,Environmental Factors,8.0,7.24573633760737,1.844108597818502,10,1
+TJK,Tajikistan,Tajikistan,Environmental Factors,5.0,5.834257547751078,1.7019823316554816,10,3
+TWN,Taiwan,Taiwan,Environmental Factors,8.0,7.964941569282137,1.877256211649406,10,5
+SYR,Syria,Syria,Environmental Factors,5.0,4.437322550116149,1.9395956465934416,8,1
+CHE,Switzerland,Switzerland,Environmental Factors,5.0,4.754732287723094,0.5568158200707207,5,3
+SWE,Sweden,Sweden,Environmental Factors,5.0,5.804900734113583,2.6021933048156165,10,2
+SWZ,eSwatini,eSwatini,Environmental Factors,8.0,7.403389830508474,1.1414085017232813,10,5
+SUR,Suriname,Suriname,Environmental Factors,10.0,9.32120717781403,1.2212463258486077,10,5
+SDS,South Sudan,South Sudan,Environmental Factors,5.0,5.679544086668673,2.079312826985887,10,1
+SDN,Sudan,Sudan,Environmental Factors,2.0,2.4630290005667863,1.7183078177597926,10,1
+LKA,Sri Lanka,Sri Lanka,Environmental Factors,10.0,9.029150373266974,1.564765987257553,10,5
+ESP,Spain,Spain,Environmental Factors,5.0,5.938678211310829,1.5002626709669946,10,3
+KOR,South Korea,South Korea,Environmental Factors,5.0,5.433875079668579,1.3133596858613785,8,3
+ZAF,South Africa,South Africa,Environmental Factors,5.0,5.368151935719503,2.203392465053695,10,1
+SOM,Somalia,Somalia,Environmental Factors,5.0,5.049548425727259,0.8736847853768736,10,3
+SOL,Somaliland,Somaliland,Environmental Factors,5.0,5.636226311452898,1.2230822417772578,10,3
+SLB,Solomon Islands,Solomon Islands,Environmental Factors,8.0,8.659111514052585,1.1922330729209833,10,5
+SVK,Slovakia,Slovakia,Environmental Factors,5.0,5.214116634387777,0.6540588457471211,7,3
+SVN,Slovenia,Slovenia,Environmental Factors,5.0,6.04875283446712,1.34219150511947,9,5
+SGP,Singapore,Singapore,Environmental Factors,5.0,5.0,0.0,5,5
+SLE,Sierra Leone,Sierra Leone,Environmental Factors,5.0,6.069066147859922,1.2540839783194897,8,5
+SYC,Seychelles,Seychelles,Environmental Factors,10.0,10.0,0.0,10,10
+SRB,Republic of Serbia,Republic of Serbia,Environmental Factors,5.0,4.673624288425048,1.6290356655900076,10,2
+SEN,Senegal,Senegal,Environmental Factors,5.0,5.611723276155856,1.9829120670317173,10,2
+SAU,Saudi Arabia,Saudi Arabia,Environmental Factors,3.0,2.990841907267887,2.264555509395003,10,1
+STP,São Tomé and Principe,São Tomé and Principe,Environmental Factors,10.0,9.333333333333334,0.9189365834726815,10,7
+SMR,San Marino,San Marino,Environmental Factors,5.0,5.0,0.0,5,5
+WSM,Samoa,Samoa,Environmental Factors,8.0,8.0,0.0,8,8
+VCT,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,Environmental Factors,8.0,8.0,0.0,8,8
+LCA,Saint Lucia,Saint Lucia,Environmental Factors,8.0,8.0,0.0,8,8
+KNA,Saint Kitts and Nevis,Saint Kitts and Nevis,Environmental Factors,8.0,8.0,0.0,8,8
+RWA,Rwanda,Rwanda,Environmental Factors,8.0,8.382159624413145,0.7760868694805633,10,5
+RUS,Russia,Russia,Environmental Factors,5.0,5.992195213433546,2.759134674656665,10,1
+ROU,Romania,Romania,Environmental Factors,5.0,5.05927999607092,0.5535713041511883,8,3
+QAT,Qatar,Qatar,Environmental Factors,5.0,5.691358024691358,1.237984689839448,7,3
+PRT,Portugal,Portugal,Environmental Factors,5.0,5.284509681449094,0.952955178814535,10,3
+POL,Poland,Poland,Environmental Factors,5.0,5.521259163432514,1.5839366213968384,9,2
+PHL,Philippines,Philippines,Environmental Factors,8.0,8.224156862745097,1.3888451878399681,10,5
+PER,Peru,Peru,Environmental Factors,10.0,8.707529835702946,1.9050360392383765,10,5
+PRY,Paraguay,Paraguay,Environmental Factors,5.0,5.721446509291813,1.972680594088903,10,2
+PNG,Papua New Guinea,Papua New Guinea,Environmental Factors,10.0,9.421437271619975,1.0691287014628796,10,5
+PAN,Panama,Panama,Environmental Factors,10.0,9.171392564587272,1.12271085381231,10,6
+PLW,Palau,Palau,Environmental Factors,8.0,8.5,0.6123724356957945,10,8
+PAK,Pakistan,Pakistan,Environmental Factors,3.0,4.176877833598824,2.0085644601773245,10,1
+OMN,Oman,Oman,Environmental Factors,5.0,4.783944831280128,2.0955961355981283,10,1
+NOR,Norway,Norway,Environmental Factors,8.0,7.215668879863604,1.9199258283797476,10,1
+PRK,North Korea,North Korea,Environmental Factors,4.0,4.1741157739110655,1.1272111091465684,8,3
+NGA,Nigeria,Nigeria,Environmental Factors,5.0,4.7733733377405985,1.8426707090094636,10,1
+NER,Niger,Niger,Environmental Factors,3.0,3.6168044782672326,3.160918496361226,10,1
+NIC,Nicaragua,Nicaragua,Environmental Factors,8.0,8.422069934985064,1.1852033935983863,10,4
+NZ1,New Zealand,New Zealand,Environmental Factors,8.0,7.874481122751532,2.1183968842851715,10,3
+NL1,Netherlands,Netherlands,Environmental Factors,7.0,6.503510045993706,1.3215436555723068,8,5
+NL1,Netherlands,Aruba,Environmental Factors,8.0,7.833333333333333,0.37267799624996495,8,7
+NL1,Netherlands,Curaçao,Environmental Factors,8.0,7.35,0.792148975887743,8,6
+NPL,Nepal,Nepal,Environmental Factors,8.0,7.971956740442656,1.3312500343903186,10,5
+NRU,Nauru,Nauru,Environmental Factors,6.0,6.0,0.0,6,6
+NAM,Namibia,Namibia,Environmental Factors,5.0,5.548889108812905,2.3186881824537733,10,1
+MOZ,Mozambique,Mozambique,Environmental Factors,5.0,5.771242366987048,1.8469682243411625,10,2
+MAR,Morocco,Morocco,Environmental Factors,5.0,4.423001350853494,1.685898483318654,10,1
+SAH,Western Sahara,Western Sahara,Environmental Factors,1.0,1.613324624428478,1.5078908879259285,8,1
+MNE,Montenegro,Montenegro,Environmental Factors,5.0,5.799623706491063,1.324321956646732,8,4
+MNG,Mongolia,Mongolia,Environmental Factors,5.0,5.60763001156928,2.28598921801187,10,1
+MDA,Moldova,Moldova,Environmental Factors,5.0,4.359587902957793,1.2652428401954667,8,1
+MCO,Monaco,Monaco,Environmental Factors,5.0,5.0,0.0,5,5
+MEX,Mexico,Mexico,Environmental Factors,5.0,6.3642492380356455,1.9265196792688393,10,3
+MUS,Mauritius,Mauritius,Environmental Factors,8.0,8.0,0.0,8,8
+MRT,Mauritania,Mauritania,Environmental Factors,1.0,1.806116887049561,1.5585342153570316,10,1
+MLT,Malta,Malta,Environmental Factors,8.0,7.933333333333334,0.2494438257849294,8,7
+MLI,Mali,Mali,Environmental Factors,3.0,2.807663165145514,2.1386372797539894,9,1
+MDV,Maldives,Maldives,Environmental Factors,5.0,5.0,0.0,5,5
+MYS,Malaysia,Malaysia,Environmental Factors,8.0,8.373595301964764,1.672788415732503,10,5
+MWI,Malawi,Malawi,Environmental Factors,8.0,6.97432993582484,1.7782136976647407,10,3
+MDG,Madagascar,Madagascar,Environmental Factors,8.0,7.466388799829005,1.7463788989676687,10,5
+MKD,North Macedonia,North Macedonia,Environmental Factors,5.0,5.856766719325961,1.5857183413394635,10,4
+LUX,Luxembourg,Luxembourg,Environmental Factors,5.0,4.938697318007663,0.33344341336451466,5,3
+LTU,Lithuania,Lithuania,Environmental Factors,5.0,5.245064018188345,1.3002199209581125,8,3
+LIE,Liechtenstein,Liechtenstein,Environmental Factors,5.0,5.0,0.0,5,5
+LBY,Libya,Libya,Environmental Factors,1.0,1.7524897446922245,1.7011962051375409,10,1
+LBR,Liberia,Liberia,Environmental Factors,8.0,7.694752402069475,1.6687199640279449,10,5
+LSO,Lesotho,Lesotho,Environmental Factors,5.0,5.2842548076923075,1.2145322669162528,8,1
+LBN,Lebanon,Lebanon,Environmental Factors,5.0,5.077175697865353,0.4276424511322414,9,5
+LVA,Latvia,Latvia,Environmental Factors,5.0,5.742863489947795,2.130261197884624,10,3
+LAO,Laos,Laos,Environmental Factors,8.0,7.378537956888472,1.7517987861277011,10,3
+KGZ,Kyrgyzstan,Kyrgyzstan,Environmental Factors,5.0,4.841903093200351,1.3830173611118322,10,2
+KWT,Kuwait,Kuwait,Environmental Factors,5.0,5.173416407061267,1.612528654150897,8,1
+KIR,Kiribati,Kiribati,Environmental Factors,8.0,7.195121951219512,1.0869404856174236,8,5
+KEN,Kenya,Kenya,Environmental Factors,7.0,6.84417148362235,1.8289169272175079,10,3
+JOR,Jordan,Jordan,Environmental Factors,5.0,5.148271798900236,1.5409476935164403,9,1
+JPN,Japan,Japan,Environmental Factors,8.0,7.286443676127684,1.2634750703280402,10,3
+JAM,Jamaica,Jamaica,Environmental Factors,8.0,7.930966469428008,0.28981333321030966,8,6
+ITA,Italy,Italy,Environmental Factors,5.0,5.418272510231923,1.0143355223652073,10,2
+IS1,Israel,Palestine,Environmental Factors,8.0,7.237837837837838,1.2292276967511715,9,5
+IRL,Ireland,Ireland,Environmental Factors,5.0,4.358229426433915,1.2436274900054185,8,2
+IRQ,Iraq,Iraq,Environmental Factors,3.0,3.8635005744925315,2.4205768930394433,10,1
+IRN,Iran,Iran,Environmental Factors,4.0,4.036108251978,2.023837225854727,10,1
+IDN,Indonesia,Indonesia,Environmental Factors,8.0,8.061278897056024,1.9223385350721856,10,3
+IND,India,India,Environmental Factors,4.0,4.490939578133038,1.9378008553652393,10,1
+ISL,Iceland,Iceland,Environmental Factors,7.0,6.339218743415786,1.4284634182816744,8,1
+HUN,Hungary,Hungary,Environmental Factors,5.0,5.186143077470637,1.2114719131697465,8,2
+HND,Honduras,Honduras,Environmental Factors,8.0,8.37686274509804,1.0831752346708399,10,5
+HTI,Haiti,Haiti,Environmental Factors,8.0,7.2221337579617835,1.2425012916757125,10,5
+GUY,Guyana,Guyana,Environmental Factors,10.0,9.453255891879817,1.1993653889338407,10,5
+GNB,Guinea-Bissau,Guinea-Bissau,Environmental Factors,5.0,5.918149466192171,1.495803664922097,8,3
+GIN,Guinea,Guinea,Environmental Factors,5.0,5.47862602623384,1.5000364499658014,10,3
+GTM,Guatemala,Guatemala,Environmental Factors,9.0,8.972742066720912,1.0407040785141202,10,5
+GRD,Grenada,Grenada,Environmental Factors,8.0,8.0,0.0,8,8
+GRC,Greece,Greece,Environmental Factors,5.0,5.974155069582505,1.355268226022727,10,3
+GHA,Ghana,Ghana,Environmental Factors,7.0,6.129293520686963,2.0446252461176946,10,2
+DEU,Germany,Germany,Environmental Factors,5.0,5.193533073108978,1.2836652828648483,10,2
+GEO,Georgia,Georgia,Environmental Factors,8.0,6.948096230346657,1.4353385306929494,10,3
+GMB,Gambia,Gambia,Environmental Factors,5.0,5.245033112582782,1.3468967886101955,8,3
+GAB,Gabon,Gabon,Environmental Factors,8.0,7.9512820512820515,1.6533926174848192,10,5
+FR1,France,France,Environmental Factors,5.0,4.837611254665518,1.6174607944735937,10,1
+FI1,Finland,Aland,Environmental Factors,5.0,5.0,0.0,5,5
+FI1,Finland,Finland,Environmental Factors,5.0,5.42220722687519,2.4807742392302776,10,2
+FJI,Fiji,Fiji,Environmental Factors,8.0,7.735849056603773,0.714431913024724,8,5
+ETH,Ethiopia,Ethiopia,Environmental Factors,6.0,6.467592306901162,1.9154325519694366,10,3
+EST,Estonia,Estonia,Environmental Factors,8.0,7.523823069264685,0.8424250333629719,10,3
+ERI,Eritrea,Eritrea,Environmental Factors,5.0,5.739107046799354,1.6080642632532467,10,1
+GNQ,Equatorial Guinea,Equatorial Guinea,Environmental Factors,10.0,8.833787465940054,1.5064448606958742,10,5
+SLV,El Salvador,El Salvador,Environmental Factors,8.0,7.842746400885936,0.6293574470462756,8,5
+EGY,Egypt,Egypt,Environmental Factors,3.0,3.33119269530954,2.0270054749549016,10,1
+ECU,Ecuador,Ecuador,Environmental Factors,10.0,8.745473212619004,1.602362727509204,10,5
+DOM,Dominican Republic,Dominican Republic,Environmental Factors,8.0,8.396825396825397,1.2575796900176037,10,5
+DMA,Dominica,Dominica,Environmental Factors,8.0,8.0,0.0,8,8
+DJI,Djibouti,Djibouti,Environmental Factors,6.0,5.60337552742616,1.6633519353001984,8,3
+DN1,Denmark,Greenland,Environmental Factors,7.0,5.435017281666829,2.9550597065764417,10,1
+DN1,Denmark,Denmark,Environmental Factors,7.0,6.4153602254712,1.0006674352128822,8,5
+CZE,Czechia,Czechia,Environmental Factors,5.0,4.84096109839817,0.48444430750133055,5,3
+CYN,Northern Cyprus,Northern Cyprus,Environmental Factors,5.0,5.408071748878924,0.8930862266909132,9,5
+CYP,Cyprus,Cyprus,Environmental Factors,8.0,7.48876404494382,1.1599048975202682,9,5
+HRV,Croatia,Croatia,Environmental Factors,5.0,5.308282208588957,1.0449208286934306,9,3
+CIV,Ivory Coast,Ivory Coast,Environmental Factors,5.0,5.784379317867791,1.9743406108761798,10,2
+CRI,Costa Rica,Costa Rica,Environmental Factors,10.0,9.217781769196229,0.9769172121057188,10,6
+COD,Democratic Republic of the Congo,Democratic Republic of the Congo,Environmental Factors,9.0,7.574080084384762,2.076354769397384,10,3
+COG,Republic of the Congo,Republic of the Congo,Environmental Factors,9.0,8.023500309214596,1.900246503885032,10,5
+COM,Comoros,Comoros,Environmental Factors,8.0,7.861538461538461,0.3453837587791331,8,7
+COL,Colombia,Colombia,Environmental Factors,8.0,8.091659047460727,2.0796653924156474,10,3
+CH1,China,China,Environmental Factors,5.0,4.325322037106245,2.0071258582689078,10,1
+CH1,China,Macao S.A.R,Environmental Factors,5.0,5.0,0.0,5,5
+CH1,China,Hong Kong S.A.R.,Environmental Factors,8.0,7.6938775510204085,0.6129247925584165,8,6
+CHL,Chile,Chile,Environmental Factors,8.0,7.6618478944060335,2.016532848624783,10,3
+TCD,Chad,Chad,Environmental Factors,3.0,3.9769875204227065,2.9661405162760395,10,1
+CAF,Central African Republic,Central African Republic,Environmental Factors,5.0,6.231430953463696,1.9403493772762972,10,3
+CPV,Cabo Verde,Cabo Verde,Environmental Factors,8.0,8.0,0.0,8,8
+CAN,Canada,Canada,Environmental Factors,5.0,5.240330587990874,3.2789111239908073,10,1
+CMR,Cameroon,Cameroon,Environmental Factors,8.0,7.0302018515708,2.127267694749848,10,3
+KHM,Cambodia,Cambodia,Environmental Factors,8.0,8.23483709273183,1.632299118439299,10,5
+MMR,Myanmar,Myanmar,Environmental Factors,7.0,7.031242205038663,1.9822162018924365,10,3
+BDI,Burundi,Burundi,Environmental Factors,8.0,7.433333333333334,1.3487919654571907,10,5
+BFA,Burkina Faso,Burkina Faso,Environmental Factors,3.0,4.360133444537114,1.8662746671247747,10,2
+BGR,Bulgaria,Bulgaria,Environmental Factors,5.0,5.729708070978821,1.246992524249054,8,3
+BRN,Brunei,Brunei,Environmental Factors,10.0,9.720338983050848,0.8118360987244817,10,6
+BRA,Brazil,Brazil,Environmental Factors,6.0,6.997559628447457,2.480277750546354,10,2
+BWA,Botswana,Botswana,Environmental Factors,5.0,6.020795214637579,2.7135383338953725,10,1
+BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,Environmental Factors,5.0,4.9477310525065334,1.0381761187259404,8,1
+BOL,Bolivia,Bolivia,Environmental Factors,9.0,7.8981108640342965,2.2374060367920556,10,3
+BTN,Bhutan,Bhutan,Environmental Factors,10.0,9.359603586597451,1.2804077901276993,10,5
+BEN,Benin,Benin,Environmental Factors,5.0,5.7875049741345,1.6696451553436031,10,3
+BLZ,Belize,Belize,Environmental Factors,10.0,9.548757170172085,1.0099946918443439,10,5
+BEL,Belgium,Belgium,Environmental Factors,5.0,4.140037593984962,1.0691040441572133,8,2
+BLR,Belarus,Belarus,Environmental Factors,5.0,4.955360782715043,1.7891291982691422,10,1
+BRB,Barbados,Barbados,Environmental Factors,8.0,8.0,0.0,8,8
+BGD,Bangladesh,Bangladesh,Environmental Factors,5.0,5.426807760141093,1.5156711398572251,10,1
+BHR,Bahrain,Bahrain,Environmental Factors,5.0,5.0,0.0,5,5
+BHS,The Bahamas,The Bahamas,Environmental Factors,8.0,7.666666666666667,0.8209358183566188,10,6
+AZE,Azerbaijan,Azerbaijan,Environmental Factors,5.0,6.122143546829739,1.8145556852080869,10,2
+AUT,Austria,Austria,Environmental Factors,5.0,5.302367706042179,1.23614676581073,10,3
+AU1,Australia,Australia,Environmental Factors,5.0,5.602923318645698,1.7623323724326365,10,1
+ARM,Armenia,Armenia,Environmental Factors,8.0,7.715225563909774,1.2705873611656955,10,3
+ARG,Argentina,Argentina,Environmental Factors,5.0,5.42705001191948,1.9711045931452422,10,1
+ATG,Antigua and Barbuda,Antigua and Barbuda,Environmental Factors,8.0,8.0,0.0,8,8
+AGO,Angola,Angola,Environmental Factors,5.0,5.453857213052103,1.8740105882286406,10,2
+AND,Andorra,Andorra,Environmental Factors,5.0,5.0,0.0,5,5
+DZA,Algeria,Algeria,Environmental Factors,1.0,2.81961621145654,2.5752700029696483,10,1
+ALB,Albania,Albania,Environmental Factors,8.0,6.950310559006211,1.3925664877855273,10,5
+AFG,Afghanistan,Afghanistan,Environmental Factors,3.0,3.5755557832189324,1.856509399348542,10,1
+KAS,Kashmir,Siachen Glacier,Environmental Factors,5.0,4.992424242424242,0.08670850865348179,5,4
+NL1,Netherlands,Sint Maarten,Environmental Factors,8.0,8.0,0.0,8,8
+TUV,Tuvalu,Tuvalu,Environmental Factors,--,--,--,--,--

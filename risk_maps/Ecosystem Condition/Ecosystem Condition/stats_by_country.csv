@@ -1,0 +1,208 @@
+SOV_A3,SOVEREIGNTY,ADMIN,RISK_TYPE,RISK_MEDIAN,RISK_MEAN,RISK_STD,RISK_MAX,RISK_MIN
+ZWE,Zimbabwe,Zimbabwe,Ecosystem Condition,7.0,7.065198382336868,1.3763618605754449,9,2
+ZMB,Zambia,Zambia,Ecosystem Condition,4.0,4.456155520438892,2.3670610315272245,9,1
+YEM,Yemen,Yemen,Ecosystem Condition,5.0,5.368275258784079,1.0308741748226067,9,3
+VNM,Vietnam,Vietnam,Ecosystem Condition,6.0,5.8493150684931505,1.8644043554850698,10,2
+VEN,Venezuela,Venezuela,Ecosystem Condition,4.0,3.961812862495509,2.514941122419693,9,1
+VAT,Vatican,Vatican,Ecosystem Condition,--,--,--,--,--
+VUT,Vanuatu,Vanuatu,Ecosystem Condition,4.0,4.327519379844961,0.8255245276479994,9,4
+UZB,Uzbekistan,Uzbekistan,Ecosystem Condition,5.0,5.8259243872039885,1.8562890461749468,10,2
+URY,Uruguay,Uruguay,Ecosystem Condition,8.0,7.4207479119210324,1.8130083531984815,10,3
+FSM,Federated States of Micronesia,Federated States of Micronesia,Ecosystem Condition,5.0,5.1923076923076925,0.39411349099844606,6,5
+MHL,Marshall Islands,Marshall Islands,Ecosystem Condition,4.0,4.0,0.0,4,4
+US1,United States of America,United States of America,Ecosystem Condition,6.0,5.459280579985895,3.1050381035564683,10,1
+GB1,United Kingdom,Jersey,Ecosystem Condition,6.0,5.857142857142857,0.8329931278350429,8,5
+GB1,United Kingdom,Guernsey,Ecosystem Condition,5.5,5.5,0.5,6,5
+GB1,United Kingdom,Isle of Man,Ecosystem Condition,7.0,7.166666666666667,0.37267799624996495,8,7
+GB1,United Kingdom,United Kingdom,Ecosystem Condition,6.0,6.263566419282358,1.592728215413125,10,2
+ARE,United Arab Emirates,United Arab Emirates,Ecosystem Condition,5.0,5.178063075634943,1.1851245364214051,8,4
+UKR,Ukraine,Ukraine,Ecosystem Condition,7.0,6.57833351221781,2.066393233249367,10,2
+UGA,Uganda,Uganda,Ecosystem Condition,3.0,3.7792628992628994,2.0576034930994798,10,2
+TKM,Turkmenistan,Turkmenistan,Ecosystem Condition,7.0,6.729229549681393,2.183495849443721,10,1
+TUR,Turkey,Turkey,Ecosystem Condition,7.0,6.70031894692207,1.607487896985313,10,2
+TUN,Tunisia,Tunisia,Ecosystem Condition,6.0,5.883143959136871,1.607861575137211,8,3
+TTO,Trinidad and Tobago,Trinidad and Tobago,Ecosystem Condition,4.0,4.027522935779817,0.23299862567339988,6,3
+TON,Tonga,Tonga,Ecosystem Condition,5.0,5.0,0.0,5,5
+TGO,Togo,Togo,Ecosystem Condition,7.0,5.927028128821851,1.8491784885111127,9,3
+TLS,East Timor,East Timor,Ecosystem Condition,3.0,3.4608150470219434,0.6607210559341804,6,3
+THA,Thailand,Thailand,Ecosystem Condition,6.0,5.901401186280409,1.6580313398926847,10,2
+TZA,United Republic of Tanzania,United Republic of Tanzania,Ecosystem Condition,3.0,3.1460226565417653,1.6087382534353716,10,1
+TJK,Tajikistan,Tajikistan,Ecosystem Condition,6.0,5.952351612240706,2.3293666474027694,10,2
+TWN,Taiwan,Taiwan,Ecosystem Condition,7.0,7.015025041736227,0.1644442655033625,9,6
+SYR,Syria,Syria,Ecosystem Condition,7.0,6.886260001720726,1.6717571791164691,10,4
+CHE,Switzerland,Switzerland,Ecosystem Condition,7.0,6.83829096809086,0.5012957787503814,8,6
+SWE,Sweden,Sweden,Ecosystem Condition,5.0,4.952996800017716,1.9590253986093724,10,1
+SWZ,eSwatini,eSwatini,Ecosystem Condition,8.0,7.694915254237288,1.4743099960895498,9,4
+SUR,Suriname,Suriname,Ecosystem Condition,2.0,2.1866231647634584,1.4781995518506466,7,1
+SDS,South Sudan,South Sudan,Ecosystem Condition,4.0,5.099984953355402,2.4417548436720153,10,1
+SDN,Sudan,Sudan,Ecosystem Condition,4.0,4.712710183260911,2.291937705842569,10,1
+LKA,Sri Lanka,Sri Lanka,Ecosystem Condition,5.0,5.188410949164593,0.42418119067796833,6,4
+ESP,Spain,Spain,Ecosystem Condition,8.0,7.778825076720737,1.3949660941615811,10,3
+KOR,South Korea,South Korea,Ecosystem Condition,7.0,6.318992989165073,1.11377721605924,9,4
+ZAF,South Africa,South Africa,Ecosystem Condition,9.0,8.220673514109807,1.6709020932597454,10,3
+SOM,Somalia,Somalia,Ecosystem Condition,5.0,5.342497879347338,1.7625227461298796,10,2
+SOL,Somaliland,Somaliland,Ecosystem Condition,5.0,5.274787146388355,1.465390853768656,9,3
+SLB,Solomon Islands,Solomon Islands,Ecosystem Condition,4.0,4.451495920217589,0.7296064039899193,9,4
+SVK,Slovakia,Slovakia,Ecosystem Condition,6.0,5.823326877555412,0.8523378104729505,9,4
+SVN,Slovenia,Slovenia,Ecosystem Condition,5.0,4.98469387755102,1.451909903060967,7,2
+SGP,Singapore,Singapore,Ecosystem Condition,6.0,6.136363636363637,0.3431742925123068,7,6
+SLE,Sierra Leone,Sierra Leone,Ecosystem Condition,4.0,3.973086900129702,0.859969800979213,8,2
+SYC,Seychelles,Seychelles,Ecosystem Condition,5.0,5.0,0.0,5,5
+SRB,Republic of Serbia,Republic of Serbia,Ecosystem Condition,8.0,7.721062618595825,1.3207794391503072,9,4
+SEN,Senegal,Senegal,Ecosystem Condition,4.0,4.955469726229694,2.063199571585177,9,2
+SAU,Saudi Arabia,Saudi Arabia,Ecosystem Condition,4.0,4.824577812952894,1.2374544171308461,9,1
+STP,São Tomé and Principe,São Tomé and Principe,Ecosystem Condition,4.0,4.177777777777778,0.3823255674241168,5,4
+SMR,San Marino,San Marino,Ecosystem Condition,6.0,6.0,0.0,6,6
+WSM,Samoa,Samoa,Ecosystem Condition,3.0,3.0,0.0,3,3
+VCT,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,Ecosystem Condition,5.0,5.142857142857143,0.3499271061118826,6,5
+LCA,Saint Lucia,Saint Lucia,Ecosystem Condition,5.0,5.208333333333333,0.40611643103370687,6,5
+KNA,Saint Kitts and Nevis,Saint Kitts and Nevis,Ecosystem Condition,6.0,6.363636363636363,0.4810456929208347,7,6
+RWA,Rwanda,Rwanda,Ecosystem Condition,7.0,5.8553990610328635,1.6403742431688266,7,2
+RUS,Russia,Russia,Ecosystem Condition,2.0,2.8876651423130744,2.0643713837224396,10,1
+ROU,Romania,Romania,Ecosystem Condition,7.0,7.122980207258975,1.2742044392673604,9,4
+QAT,Qatar,Qatar,Ecosystem Condition,5.0,4.62257495590829,0.5527405516130374,6,4
+PRT,Portugal,Portugal,Ecosystem Condition,7.0,7.398188632104935,1.2407445597227655,10,5
+POL,Poland,Poland,Ecosystem Condition,6.0,5.7840160988932015,1.647036732181011,9,2
+PHL,Philippines,Philippines,Ecosystem Condition,4.0,4.8192941176470585,1.4554738773377063,10,3
+PER,Peru,Peru,Ecosystem Condition,2.0,2.726118058404838,1.7849693972616136,10,1
+PRY,Paraguay,Paraguay,Ecosystem Condition,4.0,5.235961828227022,2.6733749771604725,9,2
+PNG,Papua New Guinea,Papua New Guinea,Ecosystem Condition,3.0,3.325111652456354,0.9137415428354779,8,2
+PAN,Panama,Panama,Ecosystem Condition,4.0,4.3799621928166355,1.0938571671092507,7,2
+PLW,Palau,Palau,Ecosystem Condition,6.0,5.5625,0.49607837082461076,6,5
+PAK,Pakistan,Pakistan,Ecosystem Condition,6.0,6.105685577747825,2.2966942547405167,10,1
+OMN,Oman,Oman,Ecosystem Condition,4.0,4.313202999464381,0.7478247498498946,9,3
+NOR,Norway,Norway,Ecosystem Condition,4.0,4.458048597923568,1.6780697731827472,10,1
+PRK,North Korea,North Korea,Ecosystem Condition,7.0,6.0471966336858864,1.5422851958287145,9,3
+NGA,Nigeria,Nigeria,Ecosystem Condition,5.0,5.069414427013146,2.186134319894448,9,1
+NER,Niger,Niger,Ecosystem Condition,4.0,3.7319808283330893,1.8458060724250258,9,1
+NIC,Nicaragua,Nicaragua,Ecosystem Condition,3.0,3.5155508697944122,1.5509489303119024,8,2
+NZ1,New Zealand,New Zealand,Ecosystem Condition,5.0,5.652203992883969,1.688891003528246,9,2
+NL1,Netherlands,Netherlands,Ecosystem Condition,6.0,6.610263858629872,1.7178435314504454,10,4
+NL1,Netherlands,Aruba,Ecosystem Condition,5.5,5.5,0.5,6,5
+NL1,Netherlands,Curaçao,Ecosystem Condition,5.5,5.5,0.5,6,5
+NPL,Nepal,Nepal,Ecosystem Condition,4.0,4.2152917505030185,2.0584217659145314,10,1
+NRU,Nauru,Nauru,Ecosystem Condition,7.0,7.0,0.0,7,7
+NAM,Namibia,Namibia,Ecosystem Condition,5.0,4.939804047701519,2.2367347663424604,10,2
+MOZ,Mozambique,Mozambique,Ecosystem Condition,4.0,4.428680960595854,2.0463294084304264,9,1
+MAR,Morocco,Morocco,Ecosystem Condition,7.0,6.209689303696426,1.9999372308072934,10,1
+SAH,Western Sahara,Western Sahara,Ecosystem Condition,4.0,4.246462007402569,0.4314555962696809,6,4
+MNE,Montenegro,Montenegro,Ecosystem Condition,7.0,6.867356538099718,1.4096486728532116,9,3
+MNG,Mongolia,Mongolia,Ecosystem Condition,5.0,4.749796466370531,1.8567857792627052,10,1
+MDA,Moldova,Moldova,Ecosystem Condition,7.0,6.923230309072782,2.5142509210597472,10,2
+MCO,Monaco,Monaco,Ecosystem Condition,4.0,4.0,0.0,4,4
+MEX,Mexico,Mexico,Ecosystem Condition,6.0,5.892255212643562,2.022704115889772,10,2
+MUS,Mauritius,Mauritius,Ecosystem Condition,3.0,3.0,0.0,3,3
+MRT,Mauritania,Mauritania,Ecosystem Condition,4.0,4.4121530231149695,1.1728351206584926,9,2
+MLT,Malta,Malta,Ecosystem Condition,9.0,9.0,0.0,9,9
+MLI,Mali,Mali,Ecosystem Condition,4.0,4.688565524367143,1.9694266740054414,10,2
+MDV,Maldives,Maldives,Ecosystem Condition,5.0,5.0,0.0,5,5
+MYS,Malaysia,Malaysia,Ecosystem Condition,4.0,4.189588921916914,1.4384398939775138,9,2
+MWI,Malawi,Malawi,Ecosystem Condition,5.0,4.708569271423179,2.11450396561189,9,1
+MDG,Madagascar,Madagascar,Ecosystem Condition,5.0,4.566848348829753,1.0501362370656737,10,3
+MKD,North Macedonia,North Macedonia,Ecosystem Condition,7.0,6.938915218536072,0.34719531128167486,8,5
+LUX,Luxembourg,Luxembourg,Ecosystem Condition,7.0,7.065134099616858,0.24676233238474513,8,7
+LTU,Lithuania,Lithuania,Ecosystem Condition,6.0,5.474452554744525,1.64963238914544,9,2
+LIE,Liechtenstein,Liechtenstein,Ecosystem Condition,7.0,7.0,0.0,7,7
+LBY,Libya,Libya,Ecosystem Condition,3.0,3.297677013003614,1.5335703069502757,8,1
+LBR,Liberia,Liberia,Ecosystem Condition,3.0,3.7644740083764474,1.273494372283391,8,2
+LSO,Lesotho,Lesotho,Ecosystem Condition,9.0,8.117788461538462,1.118279462053864,10,6
+LBN,Lebanon,Lebanon,Ecosystem Condition,7.0,7.561576354679803,0.8633581727660599,9,7
+LVA,Latvia,Latvia,Ecosystem Condition,4.0,3.987892924580695,2.0107917312624166,9,2
+LAO,Laos,Laos,Ecosystem Condition,5.0,5.060074976569822,1.9694596983137231,9,2
+KGZ,Kyrgyzstan,Kyrgyzstan,Ecosystem Condition,8.0,6.868522137610351,2.1509903919942945,10,2
+KWT,Kuwait,Kuwait,Ecosystem Condition,5.0,5.420560747663552,1.0854809277184756,7,3
+KIR,Kiribati,Kiribati,Ecosystem Condition,3.0,4.634146341463414,2.0333331707967153,8,3
+KEN,Kenya,Kenya,Ecosystem Condition,4.0,3.855330764290302,1.6651077978871842,8,1
+JOR,Jordan,Jordan,Ecosystem Condition,5.0,5.514925373134329,1.0854918476814612,9,2
+JPN,Japan,Japan,Ecosystem Condition,5.0,5.714279971054113,1.0574170841518205,9,3
+JAM,Jamaica,Jamaica,Ecosystem Condition,4.0,4.06508875739645,0.2696043964472075,6,4
+ITA,Italy,Italy,Ecosystem Condition,7.0,6.600912346521146,1.189267111189712,9,2
+IS1,Israel,Palestine,Ecosystem Condition,7.0,6.805405405405406,0.9472423548858552,9,4
+IRL,Ireland,Ireland,Ecosystem Condition,6.0,6.2386533665835415,1.5079679253502627,10,4
+IRQ,Iraq,Iraq,Ecosystem Condition,6.0,6.177747989276139,2.226559429526227,10,2
+IRN,Iran,Iran,Ecosystem Condition,5.0,5.555368412297391,1.784301516532049,10,1
+IDN,Indonesia,Indonesia,Ecosystem Condition,3.0,3.632974064059108,1.3528170761556393,9,1
+IND,India,India,Ecosystem Condition,7.0,7.106292435992708,1.8730505976106444,10,1
+ISL,Iceland,Iceland,Ecosystem Condition,4.0,4.622434789937213,1.3194271897808885,10,3
+HUN,Hungary,Hungary,Ecosystem Condition,6.0,6.66828805314984,1.810206015238793,9,4
+HND,Honduras,Honduras,Ecosystem Condition,4.0,3.809607843137255,1.3179104982915617,7,2
+HTI,Haiti,Haiti,Ecosystem Condition,6.0,6.297770700636943,0.4941003517635713,7,5
+GUY,Guyana,Guyana,Ecosystem Condition,1.0,1.4761532447224395,0.7800109916362782,5,1
+GNB,Guinea-Bissau,Guinea-Bissau,Ecosystem Condition,4.0,3.595017793594306,0.5535811105400302,7,3
+GIN,Guinea,Guinea,Ecosystem Condition,4.0,4.993016891573086,1.9183946699884729,9,1
+GTM,Guatemala,Guatemala,Ecosystem Condition,3.0,3.313873067534581,1.7447290057944018,7,1
+GRD,Grenada,Grenada,Ecosystem Condition,5.0,5.384615384615385,0.4865042554105199,6,5
+GRC,Greece,Greece,Ecosystem Condition,6.0,6.1345261762756795,1.1293691202695635,9,4
+GHA,Ghana,Ghana,Ecosystem Condition,5.0,5.7219945355191255,2.1091637361419253,9,2
+DEU,Germany,Germany,Ecosystem Condition,7.0,6.635694693533073,1.4402402149735283,10,2
+GEO,Georgia,Georgia,Ecosystem Condition,6.0,5.951316537222959,1.7925403904370019,9,2
+GMB,Gambia,Gambia,Ecosystem Condition,3.0,3.437086092715232,0.5858089134656204,7,3
+GAB,Gabon,Gabon,Ecosystem Condition,3.0,2.9147435897435896,1.1058298013882588,8,1
+FR1,France,France,Ecosystem Condition,7.0,6.200899607617954,1.8700604772319442,10,1
+FI1,Finland,Aland,Ecosystem Condition,4.0,4.34375,0.6547602137424051,7,4
+FI1,Finland,Finland,Ecosystem Condition,5.0,4.922875401897352,1.6415650607928813,9,1
+FJI,Fiji,Fiji,Ecosystem Condition,4.0,4.326650943396227,0.9445209981230361,9,4
+ETH,Ethiopia,Ethiopia,Ecosystem Condition,4.0,4.152319243031986,2.025727133836656,10,1
+EST,Estonia,Estonia,Ecosystem Condition,3.0,3.3756222443464656,1.382221556733534,9,1
+ERI,Eritrea,Eritrea,Ecosystem Condition,4.0,4.116550116550116,1.71474019820116,9,2
+GNQ,Equatorial Guinea,Equatorial Guinea,Ecosystem Condition,2.0,2.4432334241598546,0.7868712050766239,5,2
+SLV,El Salvador,El Salvador,Ecosystem Condition,5.0,5.040974529346622,1.924799954344877,7,3
+EGY,Egypt,Egypt,Ecosystem Condition,4.0,4.099530196256725,2.4865595682722743,10,1
+ECU,Ecuador,Ecuador,Ecosystem Condition,4.0,3.8915437745006534,1.8834327231571388,9,1
+DOM,Dominican Republic,Dominican Republic,Ecosystem Condition,6.0,6.094797178130511,0.2929345885159408,7,6
+DMA,Dominica,Dominica,Ecosystem Condition,7.0,7.0,0.0,7,7
+DJI,Djibouti,Djibouti,Ecosystem Condition,4.0,4.439873417721519,0.7965993021036033,7,2
+DN1,Denmark,Greenland,Ecosystem Condition,4.0,3.6363656032626923,0.7645601178043321,8,1
+DN1,Denmark,Denmark,Ecosystem Condition,4.0,4.766425929187951,1.2389572674082996,10,4
+CZE,Czechia,Czechia,Ecosystem Condition,6.0,6.22095092804475,0.7345308929721841,9,5
+CYN,Northern Cyprus,Northern Cyprus,Ecosystem Condition,7.0,6.475336322869955,0.5745512960734338,7,5
+CYP,Cyprus,Cyprus,Ecosystem Condition,6.0,5.943820224719101,0.7732835368446723,7,5
+HRV,Croatia,Croatia,Ecosystem Condition,6.0,5.845311130587204,1.781981441190473,9,2
+CIV,Ivory Coast,Ivory Coast,Ecosystem Condition,5.0,5.58461202821613,2.023052799608292,9,1
+CRI,Costa Rica,Costa Rica,Ecosystem Condition,4.0,4.263583295913786,1.5383551017510049,8,2
+COD,Democratic Republic of the Congo,Democratic Republic of the Congo,Ecosystem Condition,2.0,2.230009331007343,1.016546583278926,10,1
+COG,Republic of the Congo,Republic of the Congo,Ecosystem Condition,2.0,2.1832611832611835,0.6713012694523511,9,1
+COM,Comoros,Comoros,Ecosystem Condition,4.0,4.2153846153846155,0.41108889895038114,5,4
+COL,Colombia,Colombia,Ecosystem Condition,4.0,3.9439988363394565,2.384903884389485,10,1
+CH1,China,China,Ecosystem Condition,7.0,6.234450712403341,2.228764726771639,10,1
+CH1,China,Macao S.A.R,Ecosystem Condition,9.0,9.0,0.0,9,9
+CH1,China,Hong Kong S.A.R.,Ecosystem Condition,8.0,8.16326530612245,0.36960755665867,9,8
+CHL,Chile,Chile,Ecosystem Condition,3.0,3.4241090985277034,1.8212053169296027,10,1
+TCD,Chad,Chad,Ecosystem Condition,3.0,3.3783154308756562,1.5431904696861583,9,1
+CAF,Central African Republic,Central African Republic,Ecosystem Condition,2.0,2.56408215855692,0.8858323738801986,7,1
+CPV,Cabo Verde,Cabo Verde,Ecosystem Condition,3.0,3.0,0.0,3,3
+CAN,Canada,Canada,Ecosystem Condition,3.0,3.5672931662876586,1.8328678180936033,10,1
+CMR,Cameroon,Cameroon,Ecosystem Condition,3.0,3.773106692973137,2.0331071637053113,8,1
+KHM,Cambodia,Cambodia,Ecosystem Condition,4.0,4.889473684210526,2.076316980664248,9,2
+MMR,Myanmar,Myanmar,Ecosystem Condition,4.0,3.594911449239212,1.7687023083932918,9,1
+BDI,Burundi,Burundi,Ecosystem Condition,3.0,3.7649122807017545,1.6348712303033979,7,2
+BFA,Burkina Faso,Burkina Faso,Ecosystem Condition,6.0,6.013761467889908,1.6722413419533562,9,1
+BGR,Bulgaria,Bulgaria,Ecosystem Condition,7.0,7.092157985117344,1.349290675105975,10,3
+BRN,Brunei,Brunei,Ecosystem Condition,4.0,4.063559322033898,0.5369665668722061,8,3
+BRA,Brazil,Brazil,Ecosystem Condition,4.0,4.140983902576331,2.7558510089658257,10,1
+BWA,Botswana,Botswana,Ecosystem Condition,4.0,4.233990147783251,2.182667678676671,10,2
+BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,Ecosystem Condition,6.0,5.444523639819434,2.289111700166022,9,2
+BOL,Bolivia,Bolivia,Ecosystem Condition,2.0,3.0993649458100445,2.1179020143103244,10,1
+BTN,Bhutan,Bhutan,Ecosystem Condition,2.0,3.147239263803681,1.984610606375899,9,2
+BEN,Benin,Benin,Ecosystem Condition,3.0,3.841623557500995,1.410828197231407,8,2
+BLZ,Belize,Belize,Ecosystem Condition,3.0,2.9435946462715106,0.9618298785281438,7,1
+BEL,Belgium,Belgium,Ecosystem Condition,8.0,7.451127819548872,1.0576099603699332,10,4
+BLR,Belarus,Belarus,Ecosystem Condition,6.0,5.308724011414594,1.9162343433847315,9,2
+BRB,Barbados,Barbados,Ecosystem Condition,5.0,5.1875,0.3903123748998999,6,5
+BGD,Bangladesh,Bangladesh,Ecosystem Condition,5.0,5.1306584362139915,1.9632441391739457,10,2
+BHR,Bahrain,Bahrain,Ecosystem Condition,5.0,5.344827586206897,0.47531202593414557,6,5
+BHS,The Bahamas,The Bahamas,Ecosystem Condition,5.0,4.940809968847352,1.045499760370556,9,4
+AZE,Azerbaijan,Azerbaijan,Ecosystem Condition,9.0,7.564531702607017,1.8032273925295017,10,1
+AUT,Austria,Austria,Ecosystem Condition,6.0,5.856255660499418,1.5569285144546998,8,2
+AU1,Australia,Australia,Ecosystem Condition,5.0,4.953339908900311,1.8051639153451495,10,2
+ARM,Armenia,Armenia,Ecosystem Condition,9.0,7.960056390977444,1.1474073408526781,9,6
+ARG,Argentina,Argentina,Ecosystem Condition,5.0,5.1607023068351285,2.1055816068650004,10,1
+ATG,Antigua and Barbuda,Antigua and Barbuda,Ecosystem Condition,6.0,6.3,0.45825756949558405,7,6
+AGO,Angola,Angola,Ecosystem Condition,3.0,3.5495641412946553,1.646619353160719,10,1
+AND,Andorra,Andorra,Ecosystem Condition,7.0,7.0,0.0,7,7
+DZA,Algeria,Algeria,Ecosystem Condition,4.0,3.9546085563109337,1.9964554024947034,10,1
+ALB,Albania,Albania,Ecosystem Condition,5.0,5.459627329192546,1.0418474048355753,8,4
+AFG,Afghanistan,Afghanistan,Ecosystem Condition,6.0,6.063953488372093,2.1592743299764976,10,2
+KAS,Kashmir,Siachen Glacier,Ecosystem Condition,2.0,2.628787878787879,1.3223332399319143,7,1
+NL1,Netherlands,Sint Maarten,Ecosystem Condition,6.0,6.0,0.0,6,6
+TUV,Tuvalu,Tuvalu,Ecosystem Condition,--,--,--,--,--
