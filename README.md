@@ -4,4 +4,4 @@ The [World Wildlife Fund (WWF)](https://www.worldwildlife.org/about/) has create
 
 This project involves (1) Retrieval of biodiversity risk data from the colored map Leaflets on riskfilter.org, and (2) tools to evaluate the risk at geographic locations and in geographic regions.
 
-An example of the usage of this tool is given in the Jupyter notebook `riskbook.ipynb`, which can alternatively be viewer [here](https://nbviewer.org/github/monochromatti/biodiversity_risk/blob/main/riskbook.ipynb).
+An example of the usage of this tool is given in the Jupyter notebook `riskbook.ipynb`, which can alternatively be viewed [here](https://nbviewer.org/github/monochromatti/biodiversity_risk/blob/main/riskbook.ipynb).
